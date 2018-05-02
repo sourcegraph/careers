@@ -32,4 +32,4 @@ We are searching for a creative, self-motivated visionary who can brainstorm ide
   - Experience using Figma, Sketch or any other vector-based design tools to deliver product ideas from conception to mockups and finished renderings.
   - The ability to learn quickly and succeed in a fast paced, iterative environment.
 
-  ## [Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADE_fALePiTUX)
+  #[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADE_fALePiTUX)
