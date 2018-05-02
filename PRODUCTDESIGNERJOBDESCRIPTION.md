@@ -1,4 +1,4 @@
-# Product Designer 
+# Designer 
 
 ### About the Company
 From sustainable energy systems to self-driving cars, the innovations of the future will all rely on code. With so much software to write, developers need a better way to access, understand, and collaborate on code.
@@ -12,7 +12,7 @@ Our founders featured on [Forbes “30 under 30” 2017](https://text.sourcegrap
 
 
 ### About the Role
-We are searching for a creative, self-motivated visionary who can brainstorm ideas and bring them to life. We highly value Product Design within our organization, as it impacts all aspects of Sourcegraph’s product. You'll have creative autonomy and a strong influence over the product’s development.
+We are searching for a creative, self-motivated visionary who can brainstorm ideas and bring them to life. We highly value  design within our organization, as it impacts all aspects of Sourcegraph’s product. You'll have creative autonomy and a strong influence over the product’s development.
 
 ### Responsibilities
   - Contribute to overall strategy and decision-making about Sourcegraph’s features.
@@ -25,6 +25,7 @@ We are searching for a creative, self-motivated visionary who can brainstorm ide
 
 ### Ideal Candidates Have
   - A strong online portfolio to show off their skillset and years of experience designing digital products.
+  - Experience as a programmer in order to understand the product and user need.
   - The ability to collaborate with several teams through all steps of the design process.
   - An understanding and passion of what makes great user experience.
   - A knack for giving and receiving feedback, and explaining the reasoning behind their designs.
