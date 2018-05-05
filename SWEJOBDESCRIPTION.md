@@ -41,7 +41,7 @@ Our interview process can adapt to your preferences, so don't hesitate to tell u
 
 A typical interview process looks like this:
 
-1.  You apply.
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
 3.  We schedule a 1 hour technical phone screen to see how you code. If you have any public code that you can share with us (e.g. open source), we would love to look at that too!
 4.  Depending on the circumstances, we will propose one of the following:
