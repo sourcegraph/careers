@@ -14,7 +14,11 @@ Our founders featured on [Forbes “30 under 30” 2017](https://text.sourcegrap
 
 ### About the Role
 
-You will help build Sourcegraph, a multi-tier application (web, CLI, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend). You will have the freedom to creatively tackle various CS challenges while building products that are fundamental to the growth and success of the business. As a senior member of the team, you will help set the technical direction of various projects as well as mentor other team members. This is a full-stack role and ideal candidates should feel comfortable (though not equally skilled) at all layers of the stack.
+You will help build Sourcegraph, a multi-tier application (web, CLI, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend). You will have the freedom to creatively tackle various CS challenges while building products that are fundamental to the growth and success of the business.
+
+You will have the opportunity to interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
+
+As a senior member of the team, you will help set the technical direction of various projects as well as mentor other team members. This is a full-stack role and ideal candidates should feel comfortable (though not equally skilled) at all layers of the stack.
 
 ### Example projects:
 
@@ -45,8 +49,14 @@ A typical interview process looks like this:
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
 3.  We schedule a 1 hour technical phone screen to see how you code. If you have any public code that you can share with us (e.g. open source), we would love to look at that too!
 4.  Depending on the circumstances, we will propose one of the following:
+
     * We bring you onsite to our San Francisco office for 4-5 hours of interviews and to meet more of the team.
+
+      * Bring your laptop (we can also provide one) so you can write code in a familiar environment (no whiteboard coding here).
+      * We avoid trick questions and problems that require a single epiphany to solve.
+
     * We pay you to work on a real project and evaluate your performance based on that.
+
 5.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
