@@ -56,8 +56,10 @@ A typical interview process looks like this:
       * We avoid trick questions and problems that require a single epiphany to solve.
 
     * We pay you to work on a real project and evaluate your performance based on that.
+    
+5.  We check your references.
 
-5.  We make you a job offer.
+6.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
 
