@@ -20,6 +20,8 @@ You will have the opportunity to interact directly with our customers to help th
 
 As a senior member of the team, you will help set the technical direction of various projects as well as mentor other team members. This is a full-stack role and ideal candidates should feel comfortable (though not equally skilled) at all layers of the stack.
 
+**This position can be onsite or remote**
+
 ### Example projects:
 
 * Reduce P95 latency of "code intelligence" requests (e.g. hover tooltips, find references, go-to-definition)
@@ -41,24 +43,20 @@ As a senior member of the team, you will help set the technical direction of var
 
 ### Interview process
 
-Our interview process can adapt to your preferences, so don't hesitate to tell us what works best for you.
-
-A typical interview process looks like this:
-
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
-3.  We schedule a 1 hour technical phone screen to see how you code. If you have any public code that you can share with us (e.g. open source), we would love to look at that too!
-4.  Depending on the circumstances, we will propose one of the following:
+3.  We collect a sample of how you code. This could come from one or more sources:
 
-    * We bring you onsite to our San Francisco office for 4-5 hours of interviews and to meet more of the team.
-
-      * Bring your laptop (we can also provide one) so you can write code in a familiar environment (no whiteboard coding here).
+    * Open source projects that you created, maintain, or contribute to (e.g. a non-trivial pull request).
+    * A phone screen where we write some code in a tool like https://coderpad.io.
       * We avoid trick questions and problems that require a single epiphany to solve.
+    * A small project we pay you to work on.
 
-    * We pay you to work on a real project and evaluate your performance based on that.
-    
+4.  We conduct ~3 more interviews which can be on site or remote depending on the circumstances.
+
+    * We don't ask whiteboard coding questions.
+
 5.  We check your references.
-
 6.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
