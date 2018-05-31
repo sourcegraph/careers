@@ -28,8 +28,9 @@ We are searching for a creative, self-motivated visionary who can brainstorm ide
   - Experience as a programmer in order to understand the product and user need.
   - The ability to collaborate with several teams through all steps of the design process.
   - An understanding and passion of what makes great user experience.
+  - The ability to learn quickly and succeed in a fast paced, iterative environment.
   - A knack for giving and receiving feedback, and explaining the reasoning behind their designs.
   - Experience using Figma, Sketch or any other vector-based design tools to deliver product ideas from conception to mockups and finished renderings.
-  - The ability to learn quickly and succeed in a fast paced, iterative environment.
+  - The ability to jump into our codebase and fix design issues. 
 
 [Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADE_fALePiTUX)
