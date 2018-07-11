@@ -5,8 +5,9 @@ Join us on our mission to make it so everyone, in every community, in every coun
 
 We're hiring! Check out our open positions:
 
-* [Software Engineer](/SWEJOBDESCRIPTION.md)
-* [Product Designer](/PRODUCTDESIGNERJOBDESCRIPTION.md)
+* [Software Engineer](/SOFTWARE_ENGINEER_JOB_DESCRIPTION.md)
+* [Product Designer](/PRODUCT_DESIGNER_JOB_DESCRIPTION.md)
+* [Developer Advocate](/DEVELOPER_ADVOCATE_JOB_DESCRIPTION.md)
 
 ## Benefits
 
