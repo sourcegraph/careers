@@ -10,7 +10,7 @@ Check out what we are building for developers and why it matters: https://source
 ### About the Team
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
-Our founders featured on [Forbes “30 under 30” 2017](https://text.sourcegraph.com/sourcegraph-founders-featured-on-forbes-30-under-30-list-8ff9c9b6eb45#.weps4istp).
+Our founders featured on [Forbes "30 under 30" 2017](https://text.sourcegraph.com/sourcegraph-founders-featured-on-forbes-30-under-30-list-8ff9c9b6eb45#.weps4istp).
 
 ### About the Role
 
@@ -24,22 +24,22 @@ As a senior member of the team, you will help set the technical direction of var
 
 ### Example projects:
 
-* Reduce P95 latency of "code intelligence" requests (e.g. hover tooltips, find references, go-to-definition)
-* Scale our language analysis cluster to meet traffic demands; mitigate infrastructure costs
-* Design and implement a system to perform fast, real-time, cross-repository `git grep`
+- Reduce P95 latency of "code intelligence" requests (e.g. hover tooltips, find references, go-to-definition)
+- Scale our language analysis cluster to meet traffic demands; mitigate infrastructure costs
+- Design and implement a system to perform fast, real-time, cross-repository `git grep`
 
 ### Responsibilities
 
-* Design and build multi-tier web & desktop applications using Go & TypeScript
-* Combine system metrics, user feedback, and intuition to plan improvements
-* Create simple and performant APIs and services based on multiple underlying data sources
-* Lead and mentor other team members while driving technical roadmaps and decisions for various projects
+- Design and build multi-tier web & desktop applications using Go & TypeScript
+- Combine system metrics, user feedback, and intuition to plan improvements
+- Create simple and performant APIs and services based on multiple underlying data sources
+- Lead and mentor other team members while driving technical roadmaps and decisions for various projects
 
 ### Ideal Candidates Have
 
-* Track record of delivering high-quality products with attention to scalability and UX
-* Strong web/JavaScript/TypeScript/Go fundamentals
-* Passion for the craft of software development and good engineering practices
+- Track record of delivering high-quality products with attention to scalability and UX
+- Strong web/JavaScript/TypeScript/Go fundamentals
+- Passion for the craft of software development and good engineering practices
 
 ### Interview process
 
@@ -47,14 +47,14 @@ As a senior member of the team, you will help set the technical direction of var
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
 3.  We collect a sample of how you code. This could come from one or more sources:
 
-    * Open source projects that you created, maintain, or contribute to (e.g. a non-trivial pull request).
-    * A phone screen where we write some code in a tool like https://coderpad.io.
-      * We avoid trick questions and problems that require a single epiphany to solve.
-    * A small project we pay you to work on.
+    - Open source projects that you created, maintain, or contribute to (e.g. a non-trivial pull request).
+    - A phone screen where we write some code in a tool like https://coderpad.io.
+      - We avoid trick questions and problems that require a single epiphany to solve.
+    - A small project we pay you to work on.
 
 4.  We conduct ~3 more interviews which can be on site or remote depending on the circumstances.
 
-    * We don't ask whiteboard coding questions.
+    - We don't ask whiteboard coding questions.
 
 5.  We check your references.
 6.  We make you a job offer.
