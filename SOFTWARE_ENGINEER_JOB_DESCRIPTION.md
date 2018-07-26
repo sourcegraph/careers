@@ -45,16 +45,18 @@ As a senior member of the team, you will help set the technical direction of var
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
-3.  We collect a sample of how you code. This could come from one or more sources:
+3.  [Optional] If you have any code samples that you can share with us, we would love to look at that.
+    - Open source projects that you created.
+    - Contributions to other open source projects (e.g. Pull Requests you have created).
+4.  Depending on the circumstances, we will propose one or more of the following:
 
-    - Open source projects that you created, maintain, or contribute to (e.g. a non-trivial pull request).
-    - A phone screen where we write some code in a tool like https://coderpad.io.
-      - We avoid trick questions and problems that require a single epiphany to solve.
-    - A small project we pay you to work on.
+    - We pay you to work on a small project.
+    - We schedule a series of remote technical interviews.
+      - We will write some code in a tool like https://coderpad.io.
+    - We bring you to our San Francisco office for 4-5 hours of interviews and to meet more of the team.
+      - We will write some code in your preferred editor or in a tool like https://coderpad.io.
 
-4.  We conduct ~3 more interviews which can be on site or remote depending on the circumstances.
-
-    - We don't ask whiteboard coding questions.
+    We avoid trick questions and problems that require a single epiphany to solve.
 
 5.  We check your references.
 6.  We make you a job offer.
