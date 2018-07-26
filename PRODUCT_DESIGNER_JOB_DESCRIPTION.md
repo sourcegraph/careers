@@ -1,20 +1,8 @@
 # Product Designer
 
-### About the Company
-
-From sustainable energy systems to self-driving cars, the innovations of the future will all rely on code. With so much software to write, developers need a better way to access, understand, and collaborate on code.
-
-At Sourcegraph, we are building a better, smarter foundation for software development. One that will enable developers (and the companies that rely on them) to more quickly turn great ideas into groundbreaking technology. Effectively, we want to bring the future sooner.
-Check out what we are building for developers and why it matters: https://sourcegraph.com/plan.
-
-### About the Team
-
-Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
-Our founders featured on [Forbes "30 under 30" 2017](https://text.sourcegraph.com/sourcegraph-founders-featured-on-forbes-30-under-30-list-8ff9c9b6eb45#.weps4istp).
-
-### About the Role
-
 We are searching for a creative, self-motivated visionary who can brainstorm ideas and bring them to life. We highly value design within our organization, as it impacts all aspects of Sourcegraph’s product. You'll have creative autonomy and a strong influence over the product’s development.
+
+[Learn more about Sourcegraph.](README.md)
 
 ### Responsibilities
 

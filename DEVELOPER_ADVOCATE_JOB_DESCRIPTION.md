@@ -1,21 +1,10 @@
 # Developer Advocate
 
-### About the Company
-
-From sustainable energy systems to self-driving cars, the innovations of the future will all rely on code. With so much software to write, developers need a better way to access, understand, and collaborate on code.
-
-At Sourcegraph, we are building a better, smarter foundation for software development. One that will enable developers (and the companies that rely on them) to more quickly turn great ideas into groundbreaking technology. Effectively, we want to bring the future sooner.
-Check out what we are building for developers and why it matters: https://sourcegraph.com/plan.
-
-### About the Team
-
-Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
-
-### About the Role
-
 We are searching for an individual who wants to help every developer in the world get access to the best tools. The ideal candidate will be a developer, someone who understands the pains of searching for a piece of code on GitHub (or similar), the frustration of working in a code editor that doesn’t provide code intelligence (e.g., go to definition, hover tooltips, find references), or the time burned in re-configuring developer tools for a new open source project.
 
 We have built a product that our tens of thousands of users love, and you will help us bring it to tens of millions more.
+
+[Learn more about Sourcegraph.](README.md)
 
 ### Responsibilities
 
