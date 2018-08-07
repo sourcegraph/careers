@@ -4,9 +4,12 @@ Join us on our mission to make it so everyone, in every community, in every coun
 
 We're hiring! Check out our open positions:
 
-- [Software Engineer](/SOFTWARE_ENGINEER_JOB_DESCRIPTION.md)
-- [Product Designer](/PRODUCT_DESIGNER_JOB_DESCRIPTION.md)
-- [Developer Advocate](/DEVELOPER_ADVOCATE_JOB_DESCRIPTION.md)
+- [Software Engineer](job-descriptions/software-engineer.md)
+  - Frontend
+  - Backend
+  - Operations
+- [Product Designer](job-descriptions/product-designer.md)
+- [Developer Advocate](job-descriptions/developer-advocate.md)
 
 ## Benefits
 
