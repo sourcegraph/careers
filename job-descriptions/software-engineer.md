@@ -10,7 +10,6 @@ Check out what we are building for developers and why it matters: https://source
 ### About the Team
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
-Our founders featured on [Forbes "30 under 30" 2017](https://text.sourcegraph.com/sourcegraph-founders-featured-on-forbes-30-under-30-list-8ff9c9b6eb45#.weps4istp).
 
 ### About the Role
 
