@@ -2,18 +2,18 @@
 
 # Software Engineer (San Francisco or remote)
 
-## About the company
+### About the company
 
 From sustainable energy systems to self-driving cars, the innovations of the future will all rely on code. With so much software to write, developers need a better way to access, understand, and collaborate on code.
 
 At Sourcegraph, we are building a better, smarter foundation for software development. One that will enable developers (and the companies that rely on them) to more quickly turn great ideas into groundbreaking technology. Effectively, we want to bring the future sooner.
 Check out what we are building for developers and why it matters: https://sourcegraph.com/plan.
 
-## About the team
+### About the team
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
-## About the role
+### About the role
 
 You will
 
@@ -30,18 +30,18 @@ As a senior member of the team, you will
 
 This is a full-stack role and ideal candidates should feel comfortable (though not equally skilled) contributing to any part of our codebase.
 
-### Ideal candidates have
+#### Ideal candidates have
 
 - A track record of delivering high-quality products with attention to scalability and UX.
 - Strong web/JavaScript/TypeScript/Go fundamentals.
 - Experience working with APIs and distributed systems.
 - Passion for the craft of software development and good engineering practices.
 
-### Example projects
+#### Example projects
 
 As an engineer at Sourcegraph, you will have the opportunity to work on a wide variety of projects. It is also ok if you prefer to specialize.
 
-#### Web
+##### Web
 
 - Make our search results page infinite scroll without any visible latency or stuttering.
 - Create a sharable hover tooltip library that works on Sourcegraph.com as well as on all of the code hosts that we support (e.g. GitHub, GitLab, Bitbucket, Phabricator, etc.) via our browser extensions.
@@ -49,12 +49,12 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
 - Write robust end-to-end tests for our website and browser extensions.
 - Create the Sourcegraph browser extension for Chrome, Firefox, and Safari.
 
-#### Clients
+##### Clients
 
 - Create a `src` CLI command that makes it easy for customers to perform common operations against our APIs.
 - Create Sourcegraph editor extensions (e.g. Visual Studio Code, Atom, Intellij, Sublime) that allow developers to use Sourcegraph without breaking their flow.
 
-#### Backend
+##### Backend
 
 - Create a system to perform fast, real-time, cross-repository `git grep`.
 - Create a platform that allows our customers to extend the functionality of Sourcegraph.
@@ -62,7 +62,7 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
 - Add support for new code hosts to Sourcegraph.
 - Reduce P95 latency of requests to our API (e.g. hover tooltips, find references, go-to-definition).
 
-#### Operations
+##### Operations
 
 - Streamline how customers configure and deploy Sourcegraph to a Kubernetes cluster.
 - Improve our CI infrastructure to be faster and more reliable.
@@ -71,7 +71,7 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
 - Standardize how we do logging and telemetry across all our systems.
 - Increase the observability of our systems so we can figure out what is wrong when issues are reported.
 
-## Interview process
+### Interview process
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
