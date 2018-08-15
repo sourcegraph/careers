@@ -1,6 +1,6 @@
-# Software Engineer (onsite or remote)
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
+# Software Engineer (San Francisco or remote)
 
 ## About the company
 
