@@ -1,3 +1,5 @@
+![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
+
 # Developer Advocate
 
 ### About the Company
