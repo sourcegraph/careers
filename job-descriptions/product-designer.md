@@ -1,3 +1,5 @@
+![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
+
 # Product Designer
 
 ### About the Company
