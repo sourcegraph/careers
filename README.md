@@ -10,6 +10,17 @@ We're hiring! Check out our open positions:
 - [Product Designer](job-descriptions/product-designer.md)
 - [Developer Advocate](job-descriptions/developer-advocate.md)
 
+### Our team
+
+Our team consists of talented, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
+
+### Our work
+
+View a few of our open-source projects to get an idea of some of the problems we are working on.
+
+- [Go language server for code intelligence](https://github.com/sourcegraph/go-langserver)
+- [JavaScript and TypeScript language server for code intelligence](https://github.com/sourcegraph/javascript-typescript-langserver)
+
 ### Benefits
 
 Here are some of the benefits that we provide.
@@ -53,14 +64,3 @@ Whether you are relocating to join us or just moving places after you have alrea
 #### 🔍 Recruiting
 
 Recruiting is a team sport and you will get a bonus for introducing us to candidates that we eventually hire.
-
-### Our team
-
-Our team consists of talented, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
-
-### Our work
-
-View a few of our open-source projects to get an idea of some of the problems we are working on.
-
-- [Go language server for code intelligence](https://github.com/sourcegraph/go-langserver)
-- [JavaScript and TypeScript language server for code intelligence](https://github.com/sourcegraph/javascript-typescript-langserver)
