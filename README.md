@@ -1,4 +1,6 @@
-# Careers at Sourcegraph
+![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
+
+# Careers
 
 Join us on our mission to make it so everyone, in every community, in every country, and in every industry can create products using the best technology.
 
