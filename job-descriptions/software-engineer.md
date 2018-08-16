@@ -74,23 +74,26 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
 ### Interview process
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
-2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
-3.  [Optional] If you have any code samples that you can share with us, we would love to look at that.
-    - Open source projects that you created.
-    - Contributions to other open source projects (e.g. Pull Requests you have created).
-4.  Depending on the circumstances, we will propose one or more of the following:
 
-    - We pay you to work on a small project.
-    - We schedule a series of remote technical interviews.
-      - We will write some code in a tool like https://coderpad.io.
-    - We bring you to our San Francisco office for 4-5 hours of interviews and to meet more of the team.
-      - We will write some code in your preferred editor or in a tool like https://coderpad.io.
+    - Please include a cover letter that explains why you are interested in Sourcegraph.
+    - Try out our product (e.g. code search and browser extension) and let us know what feedback you have.
+    - If you have any non-trivial code samples that you can share with us (e.g. your own open source projects, or contributions to other projects) we would love to look at that.
 
-    We avoid trick questions and problems that require a single epiphany to solve.
+2.  We schedule a 30 minute introductory phone call to tell you more about Sourcegraph, the share what we are looking for in a candidate and to find out what you are looking for in your next role.
+3.  We offer you the option to work on a real world paid project with us.
+4.  We schedule a 1 hour technical phone interview.
+    - We will write some code in a tool like https://coderpad.io.
+    - We avoid trick questions and problems that require a single epiphany to solve.
+5.  We fly you out to our San Francisco office for a few more hours of interviews and to meet the team.
 
-5.  We check your references.
-6.  We make you a job offer.
+    - We will write some code in your preferred editor or in a tool like https://coderpad.io (not a whiteboard).
+    - We avoid trick questions and problems that require a single epiphany to solve.
+
+6.  We check your references.
+7.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
+
+If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
