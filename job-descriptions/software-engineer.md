@@ -15,7 +15,7 @@ Our small team consists of talented, mature, collaborative, driven individuals w
 
 ### About the role
 
-You will
+You will:
 
 - Help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend).
 - Have the freedom to creatively tackle various CS challenges while building products and infrastructure that are fundamental to the growth and success of the business.
@@ -23,7 +23,7 @@ You will
 - Plan your own work each month based on company goals and customer feedback.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-As a senior member of the team, you will
+As a senior member of the team, you will:
 
 - Help set the technical direction of various projects.
 - Mentor and teach other team members.
