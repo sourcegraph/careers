@@ -10,6 +10,8 @@ We're hiring! Check out our open positions:
 - [Product Designer](job-descriptions/product-designer.md)
 - [Developer Advocate](job-descriptions/developer-advocate.md)
 
+Questions about our hiring process? Email us at hiring@sourcegraph.com.
+
 ### Our team
 
 Our team consists of talented, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
