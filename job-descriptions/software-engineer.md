@@ -4,7 +4,7 @@
 
 ### About the company
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code and by empowering software developers today we can literally bring the future sooner.
+Sourcegraph is building a better, smarter foundation for software development. The innovations of the future will all rely on code and by empowering software developers today we can literally bring the future sooner.
 
 We have already built the world's best [code search](https://about.sourcegraph.com/docs/search/) that is used and loved by large and small engineering organizations across the world.
 [Sourcegraph's browser extensions](https://about.sourcegraph.com/product/browser) provide IDE-like code intelligence (e.g. hover tooltips, go to definition, find references, and much more) in your code host, in code review, and everywhere you read code.
