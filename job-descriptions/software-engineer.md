@@ -79,7 +79,7 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
     - Try out our product (e.g. code search and browser extension) and let us know what feedback you have.
     - If you have any non-trivial code samples that you can share with us (e.g. your own open source projects, or contributions to other projects) we would love to look at that.
 
-2.  We schedule a 30 minute introductory phone call to tell you more about Sourcegraph, the share what we are looking for in a candidate and to find out what you are looking for in your next role.
+2.  We schedule a 30 minute introductory phone call to tell you more about Sourcegraph, to share what we are looking for in a candidate and to find out what you are looking for in your next role.
 3.  We offer you the option to work on a real world paid project with us. This gives you a chance to see the kind of real world problems that we work on and gives us another data point to consider in case interviews aren't your forte. A good project can substitute for one coding interview.
 4.  We schedule a 1 hour technical phone interview.
     - We will write some code in a tool like https://coderpad.io.
