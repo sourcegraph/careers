@@ -8,7 +8,6 @@ We're hiring! Check out our open positions:
 
 - [Software Engineer](job-descriptions/software-engineer.md)
 - [Product Designer](job-descriptions/product-designer.md)
-- [Developer Advocate](job-descriptions/developer-advocate.md)
 
 Questions about our hiring process? Email us at hiring@sourcegraph.com.
 
