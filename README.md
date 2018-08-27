@@ -39,7 +39,7 @@ A healthy mind and body is imperative to doing your best work and living a healt
 
 We have a flexible vacation policy with mandatory annual vacation time that encourages our team to recharge when they need to. Read more about our philosophy on [mandatory vacation time](https://about.sourcegraph.com/blog/why-vacation-at-tech-companies-should-be-mandatory-better-code-happier-people).
 
-#### 👨‍👩‍👧‍👦 Family friendly
+#### 👪 Family friendly
 
 We value and support teammates at all stages of life, and provide 8 weeks of paid parental leave for all new parents (details depend on location), in addition to any pregnancy-related disability leave.
 
