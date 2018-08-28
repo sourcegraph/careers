@@ -4,10 +4,12 @@
 
 ### About the company
 
-From sustainable energy systems to self-driving cars, the innovations of the future will all rely on code. With so much software to write, developers need a better way to access, understand, and collaborate on code.
+At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can literally bring the future sooner.
 
-At Sourcegraph, we are building a better, smarter foundation for software development. One that will enable developers (and the companies that rely on them) to more quickly turn great ideas into groundbreaking technology. Effectively, we want to bring the future sooner.
-Check out what we are building for developers and why it matters: https://sourcegraph.com/plan.
+We have already built the world's best [code search](https://about.sourcegraph.com/docs/search/) that is used and loved by large and small engineering organizations across the world.
+[Sourcegraph](https://about.sourcegraph.com/product/server) and our [browser extensions](https://about.sourcegraph.com/product/browser) provide IDE-like code intelligence (e.g. hover tooltips, go to definition, find references, and much more) in your code host, in code review, and everywhere you read code.
+
+Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have been working on recently and read [our master plan](https://sourcegraph.com/plan) to see where we are going!
 
 ### About the team
 
