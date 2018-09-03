@@ -15,6 +15,10 @@ Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have be
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
+### Benefits
+
+In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive. 
+
 ### About the Role
 
 We are searching for an individual who wants to help every developer in the world get access to the best tools. The ideal candidate will be a developer, someone who understands the pains of searching for a piece of code on GitHub (or similar), the frustration of working in a code editor that doesn’t provide code intelligence (e.g., go to definition, hover tooltips, find references), or the time burned in re-configuring developer tools for a new open source project.
