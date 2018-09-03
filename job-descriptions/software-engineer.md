@@ -15,6 +15,10 @@ Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have be
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
+### Benefits
+
+In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive. 
+
 ### About the role
 
 You will:
