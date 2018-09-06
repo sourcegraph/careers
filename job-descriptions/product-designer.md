@@ -15,6 +15,10 @@ Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have be
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
+### Benefits
+
+In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive. 
+
 ### About the Role
 
 We are searching for a creative, self-motivated visionary who can brainstorm ideas and bring them to life. We highly value design within our organization, as it impacts all aspects of Sourcegraph’s product. You'll have creative autonomy and a strong influence over the product’s development.
