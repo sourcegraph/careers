@@ -81,7 +81,7 @@ As an engineer at Sourcegraph, you will have the opportunity to work on a wide v
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 
-    - Please include a cover letter that explains why you are interested in Sourcegraph.
+    - Please explain why you are interested in Sourcegraph.
     - Try out our product (e.g. code search and browser extension) and let us know what feedback you have.
     - If you have any non-trivial code samples that you can share with us (e.g. your own open source projects, or contributions to other projects) we would love to look at that.
 
