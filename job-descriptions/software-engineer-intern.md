@@ -29,4 +29,4 @@ Ideal candidates:
 - Are pursuing a computer science undergraduate or graduate degree and are at least an undergraduate Junior.
 - Are interested in building (or have already built) tools for developers.
 
-**[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
+**[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MmpnWT-Pu9h)**
