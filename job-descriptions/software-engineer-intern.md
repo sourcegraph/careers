@@ -19,7 +19,7 @@ Our small team consists of talented, mature, collaborative, driven individuals w
 
 You will:
 
-- Be paried with a mentor who will help you plan your work and teach you what you need to know.
+- Be paired with a mentor who will help you plan your work and teach you what you need to know.
 - Help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend).
 - Have the freedom to creatively tackle various CS challenges while building products and infrastructure that are fundamental to the growth and success of the business.
 - Have the opportunity to interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
