@@ -29,4 +29,10 @@ Ideal candidates:
 - Are pursuing a computer science undergraduate or graduate degree and are at least an undergraduate Junior.
 - Are interested in building (or have already built) tools for developers.
 
+Example intern projects from past years:
+
+- Build a browser extension from scratch that communicates with the Sourcegraph API to inject code intelligence on http://github.com.
+- Build a Sourcegraph electron application that is synced with the cursor position in your editor via an editor extension.
+- Integrate Sourcegraph search into Alfred.
+
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MmpnWT-Pu9h)**
