@@ -18,4 +18,4 @@ We are sponsoring "The Future Sooner" award for the best tool that makes develop
 
 We are hiring Software Engineer interns for 2019 (dates flexible)!
 
-[Read our job description](../job-descriptions/software-engineer.md) and mention that you are looking for an internship when appying.
+[Read our job description](../job-descriptions/software-engineer-intern.md) and mention that you are looking for an internship when appying.
