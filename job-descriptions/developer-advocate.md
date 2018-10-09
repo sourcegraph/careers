@@ -2,7 +2,7 @@
 
 # Developer Advocate
 
-### About the Company
+### About the company
 
 At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can literally bring the future sooner.
 
@@ -11,15 +11,15 @@ We have already built the world's best [code search](https://about.sourcegraph.c
 
 Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have been working on recently and read [our master plan](https://sourcegraph.com/plan) to see where we are going!
 
-### About the Team
+### About the team
 
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
 ### Benefits
 
-In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive. 
+In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive.
 
-### About the Role
+### About the role
 
 We are searching for an individual who wants to help every developer in the world get access to the best tools. The ideal candidate will be a developer, someone who understands the pains of searching for a piece of code on GitHub (or similar), the frustration of working in a code editor that doesn’t provide code intelligence (e.g., go to definition, hover tooltips, find references), or the time burned in re-configuring developer tools for a new open source project.
 
@@ -34,7 +34,7 @@ We have built a product that our tens of thousands of users love, and you will h
 - Write interesting content that developers would want to read.
 - Attend meetups, conferences, and other developer events.
 
-### Ideal Candidates Have
+### Ideal candidates have
 
 - Experience as a programmer, in order to understand the product and user need.
 - A voracious appetite for learning about developer processes, and following new product offerings around the industry.

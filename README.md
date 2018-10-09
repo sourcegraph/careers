@@ -10,6 +10,7 @@ We're hiring! Check out our open positions:
 - [Software Engineer Intern](job-descriptions/software-engineer-intern.md)
 - [Product Designer](job-descriptions/product-designer.md)
 - [Developer Advocate](job-descriptions/developer-advocate.md)
+- [Growth & Business Operations (Analyst or Manager)](job-descriptions/growth-biz-ops.md)
 
 Questions about our hiring process? Email us at hiring@sourcegraph.com.
 
