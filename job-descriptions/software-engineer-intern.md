@@ -17,17 +17,16 @@ Our small team consists of talented, mature, collaborative, driven individuals w
 
 ### About the role
 
-You will:
+As an intern, you will help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend). You will be matched with a mentor who will help plan your work, and then you will have responsibility and autonomy to get the work done.
 
-- Be paired with a mentor who will help you plan your work and teach you what you need to know.
-- Help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend).
-- Have the freedom to creatively tackle various CS challenges while building products and infrastructure that are fundamental to the growth and success of the business.
-- Have the opportunity to interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
+Requirements:
+- You are passionate about building tools for developers.
 
 Ideal candidates:
 
-- Are pursuing a computer science undergraduate or graduate degree and are at least an undergraduate Junior.
-- Are interested in building (or have already built) tools for developers.
+- Are pursuing a computer science undergraduate or graduate degree.
+- Are familiar with one or more of the technologies that we use (e.g. Go, TypeScript, React).
+- Have built or contributed to a developer tool or library (e.g. https://github.com/sourcegraph/sourcegraph).
 
 Example intern projects from past years:
 
