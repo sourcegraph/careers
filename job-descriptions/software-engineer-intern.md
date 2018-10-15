@@ -24,8 +24,7 @@ As an intern, you will help build Sourcegraph, a multi-tier application (web, CL
 Ideal candidates:
 
 - Are pursuing a computer science undergraduate or graduate degree.
-- Are passionate about developer tools and have worked in the developer tool space in some capacity (built a developer tool, wrote a blog post, recorded a podcast, etc.)
-- Are active in the open ource community.
+- Can demonstrate passion and excitement about developer tools (e.g. have built a developer tool, contributed to open source developer tools or other open source projects, written blog posts or talks about development, etc.)
 - Have submitted a PR in any one of our repos (and linked to it in their application)!
 
 Example intern projects from past years:
