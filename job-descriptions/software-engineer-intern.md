@@ -16,10 +16,10 @@ Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have be
 Our small team consists of talented, mature, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
 
 ### About the role
+
 *This is a paid internship* 
 
 As an intern, you will help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend). You will be matched with a mentor who will help plan your work, and then you will have responsibility and autonomy to get the work done.
-
 
 Ideal candidates:
 
