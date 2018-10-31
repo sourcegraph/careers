@@ -43,8 +43,11 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 2.  We schedule a 30 minute introductory phone call to tell you more about Sourcegraph, to share what we are looking for in a candidate, and to find out what you are looking for in your next role.
-3.  We schedule a 1 hour technical phone interview.
-4.  We fly you out to our San Francisco office for a few more hours of interviews and to meet the team.
+3.  We collect a code sample from one or more of the following sources:
+    - We review any existing public code that you have (e.g. your own projects, or your contributions to other projects).
+    - You work on a paid project with us.
+    - We schedule a 1 hour technical phone interview.
+4.  We schedule a few more hours of technical and non-technical interviews. We are happy to fly you out to our San Francisco office to meet the team in person, or to conduct the remaining interviews remotely, whatever works best for you.
 5.  We check your references.
 6.  We make you a job offer.
 

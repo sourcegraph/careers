@@ -41,7 +41,7 @@ You will:
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5HqQVTS8b53B).
 2.  We schedule a 30 minute phone call to share what we are looking for in a candidate and to find out what you are looking for in your next role.
 3.  We give you a small case study project to see how you would approach the job at Sourcegraph.
-4.  We invite you (or fly you out to our San Francisco office) for a few more interviews and to meet the team.
+4.  We schedule a few more hours interviews. We are happy to fly you out to our San Francisco office to meet the team in person, or to conduct the remaining interviews remotely, whatever works best for you.
 5.  We check your references.
 6.  We make you a job offer.
 

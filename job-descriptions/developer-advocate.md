@@ -43,7 +43,7 @@ You will:
     - A small content creation project we pay you to work on.
     - Blog posts from past jobs or personal experience.
 
-4.  We invite you (or fly you out to our San Francisco office) for a few more interviews and to meet the team.
+4.  We schedule a few more hours interviews. We are happy to fly you out to our San Francisco office to meet the team in person, or to conduct the remaining interviews remotely, whatever works best for you.
 5.  We check your references.
 6.  We make you a job offer.
 
