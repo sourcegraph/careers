@@ -8,7 +8,7 @@ At Sourcegraph, we are building a better, smarter foundation for software develo
 
 Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed at paying customers with small and large engineering organizations across the world! Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
 
-You can see the progrees that we have been making by reading [our blog](https://about.sourcegraph.com/blog/) and what we are planning to work on next by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+You can see all the progrees that we have been making by reading [our blog](https://about.sourcegraph.com/blog/) and all the exciting things that we are working by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
 ### Benefits
 
