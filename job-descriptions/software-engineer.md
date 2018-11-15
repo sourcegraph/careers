@@ -4,12 +4,11 @@
 
 ### About us
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can bring the future sooner.
+At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can bring the future sooner! You can read [our master plan](https://sourcegraph.com/plan) to learn about our mission.
 
-We have already built the world's best [code search](https://about.sourcegraph.com/docs/search/) that is used and loved by large and small engineering organizations across the world.
-[Sourcegraph](https://about.sourcegraph.com/product/server) and our [browser extensions](https://about.sourcegraph.com/product/browser) provide IDE-like code intelligence (e.g. hover tooltips, go to definition, find references, and much more) in your code host, in code review, and everywhere you read code.
+Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed at paying customers with small and large engineering organizations across the world! Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
 
-Read [our blog](https://about.sourcegraph.com/blog/) to see what more we have been working on recently and read [our master plan](https://sourcegraph.com/plan) to see where we are going!
+You can see the progrees that we have been making by reading [our blog](https://about.sourcegraph.com/blog/) and what we are planning to work on next by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
 ### Benefits
 
