@@ -19,10 +19,7 @@ Our team consists of talented, collaborative, driven individuals who are attract
 
 ### Our work
 
-View a few of our open-source projects to get an idea of some of the problems we are working on.
-
-- [Go language server for code intelligence](https://github.com/sourcegraph/go-langserver)
-- [JavaScript and TypeScript language server for code intelligence](https://github.com/sourcegraph/javascript-typescript-langserver)
+Most of our work, including our main product, is [open source](https://github.com/sourcegraph)! You can check out our code to see the kinds of problems that we work on, file an issue if you run into any problems, or even submit a PR if you want to help make Sourcegraph better.
 
 ### Benefits
 
