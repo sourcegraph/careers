@@ -6,9 +6,9 @@
 
 At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can bring the future sooner! You can read [our master plan](https://sourcegraph.com/plan) to learn about our mission.
 
-Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed at paying customers with small and large engineering organizations across the world! Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
+Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed to paying customers with small and large engineering organizations across the world. Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
 
-You can see all the progrees that we have been making by reading [our blog](https://about.sourcegraph.com/blog/) and all the exciting things that we are working by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+You can see all the progrees that we have made by reading [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
 ### Benefits
 
