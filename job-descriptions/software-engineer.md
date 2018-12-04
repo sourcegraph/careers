@@ -45,8 +45,8 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 3.  We collect a code sample from one or more of the following sources:
     - We review any existing public code that you have (e.g. your own projects, or your contributions to other projects).
     - You work on a paid project with us.
-    - We schedule a 1 hour technical phone interview.
-4.  We schedule a few more hours of technical and non-technical interviews. We are happy to fly you out to our San Francisco office to meet the team in person, or to conduct the remaining interviews remotely, whatever works best for you.
+    - We give you a 2 hour coding assignment to complete.
+4.  We schedule a few more hours of technical and non-technical interviews. We are happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
 5.  We check your references.
 6.  We make you a job offer.
 
