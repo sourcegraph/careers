@@ -10,7 +10,7 @@ We're hiring! Check out our open positions:
 - [Developer Advocate](job-descriptions/developer-advocate.md)
 - [Growth & Business Operations (Analyst or Manager)](job-descriptions/growth-biz-ops.md)
 
-Questions about our hiring process? Email us at hiring@sourcegraph.com.
+Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
 
 ### Our team
 
