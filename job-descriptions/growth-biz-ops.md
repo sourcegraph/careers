@@ -30,8 +30,8 @@ You will:
 
 ### Ideal candidates have
 
-- A passion and excitement for software development (no training as an Engineer required) and growth.
-- Demonstrated background in analytical roles (BizOps, Consulting, Growth, Finance, etc.).
+- A passion and excitement for software development (no training as an Engineer required, but you should have an understanding of how software development happens and Sourcegraph's value proposition).
+- Demonstrated background in analytical roles (BizOps, Growth, Consulting, Finance, etc.).
 - Familiarity with SaaS business models, and how software companies grow.
 - Creativity, and a willingness to try everything and iterate quickly (e.g. ideas that won’t scale or ideas that sound "crazy" at first).
 
