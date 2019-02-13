@@ -40,15 +40,17 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
-2.  We schedule a 30 minute introductory phone call to tell you more about Sourcegraph, to share what we are looking for in a candidate, and to find out what you are looking for in your next role.
-3.  We collect a code sample from one or more of the following sources:
-    - We review any existing public code that you have (e.g. your own projects, or your contributions to other projects).
-    - You work on a paid project with us.
-    - We give you a 2 hour coding assignment to complete.
-4.  We schedule a few more hours of technical and non-technical interviews. We are happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
-5.  We check your references.
-6.  We make you a job offer.
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)!
+1.  We schedule a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
+1.  Choose your adventure!
+    - **Coding assignment**: We give you a well defined problem to solve and a 2 hour time limit. This is a lower time commitment than the paid project.
+    - **Paid project**: You propose working on one of the open issues in our open source repositories. Once we approve your proposal, you work on that issue until it is finished and merged. This is a higher time commitment than the coding assignment but it gives you more control to showcase your abilities and we will pay you a flat rate depending on the size of the project.
+      - [Good first issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Asourcegraph+label%3A%22good+first+issue%22)
+      - [Extension requests](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Asourcegraph+label%3Aextension-request)
+      - Open a new issue to propose a feature or dev tool that you want!
+1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
+1.  We check your references.
+1.  We make you a job offer!
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
 
