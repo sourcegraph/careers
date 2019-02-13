@@ -44,7 +44,7 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 1.  We schedule a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
 1.  Choose your adventure!
     - **Coding assignment**: We give you a well defined problem to solve and a 2 hour time limit. This is a lower time commitment than the paid project.
-    - **Paid project**: You propose working on one of the open issues in our open source repositories. Once we approve your proposal, you work on that issue until it is finished and merged. This is a higher time commitment than the coding assignment but it gives you more control to showcase your abilities and we will pay you a flat rate depending on the size of the project.
+    - **Paid project**: You propose working on one of the open issues in our open source repositories. Once we approve your proposal, you work on that issue until it is finished and merged. This is a higher time commitment than the coding assignment so we will pay you a flat rate of $250-$1000 depending on the size of the project after it is finished and merged.
       - [Good first issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Asourcegraph+label%3A%22good+first+issue%22)
       - [Extension requests](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Asourcegraph+label%3Aextension-request)
       - Open a new issue to propose a feature or dev tool that you want!
