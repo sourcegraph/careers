@@ -47,9 +47,9 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 1.  We check your references.
 1.  We make you a job offer.
 
-We also expect you to be interviewing us too, so ask us any questions you have along the way!
+We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, just let us know.
+If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, let us know!
 
 
 
