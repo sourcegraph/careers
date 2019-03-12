@@ -40,7 +40,7 @@ You will:
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KSeSjyaujcb)!
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KSeSjyaujcb).
 1.  1. We set up a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
 1.  We give you a take home coding assignment which won't take you more than 2 hours to finish.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
