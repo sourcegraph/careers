@@ -4,11 +4,11 @@
 
 ### About us
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can bring the future sooner! You can read [our master plan](https://sourcegraph.com/plan) to learn about our mission.
+At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code and by empowering software developers today, we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
 Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed to paying customers with small and large engineering organizations across the world. Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
 
-You can see all the progress that we have made by reading [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+You can see all the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by checking out our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
 ### Benefits
 
@@ -41,14 +41,14 @@ Take a look at our public [near-term product roadmap](https://docs.sourcegraph.c
 ### Interview process
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)!
-1.  We schedule a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
+1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1.  We give you a take home coding assignment which won't take you more than 2 hours to finish.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
 1.  We check your references.
-1.  We make you a job offer!
+1.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way!
 
-If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, let us know!
+If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, just let us know.
 
-**[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
