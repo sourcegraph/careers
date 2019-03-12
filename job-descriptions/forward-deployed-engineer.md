@@ -11,7 +11,7 @@ source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and 
 to paying customers with small and large engineering organizations across the world. Visit [our
 homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
 
-You can see all the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by checking out our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+You can see all the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by checking out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
 ### Benefits
 
