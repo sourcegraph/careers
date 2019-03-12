@@ -51,4 +51,8 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 
 If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, just let us know.
 
+
+Sourcegraph is an equal opportunity workplace, we embrace diversity and welcome people from all backgrounds and communities.
+
+
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
