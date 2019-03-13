@@ -53,7 +53,7 @@ If you aren't ready to start interviewing, but are interested to stop by our San
 
 
 
-Sourcegraph is an equal opportunity workplace, we embrace diversity and welcome people from all backgrounds and communities.
+Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
 
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
