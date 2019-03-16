@@ -28,6 +28,15 @@ You will:
 - Be data-driven in helping our go-to-market teams (Developer Advocates and Sales) prioritize opportunities to invest their time.
 - Help build a growth and business team from the ground up.
 
+#### Examples
+
+Our engineering, go-to-market, and product teams will rely on you when making important decisions. Some examples of the kinds of questions you'll answer for the team are:
+
+- What programming languages do our customers use? How does product adoption and satisfaction differ by language?
+- What kinds of search queries are yielding successful results? No results? (You'll need to measure this using anonymized features of search queries, such as a boolean indicating whether the query contains a regular expression or just a literal string, to preserve user privacy.)
+- How are our customers deploying their Sourcegraph instance (AWS, Google Cloud, Azure, DigitalOcean, etc.)?
+- What are early indicators of success or roadblocks for user growth on a Sourcegraph instance?
+
 ### Ideal candidates have
 
 - A passion and excitement for software development (no training as an Engineer required, but you should have an understanding of how software development happens and Sourcegraph's value proposition).
