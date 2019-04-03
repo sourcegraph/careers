@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer
+# Software Engineer (San Francisco or remote)
 
 ### About us
 
