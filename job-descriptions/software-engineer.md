@@ -19,7 +19,7 @@ If you are passionate about making the world better through software, come join 
 You will help build Sourcegraph, a code search and navigation product that scales to tens of thousands of repositories and massive monorepos. Here are some of the technologies that we use:
 
 - Frontend: TypeScript, React, RxJS, SCSS, Browser extension APIs
-- Backend: Go, GraphQL, Kubernetes, Docker
+- Backend: Go, GraphQL, PostgreSQL, Redis, Kubernetes, Docker
 
 We expect that you are skilled in one or more of these (or related) technologies and that you are interested in growing and expanding your expertise.
 
