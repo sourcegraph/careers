@@ -50,6 +50,6 @@ We provide competitive pay and equity because we want you to act like a business
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, let us know!
+If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
