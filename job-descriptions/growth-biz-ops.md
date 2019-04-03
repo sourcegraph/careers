@@ -6,7 +6,7 @@
 
 Sourcegraph is on a mission to make it so everyone, in every community, in every country, and in every industry can create products using the best technology. The innovations of the future will all rely on software, so by empowering software developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
-We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public because this transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
+We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
 
 We value continuous progress and we release a new version of Sourcegraph every month. You can see all of the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are planning to work on by reading [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
