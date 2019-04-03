@@ -33,7 +33,7 @@ We will encourage and help you to:
 
 ### Location
 
-We are flexible. Our engineering team is distributed across the world and about half of them work from our office in San Francisco.
+We are flexible. Our engineering team is distributed across the world and about half work from our office in San Francisco.
 
 ### Compensation and benefits
 
