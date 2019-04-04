@@ -4,18 +4,15 @@
 
 ### About us
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code and by empowering software developers today, we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
+Sourcegraph's mission is to enable every software developer to create technology using the best tools. The innovations of the future will all rely on software, so by empowering developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
-Our product (code search, code intelligence, browser extensions, etc.) is [open
-source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed
-to paying customers with small and large engineering organizations across the world. Visit [our
-homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
+We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
 
-You can see all the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by checking out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+We value continuous progress and we release a new version of Sourcegraph every month. You can see all of the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are planning to work on by reading [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
-### Benefits
+Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
 
-In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive.
+If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
@@ -38,22 +35,21 @@ You will:
   in a rapidly growing business.
 - Future entrepreneurial ambitions.
 
+### Compensation and benefits
+
+We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
+
 ### Interview process
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KSeSjyaujcb).
-1.  1. We set up a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
-1.  We give you a take home coding assignment which won't take you more than 2 hours to finish.
+1.  We set up a 30 minute call to chat with you about Sourcegraph and to find out what you are looking for in your next role.
+1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
 1.  We check your references.
 1.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to
-meet the team, let us know!
-
-
-Sourcegraph is an equal opportunity workplace, we embrace diversity and welcome people from all backgrounds and communities.
-
+If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KSeSjyaujcb)**

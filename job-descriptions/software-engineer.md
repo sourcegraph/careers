@@ -4,56 +4,52 @@
 
 ### About us
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code and by empowering software developers today, we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
+Sourcegraph's mission is to enable every software developer to create technology using the best tools. The innovations of the future will all rely on software, so by empowering developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
-Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed to paying customers with small and large engineering organizations across the world. Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
+We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
 
-You can see all the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by checking out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+We value continuous progress and we release a new version of Sourcegraph every month. You can see all of the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are planning to work on by reading [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
-### Benefits
+Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
 
-In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive.
+If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
-You will:
+You will help build Sourcegraph, a code search and navigation product that scales to tens of thousands of repositories and massive monorepos. Here are some of the technologies that we use:
 
-- Help build Sourcegraph, a multi-tier application (web, CLI, browser extensions, API, data stores, services) written primarily in TypeScript (frontend) and Go (backend).
-- Have the freedom to creatively tackle various CS challenges while building products and infrastructure that are fundamental to the growth and success of the business.
-- Have the opportunity to interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
+- Frontend: TypeScript, React, RxJS, SCSS, Browser extension APIs
+- Backend: Go, GraphQL, PostgreSQL, Redis, Kubernetes, Docker
+
+We expect that you are skilled in one or more of these (or related) technologies and that you are interested in growing and expanding your expertise.
+
+You will work on a small team that has focused goals and apply your skills to creatively build and own products and infrastructure that are fundamental to the growth and success of our business while following good engineering practices.
+
+We will encourage and help you to:
+
+- Interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
 - Plan your own work each month based on company goals and customer feedback.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-As a senior member of the team, you will:
+### Location
 
-- Help set the technical direction of various projects.
-- Mentor and teach other team members.
+We are flexible. Our engineering team is distributed across the world and about half work from our office in San Francisco.
 
-Take a look at our public [near-term product roadmap](https://docs.sourcegraph.com/dev/roadmap) for examples of projects you could work on at Sourcegraph.
+### Compensation and benefits
 
-### Ideal candidates have
-
-- A track record of delivering high-quality products with attention to scalability and UX.
-- Strong web/JavaScript/TypeScript/Go fundamentals.
-- Experience working with APIs and distributed systems.
-- Passion for the craft of software development and good engineering practices.
+We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
 
 ### Interview process
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1.  We give you a take home coding assignment which won't take you more than 2 hours to finish.
+1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
 1.  We check your references.
 1.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but are interested to stop by our San Francisco office to meet the team, let us know!
-
-
-
-Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
-
+If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**

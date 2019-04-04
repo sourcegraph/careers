@@ -4,15 +4,15 @@
 
 ### About us
 
-At Sourcegraph, we are building a better, smarter foundation for software development. The innovations of the future will all rely on code. By empowering software developers today, we can bring the future sooner! You can read [our master plan](https://sourcegraph.com/plan) to learn about our mission.
+Sourcegraph's mission is to enable every software developer to create technology using the best tools. The innovations of the future will all rely on software, so by empowering developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
-Our product (code search, code intelligence, browser extensions, etc.) is [open source](https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source), and is already deployed to paying customers with small and large engineering organizations across the world. Visit [our homepage](https://sourcegraph.com/start) to learn why companies use Sourcegraph.
+We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
 
-You can see all the progress that we have made by reading [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are working on by reading our [product roadmap](https://docs.sourcegraph.com/dev/roadmap).
+We value continuous progress and we release a new version of Sourcegraph every month. You can see all of the progress that we have made by visiting [our blog](https://about.sourcegraph.com/blog/), and all the exciting things that we are planning to work on by reading [our product roadmap](https://docs.sourcegraph.com/dev/roadmap).
 
-### Benefits
+Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
 
-In addition to competitive pay and equity, [we provide many benefits](https://github.com/sourcegraph/careers#benefits) to keep you happy, healthy, and productive.
+If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
@@ -34,6 +34,10 @@ You will:
 - Demonstrated background in analytical roles (BizOps, Growth, Consulting, Finance, etc.).
 - Familiarity with SaaS business models, and how software companies grow.
 - Creativity, and a willingness to try everything and iterate quickly (e.g. ideas that won’t scale or ideas that sound "crazy" at first).
+
+### Compensation and benefits
+
+We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
 
 ### Interview process
 
