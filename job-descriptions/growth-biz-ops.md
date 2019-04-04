@@ -4,7 +4,7 @@
 
 ### About us
 
-Sourcegraph is on a mission to make it so everyone, in every community, in every country, and in every industry can create products using the best technology. The innovations of the future will all rely on software, so by empowering software developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
+Sourcegraph's mission is to enable every software developer to create technology using the best tools. The innovations of the future will all rely on software, so by empowering developers today we can bring the future sooner. You can learn more about our mission by reading our [our master plan](https://sourcegraph.com/plan).
 
 We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
 
