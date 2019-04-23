@@ -7,6 +7,7 @@ Join us on our mission to make it so everyone, in every community, in every coun
 We're hiring! Check out our open positions:
 
 - [Software Engineer](job-descriptions/software-engineer.md) (frontend, backend, or full stack)
+- [Account Executive](job-descriptions/account-executive.md)
 - [Forward-Deployed Engineer](job-descriptions/forward-deployed-engineer.md)
 - [Growth & Business Operations](job-descriptions/growth-biz-ops.md) (Analyst or Manager)
 
