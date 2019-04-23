@@ -12,7 +12,7 @@ Every meaningful company in the world must become a technology company in the ne
 
 ## Why this role is special
 
-You'll be our first salesperson for the most lucrative and important opportunity in the enterprise: helping companies transform their software development processes. Uber, Lyft, Yelp, and other great enterprises have transformed their software development processes, with thousands of users internally each day. You'll help define our sales processes from the ground floor.
+You'll be our first salesperson for the most lucrative and important opportunity in the enterprise: helping companies transform their software development processes. Uber, Lyft, Yelp, and other great enterprises have transformed their software development processes using Sourcegraph, with thousands of users internally each day. You'll help define our sales processes from the ground floor.
 
 ## What you'll do
 
