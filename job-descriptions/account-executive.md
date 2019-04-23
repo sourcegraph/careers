@@ -37,6 +37,8 @@ You'll be our first salesperson for the most lucrative and important opportunity
 - Experience with complex multi-year contracts
 - Proficiency with security, licensing, and compliance requirements
 
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KTmOOYSWAz0)**
+
 ---
 
 Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
