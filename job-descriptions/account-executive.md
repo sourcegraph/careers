@@ -8,7 +8,7 @@ We are looking for a customer-focused individual to be our first dedicated Accou
 
 Sourcegraph helps Uber, Lyft, Yelp, and other great enterprises ship great software faster, with any stack, any team, and at any scale.
 
-Every meaningful company in the world must become a technology company in the next 10-20 years, or else they'll cease to exist. Sourcegraph will help these companies transform into technology companies, unlocking trillions of dollars of value. Learn more in our master plan.
+Every meaningful company in the world must become a technology company in the next 10-20 years, or else they'll cease to exist. Sourcegraph will help these companies transform into technology companies, unlocking trillions of dollars of value. Learn more in our [master plan](https://about.sourcegraph.com/plan).
 
 ## Why this role is special
 
