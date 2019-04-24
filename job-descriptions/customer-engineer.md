@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Forward-Deployed Engineer (San Francisco)
+# Customer Engineer (San Francisco)
 
 ### About us
 
