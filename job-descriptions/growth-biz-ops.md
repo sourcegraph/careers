@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Growth & Business Operations
+# Growth & Business Operations (San Francisco)
 
 ### About us
 
