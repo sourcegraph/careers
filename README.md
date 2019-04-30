@@ -8,7 +8,7 @@ We're hiring! Check out our open positions:
 
 - [Software Engineer](job-descriptions/software-engineer.md) (frontend, backend, or full stack)
 - [Account Executive](job-descriptions/account-executive.md)
-- [Customer Engineer](job-descriptions/customer-engineer.md.md)
+- [Customer Engineer](job-descriptions/customer-engineer.md)
 - [Growth & Business Operations](job-descriptions/growth-biz-ops.md) (Analyst or Manager)
 
 Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
