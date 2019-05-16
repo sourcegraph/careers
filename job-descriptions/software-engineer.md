@@ -21,7 +21,7 @@ You will help build Sourcegraph, a code search and navigation product that scale
 - Frontend: TypeScript, React, RxJS, SCSS, Browser extension APIs
 - Backend: Go, GraphQL, PostgreSQL, Redis, Kubernetes, Docker
 
-If you're interested in working on the frontend, we expect that you have at least 2 years of experience building web applications with React, Javascript, or Typescript. If you're interested in working on the backend, we expect that you have a minimum of 1 year working with Go and looking to grow and expand your expertise.
+If you're interested in working on the frontend, we expect that you have at least 2 years of experience building web applications with React, Javascript, or Typescript. If you're interested in working on the backend, we expect that you have a minimum of 1 year working with Go and are looking to grow and expand your expertise.
 
 You will work on a small team that has focused goals and apply your skills to creatively build and own products and infrastructure that are fundamental to the growth and success of our business while following good engineering practices.
 
