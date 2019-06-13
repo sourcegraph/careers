@@ -48,7 +48,7 @@ In addition to on-the-job training, we offer a $1,000 yearly stipend for educati
 
 #### 🍲 Meals
 
-We cover meals for local teammates while are working on behalf of the company. This includes lunch every weekday, breakfast if you arrive early, dinner if you stay late, and a variety of healthy snacks and drink options all the time.
+We cover meals for local teammates while they are working on behalf of the company. This includes lunch every weekday, breakfast if you arrive early, dinner if you stay late, and a variety of healthy snacks and drink options all the time.
 
 #### 🚉 Transportation
 
