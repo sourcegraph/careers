@@ -23,7 +23,7 @@ You will help build Sourcegraph, a code search and navigation product that scale
 
 If you're interested in working on the frontend, we expect that you have at least two years of experience building web applications with Javascript or TypeScript. Experience with React (or similar frameworks) is preferred.
 
-If you're interested in working on the backend, we expect that you have at least two years working with Go. Experience building distributed systems is preferred.
+If you're interested in working on the backend, we expect that you have at least two years of experience with Go. Experience building distributed systems is preferred.
 
 You will work on a small team that has focused goals and apply your skills to creatively build and own products and infrastructure that are fundamental to the growth and success of our business while following good engineering practices.
 
