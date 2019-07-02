@@ -19,12 +19,16 @@ Ideally, some experience in software development, to understand Sourcegraph’s 
 
 
 ### About us
-Sourcegraph's mission is to enable every software developer to create technology using the best tools. The innovations of the future will all rely on software, so by empowering developers today we can bring the future sooner. You can learn more about our mission by reading our master plan.
-We are an open company: our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback, iterate, learn, and deliver the best product to our customers.
-We value continuous progress and we release a new version of Sourcegraph every month. You can see all of the progress that we have made by visiting our blog, and all the exciting things that we are planning to work on by reading our product roadmap.
-Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
-If you are passionate about making the world better through software, come join us!
 
+Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
+
+Our values:
+
+- **Inclusivity**. To build a product that serves the needs of all developers, we need to have a diverse team. Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
+- **Openess**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+- **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
+
+If you are passionate about making the world better through software, come join us!
 
 ### Interview process
 
