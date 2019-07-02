@@ -20,7 +20,7 @@ Ideally, some experience in software development, to understand Sourcegraph’s 
 
 ### About us
 
-Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
+Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software, and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
 
 Our values:
 
