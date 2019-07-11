@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Customer Engineer (San Francisco)
+# Customer Engineer (San Francisco or remote)
 
 ### About us
 
@@ -34,6 +34,10 @@ You will:
 - A strong desire to understand how engineering, product, sales, and customer success fit together
   in a rapidly growing business.
 - Future entrepreneurial ambitions.
+
+### Location
+
+We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world and about half work from our office in San Francisco.
 
 ### Compensation and benefits
 
