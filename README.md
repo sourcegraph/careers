@@ -8,7 +8,7 @@ We're hiring! Check out our open positions:
 
 - [Software Engineer](job-descriptions/software-engineer.md) (frontend, backend, or full stack)
 - [Customer Engineer](job-descriptions/customer-engineer.md)
-- [Product Education Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-education-engineer.md)
+- [Content Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/content-engineer.md)
 - [Growth & Business Operations](job-descriptions/growth-biz-ops.md) (Analyst or Manager)
 - [Account Executive](job-descriptions/account-executive.md)
 
