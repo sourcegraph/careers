@@ -16,20 +16,28 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help build Sourcegraph, a code search and navigation product that scales to tens of thousands of repositories and massive monorepos. Here are some of the technologies that we use:
+You will help build Sourcegraph, a code search and navigation product, by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business. Here are some examples of what we work on every day:
+
+- Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
+- Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
+- Enable developers to perform large scale automated code modification.
+- Provide code intelligence (e.g. hover tooltips, go to definition, find references) across repositories and in many languages.
+- Integrate Sourcegraph features into existing code hosts (e.g. GitHub, Bitbucket, GitLab, Phabricator) via direct integrations and our browser extensions.
+- Design an extension API that allows anyone to enhance their code browsing experience in Sourcegraph by surfacing relevant contextual information.
+- Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
+- Automate release testing and continous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
+
+We use a variety of technologies to help us accomplish our goals:
 
 - Frontend: TypeScript, React, RxJS, SCSS, Browser extension APIs
-- Backend: Go, GraphQL, PostgreSQL, Redis, Kubernetes, Docker
+- Backend: Go, GraphQL, PostgreSQL, Redis
+- Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
 
-If you're interested in working on the frontend, we expect that you have at least two years of experience building web applications with JavaScript or TypeScript. Experience with React (or similar frameworks) is preferred.
+We expect that you have at least two years of experience relevant to the problems that you will be working on and/or the technologies that you will be using at Sourcegraph.
 
-If you're interested in working on the backend, we expect that you have at least two years of experience with Go. Experience building distributed systems is preferred.
+We will encourage and support you to:
 
-You will work on a small team that has focused goals and apply your skills to creatively build and own products and infrastructure that are fundamental to the growth and success of our business while following good engineering practices.
-
-We will encourage and help you to:
-
-- Interact directly with our customers to help them deploy/configure our software, and solve issues that they encounter.
+- Collaborate directly with customers to collect feature requirements and resolve issues.
 - Plan your own work each month based on company goals and customer feedback.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
