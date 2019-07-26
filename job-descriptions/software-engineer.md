@@ -9,7 +9,7 @@ Sourcegraph's mission is to enable every software developer to create products u
 Our values:
 
 - **Inclusivity**. To build a product that serves the needs of all developers, we need to have a diverse team. Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
-- **Openess**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+- **Openness**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 - **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
 
 If you are passionate about making the world better through software, come join us!
@@ -25,7 +25,7 @@ You will help build Sourcegraph, a code search and navigation product, by collab
 - Integrate Sourcegraph features into existing code hosts (e.g. GitHub, Bitbucket, GitLab, Phabricator) via direct integrations and our browser extensions.
 - Design an extension API that allows anyone to enhance their code browsing experience in Sourcegraph by surfacing relevant contextual information.
 - Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
-- Automate release testing and continous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
+- Automate release testing and continuous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
 
 We use a variety of technologies to help us accomplish our goals:
 
