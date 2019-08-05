@@ -7,7 +7,7 @@ Join us on our mission to make it so everyone, in every community, in every coun
 We're hiring! Check out our open positions:
 
 - [Software Engineer](job-descriptions/software-engineer.md) (frontend, backend, operations, and/or customer facing)
-- [Product Education Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-education-engineer.md)
+- [Content Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/content-engineer.md)
 - [Growth & Business Operations](job-descriptions/growth-biz-ops.md) (Analyst or Manager)
 - [Account Executive](job-descriptions/account-executive.md)
 

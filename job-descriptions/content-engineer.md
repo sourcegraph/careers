@@ -1,22 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Product Education Engineer (San Francisco or remote)
-
-
-### About the role
-We are looking for an individual who is passionate about teaching others, and taking the complex and making it clear. This role will require you to become an expert on Sourcegraph and help our customers become experts as well. 
-You will: 
-Write training materials and other educational resources, case studies with current customers, product marketing whitepapers and other copy, and more
-Work cross-functionally with Customer Engineers, Product Managers, and Account Executives to understand customer use cases and document solutions
-Help triage incoming suggestions, corrections, and other content
-
-
-### Ideal candidates have
-Experience in a customer-facing role (technical trainer, customer engineer, technical account manager) or a content writing/editing role
-Excellent writing, editing, research, and planning skills
-Understanding of what makes technical documentation clear and effective 
-Ideally, some experience in software development, to understand Sourcegraph’s value proposition, product features, and customer pain points and needs 
-
+# Content Engineer (San Francisco or remote)
 
 ### About us
 
@@ -29,6 +13,21 @@ Our values:
 - **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
 
 If you are passionate about making the world better through software, come join us!
+
+### About the role
+We are looking for an individual who is passionate about teaching others, and taking the complex and making it clear. This role will require you to become an expert on Sourcegraph and help our customers become experts as well.
+
+You will: 
+
+- Plan and write technical content and blog posts, user training materials and other educational resources, case studies with current customers, product marketing whitepapers, and more.
+- Work cross-functionally with Software Engineers, Developer Advocates, Product Managers, and Account Executives to understand customer use cases and document solutions.
+- Help build a content marketing strategy that positions Sourcegraph as a leading source for knowledge  about elite development processes, developer tools, and more.
+
+### Ideal candidates have
+- Experience in a content writing/editing role or a customer-facing role (technical trainer, customer engineer, technical account manager).
+- Excellent writing, editing, research, and planning skills.
+- Understanding of what makes technical content clear and effective.
+- Ideally, some experience in software development, to understand Sourcegraph’s value proposition, product features, and customer pain points and needs.
 
 ### Interview process
 
