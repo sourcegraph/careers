@@ -8,7 +8,7 @@ Sourcegraph's mission is to enable every software developer to create products u
 
 Our values:
 
-- **Inclusivity**. To build a product that serves the needs of all developers, we need to have a diverse team. Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
+- **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
 - **Openess**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 - **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
 
@@ -16,7 +16,9 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help build Sourcegraph, a code search and navigation product, by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business. Here are some examples of what we work on every day:
+You will help build Sourcegraph, a code search and navigation product, by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
+
+Here are some examples of what we work on every day:
 
 - Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
 - Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
@@ -33,13 +35,35 @@ We use a variety of technologies to help us accomplish our goals:
 - Backend: Go, GraphQL, PostgreSQL, Redis
 - Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
 
-We expect that you have at least two years of experience relevant to the problems that you will be working on and/or the technologies that you will be using at Sourcegraph.
+The actual problems that you will work on and the technologies that you will use depend on your exact interests and skills. We'll figure out where you fit on the team as part of the interview process.
+
+#### Your responsibilities
+
+You will:
+
+- Collaborate with the product team to define and prioritize the problems that you will be working to solve.
+- Write technical design documents to communicate your implementation plan and solitic feedback from teammates.
+- Write code as necessary to achieve the goals of your projects.
+- Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
 We will encourage and support you to:
 
+- Write pitches for projects that you think should be prioritized.
 - Collaborate directly with customers to collect feature requirements and resolve issues.
-- Plan your own work each month based on company goals and customer feedback.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
+
+#### Your qualifications
+
+- You are skilled enough within your area of expertise to own the development on a non-trivial change your first month at Sourcegraph.
+- You are passionate about creating high quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
+- You are a humble learner who values continuous growth, no matter what your current skill level is. You seek out challenge and opportunity.
+
+#### Nice to haves
+
+- You have created and maintained a non-trivial amount code that is deployed to production.
+- You have shipped products and features that customers love to use.
+- You have experience working on developer tools.
+- You have experience mentoring and teaching other engineers.
 
 ### Location
 
@@ -60,6 +84,6 @@ We provide competitive pay and equity because we want you to act like a business
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
+If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
