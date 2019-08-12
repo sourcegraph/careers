@@ -30,7 +30,7 @@ You will build and run one of the engineering teams at Sourcegraph. Here are our
   - Ensure that our backend architecture scales to support the needs of our product.
 - Distribution
   - Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
-  - Automate release testing and continous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
+  - Automate release testing and continuous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
 
 #### Your responsibilities
 
