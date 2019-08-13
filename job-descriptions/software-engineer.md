@@ -42,7 +42,7 @@ The actual problems that you will work on and the technologies that you will use
 You will:
 
 - Collaborate with the product team to define and prioritize the problems that you will be working to solve.
-- Write technical design documents to communicate your implementation plan and solitic feedback from teammates.
+- Write technical design documents to communicate your implementation plan and solicit feedback from teammates.
 - Write code as necessary to achieve the goals of your projects.
 - Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
