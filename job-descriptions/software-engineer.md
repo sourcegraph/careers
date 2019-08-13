@@ -23,7 +23,7 @@ Here are some examples of what we work on every day:
 - Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
 - Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
 - Enable developers to perform large scale automated code modification.
-- Provide code intelligence (e.g. hover tooltips, go to definition, find references) across repositories and in many languages.
+- Provide code intelligence (e.g. hover tooltips, go to definition, find references) across repositories and in many programming languages.
 - Integrate Sourcegraph features into existing code hosts (e.g. GitHub, Bitbucket, GitLab, Phabricator) via direct integrations and our browser extensions.
 - Design an extension API that allows anyone to enhance their code browsing experience in Sourcegraph by surfacing relevant contextual information.
 - Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
