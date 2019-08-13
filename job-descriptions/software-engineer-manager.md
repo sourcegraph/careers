@@ -61,7 +61,7 @@ We provide competitive pay and equity because we want you to act like a business
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Ecah5TQQBIo).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1.  We evaluate relevant skills that you have via a remote interview.
 1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
@@ -72,4 +72,4 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 
 If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
-**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU)**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Ecah5TQQBIo)**
