@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# UX Designer (San Francisco or remote)
+# UX Designer
 
 ### About us
 
@@ -43,7 +43,7 @@ You have:
 - The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
-- A deep understanding of developers, and a good understanding of version control systems, preferably Git.
+- A deep understanding of developers, and a strong understanding of Git and Git workflows.
 
 #### Nice to haves
 
@@ -64,12 +64,12 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
-1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1.  We do a portfolio review for you to present your past work.
-1.  We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
-1.  We check your references.
-1.  We make you a job offer.
+1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
+1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
+1. We do a portfolio review for you to present your past work.
+1. We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
+1. We check your references.
+1. We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
