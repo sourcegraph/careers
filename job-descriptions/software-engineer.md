@@ -48,7 +48,7 @@ You will:
 
 We will encourage and support you to:
 
-- Write pitches for projects that you think should be prioritized.
+- Write RFCs for projects that you think should be prioritized.
 - Collaborate directly with customers to collect feature requirements and resolve issues.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
