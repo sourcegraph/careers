@@ -22,7 +22,7 @@ You will:
 
 - Own the comprehensive user experience of the product.
 - Contribute to overall strategy and decision-making about Sourcegraph’s features.
-- Work closely and effectively communicate with our product manager and engineers to define, design, and improve Sourcegraph, ensuring a high-quality implementation.
+- Work closely and effectively communicate with our product and engineering team to define, design, and improve Sourcegraph, ensuring a high-quality implementation.
 - Support multiple projects simultaneously while meeting tight deadlines.
 - Create designs that adhere to and extend the existing style guide.
 
@@ -56,7 +56,7 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 
 If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
 
-**[Click here to apply]()**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository)**
 
 ---
 
