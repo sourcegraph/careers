@@ -16,24 +16,43 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-We are searching for a creative, self-motivated UX designer who can brainstorm ideas and bring them to life. We highly value Product Design within our organization, as it impacts all aspects of Sourcegraph’s product. You'll have creative autonomy and a strong influence over the product’s development.
+We are searching for a creative, self-motivated UX designer who can iteratively improve the cohesive user expereience, while bringing clean and thoughtful UI to their designs. It is important that this person deeply understands developers and can craft an experience that delights a technical audience.
+
+#### Your responsibilities
 
 You will:
 
-- Own the comprehensive user experience of the product.
 - Contribute to overall strategy and decision-making about Sourcegraph’s features.
-- Work closely and effectively communicate with our product and engineering team to define, design, and improve Sourcegraph, ensuring a high-quality implementation.
-- Support multiple projects simultaneously while meeting tight deadlines.
-- Create designs that adhere to and extend the existing style guide.
+- Drive continual progress towards a cohesive, delightful experience for a technical audience through iterative improvements.
+- Design elegant flows, wireframes, prototypes, sketches, and high-fidelity visuals.
+- Use prototyping and user-testing to inform and validate designs.
+- Help measure, learn, and build new and existing experiences.
+- Collaborate with product and engineers to bring ideas to life, and support the team to make incremental progress toward design excellence.
+- Leverage and evolve the style guide to create a clean, usable design system.
 
-### Ideal candidates have
+We will encourage and support you to:
 
-- An understanding of and passion for what makes a great user experience.
-- A portfolio showcasing their skillset and years of experience designing digital products.
+- Collaborate directly with customers to collect feature requirements and inform product design.
+- Publish blog posts and give conference talks about your work at Sourcegraph.
+
+#### Your qualifications
+
+- A passion for and ability to communicate what makes a great user experience.
+- Experience using Figma, Sketch, or any other vector-based design tools to deliver product ideas from conception to mockups and finished renderings.
+- A portfolio showcasing your systematic and creative design thinking as well as deep understainding of UI/UX best practices for digital products.
 - Experience (limited, or as a hobby, is fine) as a programmer to understand the product and user need, and to jump into our codebase and fix design (e.g. CSS) issues.
 - A knack for giving and receiving feedback, and explaining the reasoning behind their designs.
-- Experience using Figma, Sketch, or any other vector-based design tools to deliver product ideas from conception to mockups and finished renderings.
 - Experience with prototyping as a means to explore and convey design solutions.
+- Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
+- Experience designing digital products that successfully shipped to customers.
+- Experience creating and maintaining a style guide or design system.
+- Fluency in best practices for web design, as well as knowledge of usability principles and techniques.
+
+#### Nice to haves
+
+- You have experience designing developer tools.
+- Experience working in cross-functional teams on multiple projects in tandem.
+- Experience building digital products or contributing to the design of consumer or enterprise applications.
 
 ### Location
 
@@ -57,7 +76,3 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository)**
-
----
-
-Sourcegraph is an equal opportunity workplace; we embrace diversity and welcome people from all backgrounds and communities.
