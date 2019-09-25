@@ -43,17 +43,19 @@ You have:
 - The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
-- Deep understanding of developers, and a good understanding of version control systems, preferably Git.
+- A deep understanding of developers, and a good understanding of version control systems, preferably Git.
 
 #### Nice to haves
 
-- You have experience designing developer tools.
+You have:
+
+- Experience designing developer tools.
 - Experience working in cross-functional teams on multiple projects in tandem.
 - Experience building or contributing to the design of consumer or enterprise applications.
 
 ### Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world and about half work from our office in San Francisco.
+We are flexible and don't require you to be in any particular timezone or location. Our team is distributed across the world and less than half work from our office in San Francisco.
 
 ### Compensation and benefits
 
