@@ -16,43 +16,40 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-We are searching for a creative, self-motivated UX designer who can iteratively improve the cohesive user expereience, while bringing clean and thoughtful UI to their designs. It is important that this person deeply understands developers and can craft an experience that delights a technical audience.
+We are looking for a self-motivated UX designer with leadership as the facilitator of design, and pragmatism as the person responsible for producing and executing the design. You will be our only designer and will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience.
 
 #### Your responsibilities
 
 You will:
 
-- Contribute to overall strategy and decision-making about Sourcegraph’s features.
+- Contribute to the overall strategy and decision-making about Sourcegraph’s features.
 - Drive continual progress towards a cohesive, delightful experience for a technical audience through iterative improvements.
-- Design elegant flows, wireframes, prototypes, sketches, and high-fidelity visuals.
-- Use prototyping and user-testing to inform and validate designs.
-- Help measure, learn, and build new and existing experiences.
-- Collaborate with product and engineers to bring ideas to life, and support the team to make incremental progress toward design excellence.
-- Leverage and evolve the style guide to create a clean, usable design system.
+- Have the autonomy to facilitate conversations, solve problems, and execute the designs.
+- Pull together insights from conversations with developers and customers to propose a variety of solutions, then collaborate with product and engineering to determine the best solutions to problems.
+- Use prototyping and usability testing to inform and validate designs.
 
 We will encourage and support you to:
 
-- Collaborate directly with customers to collect feature requirements and inform product design.
+- Collaborate directly with customers to inform strategy and design decisions.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
 #### Your qualifications
 
-- A passion for and ability to communicate what makes a great user experience.
-- Experience using Figma, Sketch, or any other vector-based design tools to deliver product ideas from conception to mockups and finished renderings.
-- A portfolio showcasing your systematic and creative design thinking as well as deep understainding of UI/UX best practices for digital products.
-- Experience (limited, or as a hobby, is fine) as a programmer to understand the product and user need, and to jump into our codebase and fix design (e.g. CSS) issues.
-- A knack for giving and receiving feedback, and explaining the reasoning behind their designs.
-- Experience with prototyping as a means to explore and convey design solutions.
+You have:
+
+- Expertise in designing complex web applications as demonstrated in a strong portfolio showcasing high-quality UX, interaction, and visual design.
+- Proficiency with Figma, Sketch, or similar tools to design end-to-end experiences (UX, interaction, and visual).
 - Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
-- Experience designing digital products that successfully shipped to customers.
-- Experience creating and maintaining a style guide or design system.
-- Fluency in best practices for web design, as well as knowledge of usability principles and techniques.
+- The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
+- The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
+- A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
+- Deep understanding of developers, and a good understanding of version control systems, preferably Git.
 
 #### Nice to haves
 
 - You have experience designing developer tools.
 - Experience working in cross-functional teams on multiple projects in tandem.
-- Experience building digital products or contributing to the design of consumer or enterprise applications.
+- Experience building or contributing to the design of consumer or enterprise applications.
 
 ### Location
 
@@ -64,15 +61,15 @@ We provide competitive pay and equity because we want you to act like a business
 
 ### Interview process
 
-1.  You [apply here]().
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1.  We give you a small design exercise, then set up a call for you to present your solution and discuss how you approached the problem.
-1.  We schedule a few more hours of interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
+1.  We do a portfolio review for you to present your past work.
+1.  We schedule a few more hours of interviews. We're happy to fly you out to our San Francisco office or conduct the remaining interviews over video chat, whatever works best for you.
 1.  We check your references.
 1.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing, but would like to stop by our San Francisco office to meet the team, let us know!
+If you aren't ready to start interviewing but would like to stop by our San Francisco office to meet the team, let us know!
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository)**
