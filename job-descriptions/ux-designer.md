@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, but as we grow, you will help us build the design team, and shape the design culture at Sourcegraph.
+We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, and as we grow, you will help us build the design team and shape the design culture at Sourcegraph.
 
 #### Your responsibilities
 
