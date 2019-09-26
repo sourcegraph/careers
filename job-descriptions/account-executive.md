@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Account Executive (San Francisco)
+# Account Executive (San Francisco or remote)
 
 
 ### About us
