@@ -10,14 +10,11 @@ We're building the new standard developer platform. Top tech companies have inve
 
 [We value openness and transparency](https://docs.sourcegraph.com/dev/open_source_open_company). Our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
-If you are passionate about making the world better through software, come join us!
 To build a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
+We have product-market fit and strong revenue growth. If you are passionate about making the world better through software, come join us!
+
 ### About the role
-
-You will help build Sourcegraph, a code search and navigation product, by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
-
-Here are some examples of what we work on every day:
 
 - Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
 - Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
