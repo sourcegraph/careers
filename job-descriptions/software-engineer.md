@@ -16,14 +16,7 @@ We have product-market fit and strong revenue growth. If you are passionate abou
 
 ### About the role
 
-- Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
-- Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
-- Enable developers to perform large scale automated code modification.
-- Provide code intelligence (e.g. hover tooltips, go to definition, find references) across repositories and in many programming languages.
-- Integrate Sourcegraph features into existing code hosts (e.g. GitHub, Bitbucket, GitLab, Phabricator) via direct integrations and our browser extensions.
-- Design an extension API that allows anyone to enhance their code browsing experience in Sourcegraph by surfacing relevant contextual information.
-- Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
-- Automate release testing and continuous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
+You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
 
 We use a variety of technologies to help us accomplish our goals:
 
@@ -31,7 +24,7 @@ We use a variety of technologies to help us accomplish our goals:
 - Backend: Go, GraphQL, PostgreSQL, Redis
 - Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
 
-The actual problems that you will work on and the technologies that you will use depend on your exact interests and skills. We'll figure out where you fit on the team as part of the interview process.
+Review our [product roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and what projects you might be working on if you started today.
 
 #### Your responsibilities
 
