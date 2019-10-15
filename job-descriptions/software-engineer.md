@@ -26,7 +26,7 @@ We use a variety of technologies to help us accomplish our goals:
 
 Review our [product roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and what projects you might be working on if you started today.
 
-#### Your responsibilities
+#### Responsibilities
 
 You will:
 
@@ -41,9 +41,10 @@ We will encourage and support you to:
 - Collaborate directly with customers to collect feature requirements and resolve issues.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-#### Your qualifications
+#### Qualifications
 
-- You are skilled enough within your area of expertise to own the development on a non-trivial change your first month at Sourcegraph.
+- You are skilled enough within your area of expertise to own the development on a non-trivial change during your first month at Sourcegraph.
+- You communcate clearly, especially in writing, and work well on a team.
 - You are passionate about creating high quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
 - You are a humble learner who values continuous growth and learns new skills quickly.
 - Your are happy and effective working on challenging open-ended engineering problems.
