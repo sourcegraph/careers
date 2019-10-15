@@ -31,13 +31,12 @@ Review our [product roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9ch
 You will:
 
 - Collaborate with the product team to define and prioritize the problems that you will be working to solve.
-- Write technical design documents to communicate your implementation plan and solicit feedback from teammates.
+- Write [RFCs](https://docs.sourcegraph.com/dev/rfcs) to communicate your implementation plan and solicit feedback from teammates.
 - Write code to achieve the goals of your projects.
 - Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
 We will encourage and support you to:
 
-- Write RFCs for projects that you think should be prioritized.
 - Collaborate directly with customers to collect feature requirements and resolve issues.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
