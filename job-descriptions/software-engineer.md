@@ -8,7 +8,7 @@ We're building the new standard developer platform. Top tech companies have inve
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can read and write code. By making code more accessible, we will democratize software development and accelerate important innovations of the future (e.g. transportation, health care, energy, AI, communication, space travel).
 
-[We value openness and transparency](https://docs.sourcegraph.com/dev/open_source_open_company). Our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://docs.sourcegraph.com/dev/roadmap), and [our company processes](https://docs.sourcegraph.com/dev/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
 To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
