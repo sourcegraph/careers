@@ -10,7 +10,7 @@ We're building the new standard developer platform. Top tech companies have inve
 
 [We value openness and transparency](https://docs.sourcegraph.com/dev/open_source_open_company). Our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
-To build a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
+To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
 We have product-market fit and strong revenue growth. If you are passionate about making the world better through software, come join us!
 
