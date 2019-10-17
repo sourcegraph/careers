@@ -12,7 +12,7 @@ We value openness and transparency. [Our code](https://github.com/sourcegraph/so
 
 To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-We have product-market fit and strong revenue growth. If you are passionate about making the world better through software, come join us!
+If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
