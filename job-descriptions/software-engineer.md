@@ -6,7 +6,7 @@
 
 We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
-[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can read and write code. By making code more accessible, we will democratize software development and accelerate important innovations of the future (e.g. transportation, health care, energy, AI, communication, space travel).
+[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
 We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://docs.sourcegraph.com/dev/roadmap), and [our company processes](https://docs.sourcegraph.com/dev/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
