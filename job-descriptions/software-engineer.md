@@ -68,7 +68,7 @@ We provide competitive pay and equity because we want you to act like a business
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
-1.  We schedule a few more hours of technical and non-technical interviews. We're happy to fly you out to our San Francisco office, or conduct the remaining interviews over video chat, whatever works best for you.
+1.  We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite or remotely over video chat.
 1.  We check your references.
 1.  We make you a job offer.
 
