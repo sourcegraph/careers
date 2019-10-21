@@ -4,30 +4,19 @@
 
 ### About us
 
-Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software, and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
+We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
-Our values:
+[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
-- **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-- **Openness**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-- **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
+We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://docs.sourcegraph.com/dev/roadmap), and [our company processes](https://docs.sourcegraph.com/dev/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+
+To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
 If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
-You will help build Sourcegraph, a code search and navigation product, by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
-
-Here are some examples of what we work on every day:
-
-- Create a code search experience that is friendly to new users and powerful in the hands of a veteran user.
-- Scale code search to return results from tens of thousands of repositories and massive monorepos in under a second.
-- Enable developers to perform large scale automated code modification.
-- Provide code intelligence (e.g. hover tooltips, go to definition, find references) across repositories and in many programming languages.
-- Integrate Sourcegraph features into existing code hosts (e.g. GitHub, Bitbucket, GitLab, Phabricator) via direct integrations and our browser extensions.
-- Design an extension API that allows anyone to enhance their code browsing experience in Sourcegraph by surfacing relevant contextual information.
-- Guide customers to seamlessly deploy, configure, and upgrade Sourcegraph on-premise in a variety of environments.
-- Automate release testing and continuous deployments to our test clusters and sourcegraph.com while continuously monitoring important metrics and maintaining zero downtime.
+You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
 
 We use a variety of technologies to help us accomplish our goals:
 
@@ -35,27 +24,27 @@ We use a variety of technologies to help us accomplish our goals:
 - Backend: Go, GraphQL, PostgreSQL, Redis
 - Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
 
-The actual problems that you will work on and the technologies that you will use depend on your exact interests and skills. We'll figure out where you fit on the team as part of the interview process.
+Review our [product roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and what projects you might be working on if you started today.
 
-#### Your responsibilities
+#### Responsibilities
 
 You will:
 
 - Collaborate with the product team to define and prioritize the problems that you will be working to solve.
-- Write technical design documents to communicate your implementation plan and solicit feedback from teammates.
+- Write [RFCs](https://docs.sourcegraph.com/dev/rfcs) to communicate your implementation plan and solicit feedback from teammates.
 - Write code to achieve the goals of your projects.
 - Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
 We will encourage and support you to:
 
-- Write RFCs for projects that you think should be prioritized.
 - Collaborate directly with customers to collect feature requirements and resolve issues.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-#### Your qualifications
+#### Qualifications
 
-- You are skilled enough within your area of expertise to own the development on a non-trivial change your first month at Sourcegraph.
-- You are passionate about creating high quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
+- You are skilled enough within your area of expertise to own the development of a non-trivial change during your first month at Sourcegraph.
+- You communicate clearly, especially in writing, and work well on a team.
+- You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
 - You are a humble learner who values continuous growth and learns new skills quickly.
 - Your are happy and effective working on challenging open-ended engineering problems.
 
