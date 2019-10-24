@@ -2,16 +2,15 @@
 
 # Account Executive (San Francisco or remote)
 
-
 ### About us
 
-Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software, and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
+We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
-Our values:
+[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
-- **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-- **Openness**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-- **Progress**. We make continuous progress on our product by [releasing a new version of Sourcegraph every month](https://docs.sourcegraph.com/dev/releases). Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. We also hold [regular retrospectives](https://docs.sourcegraph.com/dev/retrospectives) to learn how we can work better as a team.
+We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://docs.sourcegraph.com/dev/roadmap), and [our company processes](https://docs.sourcegraph.com/dev/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+
+To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
 If you are passionate about making the world better through software, come join us!
 
@@ -26,7 +25,7 @@ If you are passionate about making the world better through software, come join 
 #### Your qualifications
 
 - 5+ years mid-market/enterprise SaaS sales experience
-- Experience selling products with ASP >= $100k
+- Experience selling products with ASP >= \$100k
 - Proficiency with software development concepts
 - Passionate about our mission and the potential of developers to improve the world
 
@@ -37,7 +36,6 @@ If you are passionate about making the world better through software, come join 
 - Converting freemium usage to large commercial contracts
 - Experience with complex multi-year contracts
 - Proficiency with security, licensing, and compliance requirements
-
 
 ### Compensation and benefits
 
