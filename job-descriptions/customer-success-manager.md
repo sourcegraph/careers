@@ -10,15 +10,15 @@ Our values:
 
 - **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 - **Openness**. We are an [open company](https://docs.sourcegraph.com/dev/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-- **Progress**. We make continuous progress on our product and our business. Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next. 
+- **Progress**. We make continuous progress on our product and our business. Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next.
 
 If you are passionate about making the world better through software, come join us!
 
 ### About the role
 
-You will help ensure that every Sourcegraph customer gets the most out of their purchase, that every Sourcegraph end-user  uses it to answer their everyday questions and solve their everyday problems faster than before, and that everyone who comes in contact with Sourcegraph sings its praises. 
+You will help ensure that every Sourcegraph customer gets the most out of their purchase, that every Sourcegraph end-user  uses it to answer their everyday questions and solve their everyday problems faster than before, and that everyone who comes in contact with Sourcegraph sings its praises.
 
-We have strong product-market fit, with thousands of daily active users inside of some of the world’s most elite software firms. As we grow, we need you to help ensure that every customer is getting the full value out of the product and considers it a success internally. 
+We have strong product-market fit, with thousands of daily active users inside of some of the world’s most elite software firms. As we grow, we need you to help ensure that every customer is getting the full value out of the product and considers it a success internally.
 
 From deployment and rollout support, to training sessions and brown bag lunches, to ongoing check-ins with buyers and admins and working closely with our Sales team to build plans to ensure successful renewals and account growth, you will be the face of Sourcegraph for many of our customers.
 
