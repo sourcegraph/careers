@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
+You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business. This single job description covers a broad range of skillsets that we value at Sourcegraph (e.g. frontend, backend, full stack, dev ops, site reliability) so please don't hesitate to apply.
 
 We use a variety of technologies to help us accomplish our goals:
 
@@ -24,20 +24,20 @@ We use a variety of technologies to help us accomplish our goals:
 - Backend: Go, GraphQL, PostgreSQL, Redis
 - Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
 
-Review our [product roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and what projects you might be working on if you started today.
+Review our [roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and what projects you might be working on if you started today.
 
 #### Responsibilities
 
 You will:
 
-- Collaborate with the product team to define and prioritize the problems that you will be working to solve.
+- Collaborate with the product and engineering team to define and prioritize the problems that you will be working to solve.
 - Write [RFCs](https://docs.sourcegraph.com/dev/rfcs) to communicate your implementation plan and solicit feedback from teammates.
 - Write code to achieve the goals of your projects.
 - Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
 We will encourage and support you to:
 
-- Collaborate directly with customers to collect feature requirements and resolve issues.
+- Collaborate directly with the customers of your work.
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
 #### Qualifications
@@ -50,8 +50,7 @@ We will encourage and support you to:
 
 #### Nice to haves
 
-- You have created and maintained a non-trivial amount code that is deployed to production.
-- You have shipped products and features that customers love to use.
+- You have created and maintained a non-trivial amount of production code.
 - You have experience working on developer tools.
 - You have experience mentoring and teaching other engineers.
 
@@ -67,8 +66,12 @@ We provide competitive pay and equity because we want you to act like a business
 
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAADP_pY7jAAAXU).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1.  We evaluate relevant technical skills that you have via a remote interview or async coding exercise.
-1.  We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
+1.  We evaluate relevant technical skills that you have via a 2 hour coding exercise asynchronously at a time of your choosing.
+1.  We schedule a 4 hours of remote interviews over video chat across multiple days.
+    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
+    - **Technical experience:** We ask you about your past work and accomplishments.
+    - **Team collaboration:** We ask you about how you work and communciate in a team setting, and how you handle tricky situations.
+    - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1.  We check your references.
 1.  We make you a job offer.
 
