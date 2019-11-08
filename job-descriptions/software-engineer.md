@@ -8,7 +8,7 @@ We're building the new standard developer platform. Top tech companies have inve
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
-We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://docs.sourcegraph.com/team/roadmap), and [our company processes](https://docs.sourcegraph.com/team/product-dev/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our product roadmap](https://about.sourcegraph.com/direction), and [our company processes](https://about.sourcegraph.com/company/open_source_open_company_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
 To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
@@ -31,7 +31,7 @@ Review our [roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdo
 You will:
 
 - Collaborate with the product and engineering team to define and prioritize the problems that you will be working to solve.
-- Write [RFCs](https://docs.sourcegraph.com/dev/rfcs) to communicate your implementation plan and solicit feedback from teammates.
+- Write [RFCs](https://about.sourcegraph.com/handbook/engineering/rfcs) to communicate your implementation plan and solicit feedback from teammates.
 - Write code to achieve the goals of your projects.
 - Provide thoughtful and compassionate feedback to your teammates when reviewing their code and designs.
 
