@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer Internship (San Francisco)
+# Software Engineer Internship (Remote)
 
 ### About us
 
