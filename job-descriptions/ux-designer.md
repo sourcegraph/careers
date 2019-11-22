@@ -60,7 +60,7 @@ We are flexible and don't require you to be in any particular timezone or locati
 
 ### Compensation and benefits
 
-We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
+We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
 ### Interview process
 
