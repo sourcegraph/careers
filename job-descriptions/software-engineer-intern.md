@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer Internship (Remote)
+# Software Engineer Internship
 
 ### About us
 
@@ -34,5 +34,9 @@ You will be matched with a mentor who will help plan your work, and then you wil
 - Are pursuing a computer science undergraduate or graduate degree.
 - Have experience with the basics of either Go or TypeScript/JavaScript.
 - Can demonstrate passion and excitement about developer tools (e.g. have built a developer tool, contributed to open source developer tools or other open source projects, written blog posts or talks about development, etc.)
+
+### Location
+
+We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
 
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5K2vwzjId4lr?trackingTag=careersRepository)**

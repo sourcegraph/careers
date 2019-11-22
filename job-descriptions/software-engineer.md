@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer (San Francisco or remote)
+# Software Engineer
 
 ### About us
 
@@ -56,7 +56,7 @@ We will encourage and support you to:
 
 ### Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world and about half work from our office in San Francisco.
+We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
 
 ### Compensation and benefits
 
