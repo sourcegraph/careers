@@ -39,6 +39,6 @@ If you are passionate about making the world better through software, come join 
 
 ### Compensation and benefits
 
-We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
+We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KTmOOYSWAz0)**
