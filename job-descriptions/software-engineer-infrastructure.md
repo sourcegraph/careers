@@ -48,7 +48,8 @@ We will encourage and support you to:
 
 #### Nice to haves
 
-- You have published blog posts and given conference talks about your past work.
+- You have published blog posts and/or given conference talks about your past work.
+- You have experience working on high-performing teams, preferable tech startups.
 
 ### Location
 
