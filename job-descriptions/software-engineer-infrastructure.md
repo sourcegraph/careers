@@ -20,8 +20,6 @@ You will be responsible for how Sourcegraph is built, deployed, and monitored, o
 
 Review the [Distribution team's roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are solving today and the challenges that we plan to solve in the future.
 
-- Deployment and operations: Kubernetes, Docker, Google Cloud Platform, Terraform
-
 #### Responsibilities
 
 You will:
