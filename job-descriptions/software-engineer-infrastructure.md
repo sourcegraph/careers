@@ -16,19 +16,19 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will be responsible for how Sourcegraph is built, deployed, and monitored, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world).
+As a member of the [Distribution team](TODO:link_to_team_description), you will be responsible for how Sourcegraph is built, tested, and deployed. You will play a key role in increasing developer velocity, raising software quality, and quantifying reliability across this organization, our customers, and the open-source community. Collecting intelligent metrics and presenting them in a timely and useful manner is are critical to the success of Sourcegraph's continued growth. You will have the opportunity to enable millions of developers to do what they do best by giving them reliable, accurate, and transparent telemetry of the health of their Sourcegraph instances, on customer sites and on the largest installation in the world, at Sourcegraph.com.
 
-Review the [Distribution team's roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are solving today and the challenges that we plan to solve in the future.
+To see the challenges that we are solving today and the help achieve the goals we are striving for the future, review the [Distribution team's roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6).
 
 #### Responsibilities
 
 You will:
 
-- Develop and maintain our CI/CD infrastructure so that builds are fast, reliable, and reproducible, and releases are boring and automated.
+- Own our CI/CD infrastructure (build, manage, diagnose, and debug) so that builds are fast, reliable, and reproducible to continuous delivery of new features as they are ready.
 - Design how Sourcegraph is packaged and deployed so that it can be deployed on-premise at any customer with ease, regardless of the customer's environment.
-- Define and capture metrics and logs that are used to monitor the heath and performance of Sourcegraph instances.
+- Define and incubate our SLIs and SLOs, leveraging metrics and logs to ensure the heath and performance of Sourcegraph instances.
 - Dive into our application code when necessary to improve the performance, reliability, and observability of Sourcegraph.
-- Clearly document and automate how customers provision and scale Sourcegraph instances.
+- Iterate on and automate how customers provision, secure, and scale Sourcegraph instances.
 - Run our on-call rotation to respond to operational incidents on Sourcegraph.com and at our largest customers.
 - Write [RFCs](https://about.sourcegraph.com/handbook/engineering/rfcs) to communicate your implementation plans and solicit feedback from teammates.
 - Collaborate directly with customers to troubleshoot deployment and configuration issues.
@@ -40,11 +40,12 @@ We will encourage and support you to:
 #### Qualifications
 
 - You are comfortable using Go and Terraform to build tooling and automation.
-- You understand how Kubernetes works and are an expert at configuring and deploying non-trivial applications using Kubernetes on one or more compute infrastructure providers: GCP (preferred), AWS, Azure, Digital Ocean.
+- You understand Kubernetes internals and are an expert at configuring and deploying non-trivial applications using Kubernetes on one or more compute infrastructure providers: GCP (preferred), AWS, Azure, Digital Ocean.
 - You are an expert in at least one CI system (Buildkite, TravisCI, etc.) and know how to achieve optimal build times without sacrificing reproducible builds.
 - You communicate clearly, especially in writing, and know how to write excellent documentation.
-- You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
-- Your are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
+- You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g. cut scope, divert attention elsewhere, shed unnecessary practices) to ship quickly when necessary.
+- You have exposure to continuous improvement practices, and are comfortable with the transparency we work with every day.
+- You are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
 
 #### Nice to haves
 
