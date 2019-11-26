@@ -26,7 +26,7 @@ You will:
 
 - Develop and maintain our CI/CD infrastructure so that builds are fast, reliable, and reproducible, and releases are boring and automated.
 - Design how Sourcegraph is packaged and deployed so that it can be deployed on-premise at any customer with ease, regardless of the customer's environment.
-- Define and capture metrics and logs that are used to monitor the heath and performance of Sourcegraph instances.
+- Define and capture metrics and logs that are used to monitor the health and performance of Sourcegraph instances.
 - Dive into our application code when necessary to improve the performance, reliability, and observability of Sourcegraph.
 - Clearly document and automate how customers provision and scale Sourcegraph instances.
 - Run our on-call rotation to respond to operational incidents on Sourcegraph.com and at our largest customers.
