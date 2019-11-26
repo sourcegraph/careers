@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business. This single job description covers a broad range of skillsets that we value at Sourcegraph (e.g. frontend, backend, full stack, dev ops, site reliability) so please don't hesitate to apply.
+You will help build Sourcegraph by collaborating on a small team to solve challenging problems that are fundamental to the growth and success of our business.
 
 We use a variety of technologies to help us accomplish our goals:
 
