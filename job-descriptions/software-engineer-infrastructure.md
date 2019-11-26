@@ -67,13 +67,13 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 1.  We schedule a 4 hours of remote interviews over video chat across multiple days.
     - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
     - **Technical experience:** We ask you about your past work and accomplishments.
-    - **Team collaboration:** We ask you about how you work and communciate in a team setting, and how you handle tricky situations.
+    - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
     - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1.  We check your references.
 1.  We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
-If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
+If you aren't ready to start interviewing but are interested to chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository)**
