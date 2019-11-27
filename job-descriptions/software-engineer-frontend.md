@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-As a frontend engineer at Sourcegraph, you will focus on building intuitive user experiences and APIs to make our product accessible to everyone.
+As a frontend engineer at Sourcegraph, you will focus on building intuitive user experiences and APIs to make our product accessible to everyone. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the kinds of projects that we are working on today and have planned for the future.
 
 We are looking for candidates with the following skills and a strong desire to learn:
 
