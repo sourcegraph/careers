@@ -32,7 +32,7 @@ Nice to have:
 - Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
 - Experience building intuitive and documented CLIs.
 - Published blog posts and/or tech talks about your work.
-- You have experience working on high-performing teams, preferably tech startups.
+- Experience working on high-performing teams, preferably tech startups.
 
 ### Location
 
