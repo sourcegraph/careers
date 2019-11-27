@@ -6,9 +6,10 @@ Join us on our mission to make it so everyone, in every community, in every coun
 
 We're hiring! Check out our open positions:
 
-- [Software Engineer](job-descriptions/software-engineer.md) (frontend, backend, full stack)
-- [Software Engineer Intern](job-descriptions/software-engineer-intern.md) (frontend, backend, full stack)
-- [Software Engineer - Infrastructure](job-descriptions/software-engineer-infrastructure.md) (dev ops, CI/CD, site reliability)
+- [Software Engineer](job-descriptions/software-engineer.md) (backend, full stack)
+- [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
+- [Software Engineer - Infrastructure](job-descriptions/software-engineer-infrastructure.md)
+- [Software Engineer - Intern](job-descriptions/software-engineer-intern.md)
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [UX Designer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/ux-designer.md)
 
