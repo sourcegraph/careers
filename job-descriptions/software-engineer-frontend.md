@@ -23,6 +23,7 @@ We are looking for candidates with the following skills and a strong desire to l
 - Excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
 - Solid understanding of JavaScript's concurrency model and event loop.
 - Skilled at building single page web apps (React preferred) and HTTP APIs (GraphQL, Go preferred).
+- Experienced with automated testing (unit testing, end-to-end testing).
 - Ability to communicate clearly and empathetically, especially in writing.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
