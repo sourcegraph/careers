@@ -8,7 +8,7 @@ We're building the new standard developer platform. Top tech companies have inve
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
-We value openness and transparency. [Our code](https://github.com/sourcegraph/sourcegraph), [our roadmap](https://about.sourcegraph.com/direction), and [our company processes](https://about.sourcegraph.com/company/open_source_open_company) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+We value openness and transparency. [Our handbook](https://about.sourcegraph.com/handbook), [our strategy](https://about.sourcegraph.com/company/strategy), and [our code](https://github.com/sourcegraph/sourcegraph) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
 
 To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
@@ -40,5 +40,6 @@ If you are passionate about making the world better through software, come join 
 ### Compensation and benefits
 
 We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5KTmOOYSWAz0)**

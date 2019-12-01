@@ -16,7 +16,7 @@ Apply by following the directions in the job description. Have questions about o
 
 ### Our team
 
-Our team consists of talented, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy.
+Our team consists of talented, collaborative, driven individuals who are attracted to the massive problem we are tackling. We work in an open environment that treats people in a first-class manner and provides them with ownership, responsibility, and autonomy. See the [Sourcegraph handbook](https://about.sourcegraph.com/handbook) for more about what it's like to work at Sourcegraph.
 
 ### Our work
 
