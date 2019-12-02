@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer - Frontend
+# Software Engineer - Backend
 
 ### About us
 
@@ -16,20 +16,17 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-As a frontend engineer at Sourcegraph, you will focus on building intuitive user experiences and APIs to make our product accessible to everyone. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the kinds of projects that we are working on today and have planned for the future.
+As a backend engineer at Sourcegraph, you will focus on designing and developing fast and reliable services that power our product (e.g., code search, code intelligence, automation). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the kinds of projects that we are working on today and have planned for the future.
 
 We are looking for candidates with the following skills and a strong desire to learn:
 
-- Excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
-- Solid understanding of JavaScript's concurrency model and event loop.
-- Skilled at building and testing (e.g., unit testing, automated end-to-end testing) single page web apps (React preferred) and HTTP APIs (GraphQL and Go preferred).
+- Excellent knowledge of Go (preferred) or TypeScript.
+- Skilled at building and testing (e.g., unit testing, automated end-to-end testing) high performance distributed systems in Go (preferred) or TypeScript.
 - Ability to communicate clearly and empathetically, especially in writing.
-- Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
+- Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 
 Nice to have:
 
-- Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
-- Experience building intuitive and documented CLIs.
 - Published blog posts and/or tech talks about your work.
 - Experience working on high-performing teams, preferably tech startups.
 
