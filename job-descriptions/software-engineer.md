@@ -75,7 +75,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 1.  We check your references.
 1.  We make you a job offer.
 
-We also expect you to be interviewing us, too, so ask us any questions you have along the way.
+We also expect you to be interviewing us, so ask us any questions you have along the way.
 
 If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 

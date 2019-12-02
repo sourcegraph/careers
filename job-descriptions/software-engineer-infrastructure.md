@@ -43,8 +43,8 @@ We will encourage and support you to:
 - You understand how Kubernetes works and are an expert at configuring and deploying non-trivial applications using Kubernetes on one or more compute infrastructure providers: GCP (preferred), AWS, Azure, Digital Ocean.
 - You are an expert in at least one CI system (Buildkite, TravisCI, etc.) and know how to achieve optimal build times without sacrificing reproducible builds.
 - You communicate clearly, especially in writing, and know how to write excellent documentation.
-- You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
-- Your are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
+- You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g., cut scope) to ship quickly when necessary.
+- You are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
 
 #### Nice to haves
 
@@ -64,7 +64,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1.  We evaluate relevant technical skills that you have via a 2 hour coding exercise asynchronously at a time of your choosing.
-1.  We schedule a 4 hours of remote interviews over video chat across multiple days.
+1.  We schedule 4 hours of remote interviews over video chat across multiple days.
     - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
     - **Technical experience:** We ask you about your past work and accomplishments.
     - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
@@ -72,7 +72,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 1.  We check your references.
 1.  We make you a job offer.
 
-We also expect you to be interviewing us too, so ask us any questions you have along the way.
+We also expect you to be interviewing us, so ask us any questions you have along the way.
 
 If you aren't ready to start interviewing but are interested to chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
