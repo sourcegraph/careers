@@ -10,6 +10,7 @@ We're hiring! Check out our open positions:
 
 - [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
+- [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
 - [Software Engineer - Infrastructure](job-descriptions/software-engineer-infrastructure.md)
 - [Software Engineer - Intern](job-descriptions/software-engineer-intern.md)
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)

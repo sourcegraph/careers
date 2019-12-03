@@ -42,7 +42,7 @@ We will encourage and support you to:
 - You are comfortable using Go and Terraform to build tooling and automation.
 - You understand how Kubernetes works and are an expert at configuring and deploying non-trivial applications using Kubernetes on one or more compute infrastructure providers: GCP (preferred), AWS, Azure, Digital Ocean.
 - You are an expert in at least one CI system (Buildkite, TravisCI, etc.) and know how to achieve optimal build times without sacrificing reproducible builds.
-- You communicate clearly, especially in writing, and know how to write excellent documentation.
+- You communicate clearly, especially in writing and documentation.
 - You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g., cut scope) to ship quickly when necessary.
 - You are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
 
