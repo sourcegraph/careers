@@ -4,13 +4,13 @@
 
 ### About us
 
-Sourcegraph's mission is to enable every software developer to create products using the best technology. The innovations of the future will all rely on software, and we want to bring the future sooner by building the best tools that help developers answer questions about their code. You can learn more about our mission by reading [our master plan](https://sourcegraph.com/plan).
+We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
-Our values:
+Our mission is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
-- **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-- **Openness**. We are an [open company](https://about.sourcegraph.com/company/open_source_open_company): our code, our product direction, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-- **Progress**. We make continuous progress on our product and our business. Check out [our product direction](https://about.sourcegraph.com/direction) to see what we are working on next.
+We value openness and transparency. Our handbook, our strategy, and our code are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
+
+To create a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
 If you are passionate about making the world better through software, come join us!
 
@@ -18,16 +18,16 @@ If you are passionate about making the world better through software, come join 
 
 You will help build the organization that ensures every Sourcegraph customer gets the most value possible out of the product, that every Sourcegraph user trusts it to answer their everyday questions, and that everyone who comes in contact with Sourcegraph sings its praises.
 
-Our team and our sales are growing like a rocket—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s most advanced software firms.
+Our team and our sales are growing fast—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s premier development teams (Uber, Yelp, Lyft, SoFi, Quantcast, and many more).
 
-You will be the first hire on the Customer Success team. You will help define the strategy for managing our growing customer base, and ensuring we maintain best-in-class customer metrics as we scale.
+You will be the first hire on the Customer Success team. You will help define the strategy for managing our growing customer base, ensure we maintain best-in-class customer metrics as we scale, and will have the opportunity to build a team.
 
 #### In the first 30 days, you will…
 
 - Go through a weeklong training program on our product, our value propositions, our customers, our team, and our processes.
 - Sit in on 10+ customer and prospect calls to understand our pitch and our customers’ needs.
 - Dive deep into our metrics (BigQuery, Looker, Google Analytics) and our CRM and marketing suite (HubSpot) to understand how we measure customer engagement.
-- Take over (or get deeply involved in) 2–4 of our largest, highest-priority customer relationships (e.g. Uber, Lyft, Yelp).
+- Take over (or get deeply involved in) 2–4 of our largest, highest-priority customer relationships.
 
 #### In the first 90 days you will…
 - Help diagnose our key customer relationship gaps, and build a playbook for tracking customer happiness and building and maintaining long-term relationships.
