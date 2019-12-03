@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Customer Success Manager (San Francisco or remote)
+# Head of Customer Success
 
 ### About us
 
@@ -16,43 +16,51 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help ensure that every Sourcegraph customer gets the most out of their purchase, that every Sourcegraph end-user  uses it to answer their everyday questions and solve their everyday problems faster than before, and that everyone who comes in contact with Sourcegraph sings its praises.
+You will help build the organization that ensures every Sourcegraph customer gets the most value possible out of the product, that every Sourcegraph user trusts it to answer their everyday questions, and that everyone who comes in contact with Sourcegraph sings its praises.
 
-We have strong product-market fit, with thousands of daily active users inside of some of the world’s most elite software firms. As we grow, we need you to help ensure that every customer is getting the full value out of the product and considers it a success internally.
+Our team and our sales are growing like a rocket—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s most advanced software firms.
 
-From deployment and rollout support, to training sessions and brown bag lunches, to ongoing check-ins with buyers and admins and working closely with our Sales team to build plans to ensure successful renewals and account growth, you will be the face of Sourcegraph for many of our customers.
+You will be the first hire on the Customer Success team. You will help define the strategy for managing our growing customer base, and ensuring we maintain best-in-class customer metrics as we scale.
 
-#### Your responsibilities
+#### In the first 30 days, you will…
 
-- Work with our Marketing, Developer Relations, and Sales teams to build customer deployment and rollout plans, and provide customer support during trials and post-sales.
-- Proactively track customer engagement and satisfaction surveys, and help us identify the right metrics to predict renewals and growth.
-- Work directly with our contacts to understand how they define success, and how to exceed their expectations.
-- Work with our Developer Relations team to organize traning sessions, webinars, and brown bag lunches to educate end-users on Sourcegraph and drive engagement.
+- Go through a weeklong training program on our product, our value propositions, our customers, our team, and our processes.
+- Sit in on 10+ customer and prospect calls to understand our pitch and our customers’ needs.
+- Dive deep into our metrics (BigQuery, Looker, Google Analytics) and our CRM and marketing suite (HubSpot) to understand how we measure customer engagement.
+- Take over (or get deeply involved in) 2–4 of our largest, highest-priority customer relationships (e.g. Uber, Lyft, Yelp).
+
+#### In the first 90 days you will…
+- Help diagnose our key customer relationship gaps, and build a playbook for tracking customer happiness and building and maintaining long-term relationships.
+- Take ownership of the relationships with all of our largest customers.
+- Work closely with Sales to plan and execute on renewals and upsells.
+- Build the plan for growing our Customer Success efforts over the rest of 2020.
+- Execute. This is not just a role for strategic planning — we need someone who can manage a pipeline of customers.
 
 #### Ideal candidates have
 
-- Experience working in a go-to-market function (such as Sales, Success, Developer Relations, or Support) that involves direct engagement with customers and end users.
+- Experience in a customer-facing function (such as Sales, Success, Developer Relations, etc.).
 - An organized approach to work, with demonstrated ability to manage a large pipeline of projects/clients, to make difficult prioritization decisions, and to use data to guide decision-making.
 - A passion for and excitement about software development (no training as an engineer required).
 - Enthusiasm for building a new team and new strategy from scratch, and working on challenging open-ended problems.
-- Comfort speaking publicly.
 
 ### Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our team is distributed across the world and about half work from our office in San Francisco.
+We are an [all-remote company](https://about.sourcegraph.com/company/remote), and don't require you to be in any particular timezone or location. Our team is distributed around the world.
+
+For this role, a willingness to travel to customer sites across the U.S. (and occasionally around the world) and to regularly take calls on continental U.S. hours is required.
 
 ### Compensation and benefits
 
-We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. Customer Success roles receive a combination of base salary and commissions for successful new deals, customer renewals, and upsells.
+We provide competitive pay and equity because we want you to act like a business owner and share in the success of Sourcegraph. Customer Success roles receive a combination of base salary and commissions for successful customer renewals and upsells.
 
 We also provide [many benefits](../README.md#benefits) to keep you happy, healthy, and productive.
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5DNMQDlW_VVQ).
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5BA-EiFzp3_d).
 1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1.  We give you a small case study project to see how you would approach the job at Sourcegraph.
-1.  We schedule a few more hours of interviews. We are happy to fly you out to our San Francisco office to meet the team in person, or to conduct the remaining interviews remotely, whatever works best for you.
+1.  We schedule a few more hours of interviews.
 1.  We check your references.
 1.  We make you a job offer.
 
@@ -60,4 +68,4 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 
 If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
-**[Click here to apply](...)**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5BA-EiFzp3_d)**
