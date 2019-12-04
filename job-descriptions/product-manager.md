@@ -23,7 +23,7 @@ Why this role is special:
 - Our product has [extremely high engagement](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) relative to most products (especially enterprise products). We get enormous amounts of user feedback from our unusually thoughtful user base.
 - Our developers use the product, so they care deeply about product matters. You won't be fighting apathy.
 
-Review our [roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and our [OKRs](https://about.sourcegraph.com/company/okrs) to understand the goals you will be helping drive.
+Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
 #### Responsibilities
 
@@ -31,7 +31,7 @@ You will:
 
 - Own an area of the product, and create and drive its product roadmap.
 - Collaborate with engineers and designers to ideate, plan, and build the solutions to customer problems.
-- Use customer feedback to validate priorities, improve documentation, and define product requirements.
+- Gather customer feedback to validate priorities, improve documentation, and define product requirements.
 - Be transparent in your internal and external communication. Sourcegraph is open source, and most discussion occurs in public, or in channels where you communicate directly with our customers.
 - Be a passionate advocate for a delightful user experience.
 
@@ -42,27 +42,27 @@ You will:
 - Excellent written and verbal communication skills, technical writing ability, and use of data to back up your arguments.
 - Ability to stay focused on goals and strategically prioritize work.
 - Deep passion for developer tools and productivity enhancements.
-- Demonstrated leadership, the ability to drive product strategy and work well with senior engineers and designers.
+- Demonstrated leadership skills and ability to drive and influence product strategy across engineering, design, and distribution.
 
 #### Nice to haves
 
-- You have experience working as a product manager on a software development product.
-- You have experience building developer tools.
-- You have experience working with remote teams.
+- Previous product management experience on a software development or developer tools product.
+- Experience building and/or contributing to developer tools.
+- Experience working remotely with globally distributed teams.
 
 ### Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
+We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you.
 
 ### Compensation and benefits
 
-We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like an owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
 ### Interview process
 
 1. You [apply here](<TODO(noemi)>).
 1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1. We give you a small case study project to see how you would approach the job at Sourcegraph.
+1. We give you a small case study project to see how you would approach product management at Sourcegraph.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
 1. We check your references.
 1. We make you a job offer.
