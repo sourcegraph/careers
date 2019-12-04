@@ -20,7 +20,7 @@ You will help drive the direction of Sourcegraph by collaborating with a small t
 
 Why this role is special:
 
-- Our product has extremely high engagement relative to most products (especially enterprise products). We get enormous amounts of user feedback from our unusually thoughtful user base.
+- Our product has [extremely high engagement](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) relative to most products (especially enterprise products). We get enormous amounts of user feedback from our unusually thoughtful user base.
 - Our developers use the product, so they care deeply about product matters. You won't be fighting apathy.
 
 Review our [roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) to understand how our engineering team is organized and our [OKRs](https://about.sourcegraph.com/company/okrs) to understand the goals you will be helping drive.
