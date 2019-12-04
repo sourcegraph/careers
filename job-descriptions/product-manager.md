@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You will help drive the direction of Sourcegraph by collaborating with a small team to solve challenging problems that are fundamental to the growth and success of our business.
+You'll work with developers and other team members (from sales, marketing, and design) to plan, ship, and grow specific areas of our product. As an early member of our product team, you'll have significant product ownership and will communicate directly with our most sophisticated and demanding users to help preserve our market leadership.
 
 Why this role is special:
 
