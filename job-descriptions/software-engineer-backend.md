@@ -21,7 +21,7 @@ As a backend engineer at Sourcegraph, you will focus on designing and developing
 We are looking for candidates with the following skills and a strong desire to learn:
 
 - Excellent knowledge of Go.
-- Skilled at building, testing (e.g., unit, integration, end-to-end), and debugging high performance distributed systems in Go.
+- Skilled at building, testing (e.g., unit, integration, end-to-end), and debugging high performance distributed systems.
 - Good knowledge of Git in particular and other version control systems more generally.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
