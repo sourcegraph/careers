@@ -21,16 +21,15 @@ You'll work with engineering, sales, marketing, and design to plan, ship, and gr
 Why this role is special:
 
 - Our product has [extremely high engagement](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) relative to most products (especially enterprise products). We get enormous amounts of user feedback from our unusually thoughtful user base.
-- Our developers use the product, so they care deeply about product matters. You won't be fighting apathy.
 
 Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
-## Responsibilities
+### Responsibilities
 
 You will:
 
 - Own an area of the product, and create and drive its product roadmap.
-- Collaborate with engineers and designers to ideate, plan, and build the solutions to customer problems.
+- Collaborate with engineers and designers to brainstorm, plan, and build the solutions to customer problems.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
 - Be transparent in your internal and external communication. Sourcegraph is open source, and most discussion occurs in public, or in channels where you communicate directly with our customers.
 - Be a passionate advocate for a delightful user experience.
@@ -48,7 +47,7 @@ As a result, we expect:
 - Deep passion for developer tools and productivity enhancements.
 - Demonstrated leadership skills and ability to drive and influence product strategy across engineering, design, and distribution.
 
-#### Nice to haves
+### Nice-to-haves
 
 - Previous product management experience on a software development or developer tools product.
 - Experience building and/or contributing to developer tools.
@@ -56,9 +55,9 @@ As a result, we expect:
 
 ## Location
 
-We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you.
+We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
-### Compensation and benefits
+## Compensation and benefits
 
 We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like an owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
