@@ -43,7 +43,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 
 ### Interview process
 
-1.  You [apply here]().
+1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5LV8Nx5OHMF9?trackingTag=careersRepository).
 1.  We set up a 30 minute call to answer any questions that you have about Sourcegraph.
 1.  We evaluate relevant technical skills that you have via an asynchronous coding exercise.
     - We will give you an overview of the exercise in advance.
@@ -61,4 +61,4 @@ We also expect you to be interviewing us, so ask us any questions you have along
 
 If you aren't ready to start interviewing but are interested to chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
-**[Click here to apply]()**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5LV8Nx5OHMF9?trackingTag=careersRepository)**
