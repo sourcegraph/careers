@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-You'll work with developers and other team members (from sales, marketing, and design) to plan, ship, and grow specific areas of our product. As an early member of our product team, you'll have significant product ownership and will communicate directly with our most sophisticated and demanding users to help preserve our market leadership.
+You'll work with engineering, sales, marketing, and design to plan, ship, and grow usage and engagement in specific areas of our product. As an early member of our product team, you'll have significant product ownership and will communicate directly with our users to drive continuous improvement.
 
 Why this role is special:
 
@@ -60,7 +60,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 
 ### Interview process
 
-1. You [apply here](<TODO(noemi)>).
+1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Mi05PiZdA_k?trackingTag=careersRepository).
 1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We give you a small case study project to see how you would approach product management at Sourcegraph.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
@@ -71,4 +71,4 @@ We also expect you to be interviewing us too, so ask us any questions you have a
 
 If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
 
-**[Click here to apply](<TODO(noemi)>)**
+**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Mi05PiZdA_k?trackingTag=careersRepository)**
