@@ -2,7 +2,7 @@
 
 # Product Manager
 
-### About us
+## About us
 
 We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
@@ -14,7 +14,7 @@ To create a product that serves the needs of all developers, we are building a d
 
 If you are passionate about making the world better through software, come join us!
 
-### About the role
+## About the role
 
 You'll work with engineering, sales, marketing, and design to plan, ship, and grow usage and engagement in specific areas of our product. As an early member of our product team, you'll have significant product ownership and will communicate directly with our users to drive continuous improvement.
 
@@ -25,7 +25,7 @@ Why this role is special:
 
 Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
-#### Responsibilities
+## Responsibilities
 
 You will:
 
@@ -35,7 +35,11 @@ You will:
 - Be transparent in your internal and external communication. Sourcegraph is open source, and most discussion occurs in public, or in channels where you communicate directly with our customers.
 - Be a passionate advocate for a delightful user experience.
 
-#### Qualifications
+### Qualifications
+
+This is a very technical role and requires software engineering experience to effectively communicate with engineers and make educated decisions affecting product scope and performance at scale.
+
+As a result, we expect:
 
 - Experience working as a software engineer.
 - Strong understanding of Git and Git workflows.
@@ -50,7 +54,7 @@ You will:
 - Experience building and/or contributing to developer tools.
 - Experience working remotely with globally distributed teams.
 
-### Location
+## Location
 
 We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you.
 
@@ -58,7 +62,7 @@ We are a remote-first, globally distributed team focused on results and employee
 
 We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like an owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
-### Interview process
+## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Mi05PiZdA_k?trackingTag=careersRepository).
 1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
