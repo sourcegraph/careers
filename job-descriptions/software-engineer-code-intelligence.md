@@ -21,8 +21,7 @@ As a member of the [code intelligence team](https://about.sourcegraph.com/handbo
 We are looking for candidates with the following attributes:
 
 - Comfortable developing, testing, and debugging backend services in TypeScript or Go.
-- Experience with multiple language ecosystems and build systems.
-- Familiarity with many different programming languages and paradigms.
+- Experience with multiple programming languages, dependency management systems, and build systems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 - Strong desire to learn (e.g., languages, build systems).
