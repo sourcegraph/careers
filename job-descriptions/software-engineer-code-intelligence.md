@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ### About the role
 
-As a member of the [code intelligence team](https://about.sourcegraph.com/handbook/engineering/code-intelligence) at Sourcegraph, you will .
+As a member of the [code intelligence team](https://about.sourcegraph.com/handbook/engineering/code-intelligence) at Sourcegraph, you will explore and implement ways to extract semantic information from code to make code intelligence faster, more precise, more scalable, and easier to set up.
 
 We are looking for candidates with the following attributes:
 
