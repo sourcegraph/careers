@@ -60,7 +60,7 @@ You have:
 
 ## Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our team is distributed across the world and less than half work from our office in San Francisco.
+We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
 ## Compensation and benefits
 

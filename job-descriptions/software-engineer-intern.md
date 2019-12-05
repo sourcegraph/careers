@@ -37,6 +37,6 @@ You will be matched with a mentor who will help plan your work, and then you wil
 
 ## Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
+We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5K2vwzjId4lr?trackingTag=careersRepository)**

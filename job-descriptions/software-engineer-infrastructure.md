@@ -53,7 +53,7 @@ We will encourage and support you to:
 
 ## Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
+We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
 ## Compensation and benefits
 
