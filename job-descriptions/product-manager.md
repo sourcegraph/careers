@@ -29,7 +29,7 @@ You will:
 - Own an area of the product, and create and drive its product roadmap.
 - Collaborate with engineers and designers to brainstorm, plan, and build the solutions to customer problems.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
-- Be transparent in your internal and external communication. Sourcegraph is open source, and most discussion occurs in public, or in channels where you communicate directly with our customers.
+- Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.
 - Be a passionate advocate for a delightful user experience.
 
 ### Qualifications
