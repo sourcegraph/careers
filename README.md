@@ -15,6 +15,7 @@ We're hiring! Check out our open positions:
 - [Software Engineer - Intern](job-descriptions/software-engineer-intern.md)
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [UX Designer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/ux-designer.md)
+- [Head of Customer Success](https://github.com/sourcegraph/careers/blob/master/job-descriptions/head-of-customer-success.md)
 
 Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
 
