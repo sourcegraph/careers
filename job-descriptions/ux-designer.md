@@ -18,6 +18,10 @@ If you are passionate about making the world better through software, come join 
 
 We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, and as we grow, you will help us build the design team and shape the design culture at Sourcegraph.
 
+Developers [love our product](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) and rely on it daily to ship and deploy better software. Our passionate users provide a constant stream of thoughtful feedback and love engaging with us to help them and their teams solve their toughest problems.
+
+Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
+
 #### Your responsibilities
 
 You will:

@@ -26,7 +26,7 @@ Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdo
 
 You will:
 
-- Own an area of the product, and create and drive its product roadmap.
+- Own an area of the product, and drive and inform its product roadmap.
 - Collaborate with engineers and designers to brainstorm, plan, and build the solutions to customer problems.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
 - Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.
