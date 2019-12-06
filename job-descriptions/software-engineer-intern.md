@@ -29,7 +29,7 @@ Example intern projects from past years:
 
 You will be matched with a mentor who will help plan your work, and then you will have responsibility and autonomy to get the work done.
 
-## Ideal candidates:
+## Ideal candidates
 
 - Are pursuing a computer science undergraduate or graduate degree.
 - Have experience with the basics of either Go or TypeScript/JavaScript.
@@ -37,6 +37,12 @@ You will be matched with a mentor who will help plan your work, and then you wil
 
 ## Location
 
-We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+We are a remote-first, [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+
+## Apply
+
+We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
+
+If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5K2vwzjId4lr?trackingTag=careersRepository)**
