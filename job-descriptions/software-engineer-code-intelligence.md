@@ -18,6 +18,8 @@ If you are passionate about making the world better through software, come join 
 
 As a member of the [code intelligence team](https://about.sourcegraph.com/handbook/engineering/code-intelligence) at Sourcegraph, you will explore and implement ways to extract semantic information from code to make code intelligence faster, more precise, more scalable, and easier to set up.
 
+### Qualifications
+
 We are looking for candidates with the following attributes:
 
 - Comfortable developing, testing, and debugging backend services in TypeScript or Go.
@@ -26,7 +28,7 @@ We are looking for candidates with the following attributes:
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 - Strong desire to learn (e.g., languages, build systems).
 
-Nice-to-have:
+### Nice-to-haves:
 
 - Experience making distributed systems observable (e.g., logging, Prometheus metrics, request tracing).
 - Experience using Postgres and Redis.

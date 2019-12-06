@@ -18,6 +18,8 @@ If you are passionate about making the world better through software, come join 
 
 As a backend engineer at Sourcegraph, you will focus on designing and developing fast and reliable services that power our product (e.g., code search, syntax highlighting, auth, code host integrations). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the kinds of projects that we are working on today and have planned for the future.
 
+### Qualifications
+
 We are looking for candidates with the following skills and a strong desire to learn:
 
 - Excellent knowledge of Go.
@@ -26,7 +28,7 @@ We are looking for candidates with the following skills and a strong desire to l
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 
-Nice-to-have:
+### Nice-to-haves:
 
 - Experience making distributed systems observable (e.g., logging, Prometheus metrics, request tracing).
 - Experience using Postgres and Redis.

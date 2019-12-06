@@ -18,6 +18,8 @@ If you are passionate about making the world better through software, come join 
 
 As a frontend engineer at Sourcegraph, you will focus on building intuitive user experiences and APIs to make our product accessible to everyone. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the kinds of projects that we are working on today and have planned for the future.
 
+### Qualifications
+
 We are looking for candidates with the following skills and a strong desire to learn:
 
 - Excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
@@ -26,7 +28,7 @@ We are looking for candidates with the following skills and a strong desire to l
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
-Nice-to-have:
+### Nice-to-haves:
 
 - Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
 - Experience building intuitive and documented CLIs.
