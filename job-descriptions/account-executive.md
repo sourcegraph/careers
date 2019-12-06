@@ -4,7 +4,7 @@
 
 ## About us
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
@@ -36,6 +36,12 @@ If you are passionate about making the world better through software, come join 
 - Converting freemium usage to large commercial contracts
 - Experience with complex multi-year contracts
 - Proficiency with security, licensing, and compliance requirements
+
+## Location
+
+We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+
+For this role, a willingness to travel to customer sites across the U.S. (and occasionally around the world) and to regularly take calls on continental U.S. hours is required.
 
 ## Compensation and benefits
 
