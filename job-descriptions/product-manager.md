@@ -27,7 +27,7 @@ Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdo
 You will:
 
 - Own an area of the product, and drive and inform its product roadmap.
-- Collaborate with engineers and designers to brainstorm, plan, and build the solutions to customer problems.
+- Collaborate with engineers and designers to plan and build the solutions to customer problems.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
 - Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.
 - Be a passionate advocate for a delightful user experience.
@@ -53,7 +53,7 @@ As a result, we expect:
 
 ## Location
 
-We are a remote-first, globally distributed team focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+We are a remote-first, [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
 ## Compensation and benefits
 
