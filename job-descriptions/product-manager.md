@@ -68,8 +68,8 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 1. We check your references.
 1. We make you a job offer.
 
-We also expect you to be interviewing us too, so ask us any questions you have along the way!
+We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
 
-If you aren't ready to start interviewing but are interested chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
+If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Mi05PiZdA_k?trackingTag=careersRepository)**
