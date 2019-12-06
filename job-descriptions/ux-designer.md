@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# UX Designer (San Francisco or remote)
+# UX Designer
 
 ### About us
 
@@ -17,6 +17,10 @@ If you are passionate about making the world better through software, come join 
 ### About the role
 
 We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, and as we grow, you will help us build the design team and shape the design culture at Sourcegraph.
+
+Developers [love our product](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) and rely on it daily to ship and deploy better software. Our passionate users provide a constant stream of thoughtful feedback and love engaging with us to help them and their teams solve their toughest problems.
+
+Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
 #### Your responsibilities
 
@@ -43,7 +47,7 @@ You have:
 - The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
-- A deep understanding of developers, and a good understanding of version control systems, preferably Git.
+- A deep understanding of developers, and a strong understanding of Git and Git workflows.
 
 #### Nice to haves
 
@@ -64,12 +68,12 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 
 ### Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
-1.  We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1.  We do a portfolio review for you to present your past work.
-1.  We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
-1.  We check your references.
-1.  We make you a job offer.
+1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
+1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
+1. We do a portfolio review for you to present your past work.
+1. We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
+1. We check your references.
+1. We make you a job offer.
 
 We also expect you to be interviewing us too, so ask us any questions you have along the way.
 
