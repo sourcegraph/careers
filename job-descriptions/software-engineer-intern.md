@@ -2,9 +2,9 @@
 
 # Software Engineer - Internship
 
-### About us
+## About us
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
@@ -14,7 +14,7 @@ To create a product that serves the needs of all developers, we are building a d
 
 If you are passionate about making the world better through software, come join us!
 
-### About the role
+## About the role
 
 _This is a paid internship_
 
@@ -29,14 +29,20 @@ Example intern projects from past years:
 
 You will be matched with a mentor who will help plan your work, and then you will have responsibility and autonomy to get the work done.
 
-### Ideal candidates:
+## Ideal candidates
 
 - Are pursuing a computer science undergraduate or graduate degree.
 - Have experience with the basics of either Go or TypeScript/JavaScript.
 - Can demonstrate passion and excitement about developer tools (e.g. have built a developer tool, contributed to open source developer tools or other open source projects, written blog posts or talks about development, etc.)
 
-### Location
+## Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
+We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+
+## Apply
+
+We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
+
+If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply!](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5K2vwzjId4lr?trackingTag=careersRepository)**

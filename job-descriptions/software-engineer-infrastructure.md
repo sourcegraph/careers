@@ -2,9 +2,9 @@
 
 # Software Engineer - Infrastructure
 
-### About us
+## About us
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
@@ -14,13 +14,13 @@ To create a product that serves the needs of all developers, we are building a d
 
 If you are passionate about making the world better through software, come join us!
 
-### About the role
+## About the role
 
 You will be responsible for how Sourcegraph is built, deployed, and monitored, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world).
 
 Review the [Distribution team's roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are solving today and the challenges that we plan to solve in the future.
 
-#### Responsibilities
+### Responsibilities
 
 You will:
 
@@ -37,7 +37,7 @@ We will encourage and support you to:
 
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-#### Qualifications
+### Qualifications
 
 - You are comfortable using Go and Terraform to build tooling and automation.
 - You understand how Kubernetes works and are an expert at configuring and deploying non-trivial applications using Kubernetes on one or more compute infrastructure providers: GCP (preferred), AWS, Azure, Digital Ocean.
@@ -46,37 +46,37 @@ We will encourage and support you to:
 - You are passionate about creating high-quality software and understand how to make appropriate tradeoffs (e.g., cut scope) to ship quickly when necessary.
 - You are happy and effective working collaboratively on a team to solve challenging open-ended engineering problems.
 
-#### Nice to haves
+### Nice-to-haves
 
 - You have published blog posts and/or given conference talks about your past work.
 - You have experience working on high-performing teams, preferable tech startups.
 
-### Location
+## Location
 
-We are flexible and don't require you to be in any particular timezone or location. Our engineering team is distributed across the world.
+We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
 
-### Compensation and benefits
+## Compensation and benefits
 
 We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
 
-### Interview process
+## Interview process
 
-1.  You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository).
-1.  We set up a 30 minute call to answer any questions that you have about Sourcegraph.
-1.  We evaluate relevant technical skills that you have via an asynchronous coding exercise.
+1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository).
+1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
+1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
     - We will give you an overview of the exercise in advance.
     - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
     - You will be able to use your own development environment and lookup documentation on the internet.
-1.  We schedule 4 hours of remote interviews over video chat across multiple days.
+1. We schedule 4 hours of remote interviews over video chat across multiple days.
     - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
     - **Technical experience:** We ask you about your past work and accomplishments.
     - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
     - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
-1.  We check your references.
-1.  We make you a job offer.
+1. We check your references.
+1. We make you a job offer.
 
-We also expect you to be interviewing us, so ask us any questions you have along the way.
+We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
 
-If you aren't ready to start interviewing but are interested to chat with us about anything, reach out to us [@srcgraph](https://twitter.com/srcgraph) or hiring@sourcegraph.com.
+If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository)**
