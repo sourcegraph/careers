@@ -30,7 +30,7 @@ You will:
 - Dive into our application code when necessary to improve the performance, reliability, and observability of Sourcegraph.
 - Clearly document and automate how customers provision and scale Sourcegraph instances.
 - Run our on-call rotation to respond to operational incidents on Sourcegraph.com and at our largest customers.
-- Write [RFCs](https://about.sourcegraph.com/handbook/engineering/rfcs) to communicate your implementation plans and solicit feedback from teammates.
+- Write [RFCs](https://about.sourcegraph.com/handbook/communication/rfcs) to communicate your implementation plans and solicit feedback from teammates.
 - Collaborate directly with customers to troubleshoot deployment and configuration issues.
 
 We will encourage and support you to:
