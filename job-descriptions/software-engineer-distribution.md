@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ## About the role
 
-As a member of the [distribution team](https://about.sourcegraph.com/handbook/engineering/distribution) at Sourcegraph, you will focus on making Sourcegraph easy to build, deploy, configure, and monitor, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near the future.
+As a member of the [distribution team](https://about.sourcegraph.com/handbook/engineering/distribution) at Sourcegraph, you will focus on making Sourcegraph easy to build, deploy, configure, and monitor, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world). You will have the opportunity to directly interact with our customers to understand the problems that they face and iteratively design solutions to those problems. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near the future.
 
 ### Qualifications
 
@@ -24,7 +24,7 @@ We are looking for candidates with the following skills and a strong desire to l
 
 - Comfortable using Go and Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
 - Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications.
-- Skilled at owning high level objectives and
+- Skilled at debugging customer problems followed by designing and implementing solutions to those problems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
@@ -61,4 +61,4 @@ We want to ensure Sourcegraph is an environment that suits your working style an
 
 If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
-**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5E303MXJieJl?trackingTag=careersRepository)**
+**[Click here to apply](TODO)**
