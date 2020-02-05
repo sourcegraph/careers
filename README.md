@@ -12,9 +12,7 @@ We're hiring! Check out our open positions:
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
 - [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
 - [Software Engineer - Distribution](job-descriptions/software-engineer-distribution.md)
-- [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [UX Designer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/ux-designer.md)
-- [Head of Customer Success](https://github.com/sourcegraph/careers/blob/master/job-descriptions/head-of-customer-success.md)
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 
 Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
