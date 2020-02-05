@@ -11,7 +11,7 @@ We're hiring! Check out our open positions:
 - [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
 - [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
-- [Software Engineer - Infrastructure](job-descriptions/software-engineer-infrastructure.md)
+- [Software Engineer - Distribution](job-descriptions/software-engineer-distribution.md)
 - [UX Designer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/ux-designer.md)
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 
