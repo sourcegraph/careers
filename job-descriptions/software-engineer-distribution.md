@@ -20,7 +20,7 @@ As a member of the [distribution team](https://about.sourcegraph.com/handbook/en
 
 ### Qualifications
 
-We are looking for candidates with the following skills and a strong desire to learn:
+We are looking for candidates with the following skills:
 
 - Comfortable using Go and Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
 - Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g. GCP, AWS).
