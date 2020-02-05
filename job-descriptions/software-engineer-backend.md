@@ -4,7 +4,7 @@
 
 ## About us
 
-We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
 
 [Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
 
@@ -20,7 +20,7 @@ As a backend engineer at Sourcegraph, you will focus on designing and developing
 
 ### Qualifications
 
-We are looking for candidates with the following skills and a strong desire to learn:
+We are looking for candidates with the following skills:
 
 - Excellent knowledge of Go.
 - Skilled at building, testing (e.g., unit, integration, end-to-end), and debugging high performance distributed systems.
