@@ -2,27 +2,13 @@
 
 # UX Designer
 
-## About us
-
-We're building the new standard developer platform. Top tech companies have invested $100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
-
-[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
-
-We value openness and transparency. [Our handbook](https://about.sourcegraph.com/handbook), [our strategy](https://about.sourcegraph.com/company/strategy), and [our code](https://github.com/sourcegraph/sourcegraph) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-
-To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-
-If you are passionate about making the world better through software, come join us!
-
-## About the role
-
 We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, and as we grow, you will help us build the design team and shape the design culture at Sourcegraph.
 
 Developers [love our product](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) and rely on it daily to ship and deploy better software. Our passionate users provide a constant stream of thoughtful feedback and love engaging with us to help them and their teams solve their toughest problems.
 
 Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
-### Responsibilities
+## Responsibilities
 
 You will:
 
@@ -37,9 +23,7 @@ We will encourage and support you to:
 
 - Publish blog posts and give conference talks about your work at Sourcegraph.
 
-### Qualifications
-
-You have:
+## Qualifications
 
 - Expertise in designing complex web applications as demonstrated in a strong portfolio showcasing high-quality UX, interaction, and visual design.
 - Proficiency with Figma, Sketch, or similar tools to design end-to-end experiences (UX, interaction, and visual).
@@ -49,34 +33,38 @@ You have:
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
 - A deep understanding of developers, and a strong understanding of Git and Git workflows.
 
-### Nice-to-haves
-
-You have:
+## Nice-to-haves
 
 - Experience designing developer tools.
 - Experience working in cross-functional teams on multiple projects in tandem.
 - Experience building or contributing to the design of consumer or enterprise applications.
 - Experience working with distributed or remote teams.
 
-## Location
+## Learn more about us
 
-We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-## Compensation and benefits
+To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team).
 
-We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+
+Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
-1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1. We do a portfolio review for you to present your past work.
-1. We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
+1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
+1. We schedule a 1 hour portfolio review for you to present your past work.
+1. We schedule 5 hours of remote interviews over video chat across multiple days.
+   - **Design exercise:** We give you a problem statement and you walk us through your design process in a 2 hour block.
+   - **Design strategy:** We ask you about your past work and accomplishments and how you will apply that to your role at Sourcegraph.
+   - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
+   - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1. We check your references.
 1. We make you a job offer.
 
-We also expect you to be interviewing us too, so ask us any questions you have along the way.
+We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
 
-If you aren't ready to start interviewing but would like to stop by our San Francisco office to meet the team, let us know!
+If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository)**
