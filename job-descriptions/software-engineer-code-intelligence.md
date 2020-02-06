@@ -27,7 +27,7 @@ We are looking for candidates with the following skills:
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 
-### Nice-to-haves:
+### Nice-to-haves
 
 - Experience making distributed systems observable (e.g., logging, Prometheus metrics, request tracing).
 - Experience using Postgres and Redis.
