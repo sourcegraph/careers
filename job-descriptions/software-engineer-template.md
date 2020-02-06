@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Software Engineer - Security
+# Role title
 
 _Describe the role in a few (~3-5) complete sentences. This should be inspiring to candidates and what someone might copy-and-paste when sharing or promoting a link to this job description._
 
