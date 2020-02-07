@@ -2,7 +2,7 @@
 
 # Software Engineer - Security
 
-We are looking for a software engineer to own the security of our product. This includes the security sourcegraph.com as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be responsible for proactively understanding, documenting, and improving the security of our product, as well as promptly responding to and addressing security issues reported to us by third parties. As our security needs grow over time, there is a potential for you to grow into a security team leadership role.
+We are looking for a software engineer to own the security of our product. This includes the security of sourcegraph.com as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be responsible for proactively understanding, documenting, and improving the security of our product, as well as promptly responding to and addressing security issues reported to us by third parties. As our security needs grow over time, there is a potential for you to grow into a security team leadership role.
 
 ## Qualifications
 
