@@ -28,7 +28,7 @@ We are looking for candidates with the following skills:
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
-### Nice-to-haves:
+### Nice-to-haves
 
 - Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
 - Experience building intuitive and documented CLIs.
