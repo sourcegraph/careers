@@ -9,8 +9,8 @@ We are looking for a software engineer to own the security of our product. This 
 We are looking for candidates with the following skills, and we will test for these things in our interview process:
 
 - Broad knowledge of possible attack vectors for applications like Sourcegraph and an understanding of how to eliminate and/or mitigate those security risks. This knowledge generally comes from having multiple years of software development experience in the security domain.
-- Skilled at understanding, debugging, and writing Go and TypeScript to identify and fix security issues.
-- Demonstrated ability to own large ambiguous problem areas while making continuous progress.
+- Skilled at understanding, debugging, and writing code (ideally Go and TypeScript) to identify and fix security issues.
+- Demonstrated ability to own large ambiguous problems while making continuous progress.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 
 ## Nice-to-haves
