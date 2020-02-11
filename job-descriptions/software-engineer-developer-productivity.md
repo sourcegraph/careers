@@ -8,6 +8,8 @@ We are looking for a software engineer to own developer productivity at Sourcegr
 
 We are looking for candidates with the following skills, and we will test for these things in our interview process:
 
+<!-- This section is WIP and I am looking for suggestions -->
+
 - Experience or willing to learn Go and TypeScript.
 - Experience configuring and using Continuous Integration systems (e.g. Buildkite, Travis).
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
