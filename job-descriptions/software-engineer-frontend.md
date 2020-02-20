@@ -47,10 +47,12 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5LV8Nx5OHMF9?trackingTag=careersRepository).
 1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
-1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
-   - We will give you an overview of the exercise in advance.
-   - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
-   - You will be able to use your own development environment and lookup documentation on the internet.
+1. You do a custom coding exercise that we designed which measures your understanding of how async execution works in JavaScript.
+   - You will choose a two hour timeframe to independently work on the exercise. You can choose any day and time; we just schedule an email.
+   - At your chosen date and time, we send you a zipped TypeScript project that contains instructions and some unit tests. You should have Node.js (>=8.16.0) installed on your computer.
+   - You can look up documentation on the internet while you are coding.
+   - After two hours, you will email us your solution as a zip file and we will get back to you on next steps within 2 business days.
+   - If we have questions about your code, we might schedule a 30 minute followup call.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.
