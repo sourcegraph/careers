@@ -16,7 +16,7 @@ If you are passionate about making the world better through software, come join 
 
 ## About the role
 
-As a member of the [distribution team](https://about.sourcegraph.com/handbook/engineering/distribution) at Sourcegraph, you will focus on making Sourcegraph easy to build, deploy, configure, and monitor, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world). You will have the opportunity to directly interact with our customers to understand the problems that they face and iteratively design solutions to those problems. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near the future.
+As a member of the [distribution team](https://about.sourcegraph.com/handbook/engineering/distribution) at Sourcegraph, you will focus on making Sourcegraph easy to build, deploy, configure, and monitor, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world). You will have the opportunity to directly interact with our customers to understand the problems that they face and iteratively design solutions to those problems. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
 
 ### Qualifications
 
