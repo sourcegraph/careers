@@ -69,7 +69,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
-1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
+1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We do a portfolio review for you to present your past work.
 1. We schedule a few more hours of technical and non-technical interviews. We are happy to do all interviews onsite in our San Francisco office or remotely over video chat.
 1. We check your references.

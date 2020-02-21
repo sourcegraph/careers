@@ -62,7 +62,7 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5Mi05PiZdA_k?trackingTag=careersRepository).
-1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
+1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We give you a small case study project to see how you would approach product management at Sourcegraph.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
 1. We check your references.
