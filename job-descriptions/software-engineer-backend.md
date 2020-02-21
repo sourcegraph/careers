@@ -48,11 +48,8 @@ We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/p
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5L45-sI42r_n?trackingTag=careersRepository).
-1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
-1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
-   - We will give you an overview of the exercise in advance.
-   - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
-   - You will be able to use your own development environment and lookup documentation on the internet.
+1. We set up a 30 minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
+1. You complete a 2-hour [coding exercise in Go](code-exercise-go.md) that we designed to measure your understanding of concurrency and error handling.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.
