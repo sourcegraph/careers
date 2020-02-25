@@ -22,7 +22,7 @@ As a member of the [distribution team](https://about.sourcegraph.com/handbook/en
 
 We are looking for candidates with the following skills:
 
-- Comfortable using Go and Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
+- Comfortable using Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
 - Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g. GCP, AWS).
 - Skilled at debugging customer problems followed by designing and implementing solutions to those problems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
@@ -30,6 +30,7 @@ We are looking for candidates with the following skills:
 
 ### Nice-to-haves
 
+- Proficiency in Go.
 - Published blog posts and/or tech talks about your work.
 - Experience working on high-performing teams, preferably tech startups.
 
