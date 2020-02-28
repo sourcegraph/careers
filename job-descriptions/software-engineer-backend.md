@@ -2,48 +2,33 @@
 
 # Software Engineer - Backend
 
-## About us
+We are looking for backend engineers who know how to design and build performance sensitive distributed systems. You will innovate key systems (e.g., code search, campaigns, syntax highlighting, auth, code host integrations) to make [Universal Code Search](https://about.sourcegraph.com/universal-code-search/) more powerful and scale to our customers with the largest codebases in the world.
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+## Qualifications
 
-[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
-
-We value openness and transparency. [Our handbook](https://about.sourcegraph.com/handbook), [our strategy](https://about.sourcegraph.com/company/strategy), and [our code](https://github.com/sourcegraph/sourcegraph) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-
-To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-
-If you are passionate about making the world better through software, come join us!
-
-## About the role
-
-As a backend engineer at Sourcegraph, you will focus on designing and developing fast and reliable services that power our product (e.g., code search, syntax highlighting, auth, code host integrations). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the challenges that we are working on today and in the near future.
-
-### Qualifications
-
-We are looking for candidates with the following skills:
-
-- Excellent knowledge of Go.
-- Skilled at building, testing (e.g., unit, integration, end-to-end), and debugging high performance distributed systems.
-- Good knowledge of Git in particular and other version control systems more generally.
+- Solid understanding of Go fundamentals (e.g., dealing with concurrency, error handling, unit testing).
+- Skilled at designing, building, testing (e.g., unit, integration, end-to-end), and debugging high performance distributed systems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
+- Good knowledge of Git in particular and other version control systems more generally.
 
-### Nice-to-haves
+## Nice-to-haves
 
 - Experience making distributed systems observable (e.g., logging, Prometheus metrics, request tracing).
 - Experience using Postgres and Redis.
 - Experience load testing distributed systems.
 - Experience writing high performance Go code and benchmarks.
+- Large or numerous contributions to open source projects.
 - Published blog posts and/or tech talks about your work.
-- Experience working on high-performing teams, preferably tech startups.
+- Experience working on small high-performing teams, preferably tech startups.
 
-## Location
+## Learn more about us
 
-We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-## Compensation and benefits
+We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy and healthy so that you can do your best work.
 
-We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
 ## Interview process
 
