@@ -18,7 +18,7 @@ We are looking for backend engineers who know how to design and build performanc
 - Experience using Postgres and Redis.
 - Experience load testing distributed systems.
 - Experience writing high performance Go code and benchmarks.
-- Large or numerous contributions to open source projects.
+- Large and/or numerous contributions to open source projects.
 - Published blog posts and/or tech talks about your work.
 - Experience working on small high-performing teams, preferably tech startups.
 
