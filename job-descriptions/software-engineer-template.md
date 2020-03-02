@@ -6,9 +6,7 @@ _Describe the role in a few (~3-5) complete sentences. This should be inspiring 
 
 ## Qualifications
 
-We are looking for candidates with the following skills, and we will test for these things in our interview process:
-
-- _Short list of qualifitications._
+- _Short list of qualifitications. Generally this should be limited to things that we actually look and test for in our interview process._
 
 ## Nice-to-haves
 
@@ -16,18 +14,16 @@ We are looking for candidates with the following skills, and we will test for th
 
 ## Learn more about us
 
-Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
+To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team).
-
-We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy and healthy so that you can do your best work.
 
 Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
 ## Interview process
 
 1. You [apply here](TODO).
-1. We set up a 30-minute call to answer any questions that you have about Sourcegraph.
+1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
 1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
    - We will give you an overview of the exercise in advance.
    - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.

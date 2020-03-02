@@ -2,50 +2,34 @@
 
 # Software Engineer - Distribution
 
-## About us
+We are looking for software engineers who are passionate about and skilled at making software easy to build, deploy, configure, monitor, and debug. You will have ownership to solve challenging problems that our customers face when they deploy and scale Sourcegraph on-premise in a variety of environments, and that we face when we deploy and scale sourcegraph.com (the largest Sourcegraph installation in the world). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
+## Qualifications
 
-[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
-
-We value openness and transparency. [Our handbook](https://about.sourcegraph.com/handbook), [our strategy](https://about.sourcegraph.com/company/strategy), and [our code](https://github.com/sourcegraph/sourcegraph) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-
-To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-
-If you are passionate about making the world better through software, come join us!
-
-## About the role
-
-As a member of the [distribution team](https://about.sourcegraph.com/handbook/engineering/distribution) at Sourcegraph, you will focus on making Sourcegraph easy to build, deploy, configure, and monitor, on customer instances and on Sourcegraph.com (the largest Sourcegraph installation in the world). You will have the opportunity to directly interact with our customers to understand the problems that they face and iteratively design solutions to those problems. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
-
-### Qualifications
-
-We are looking for candidates with the following skills:
-
-- Comfortable using Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
-- Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g. GCP, AWS).
-- Skilled at debugging customer problems followed by designing and implementing solutions to those problems.
+- Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g., GCP, AWS).
+- Skilled at debugging distributed systems followed by designing and implementing solutions to those problems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
+- Comfortable using Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
 
-### Nice-to-haves
+## Nice-to-haves
 
 - Proficiency in Go.
 - Published blog posts and/or tech talks about your work.
-- Experience working on high-performing teams, preferably tech startups.
+- Experience working on small high-performing teams, preferably tech startups.
 
-## Location
+## Learn more about us
 
-We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-## Compensation and benefits
+We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy and healthy so that you can do your best work.
 
-We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5NKmhD_yhVfG?trackingTag=careersRepository).
-1. We set up a 30-minute call to answer any questions that you have about Sourcegraph.
+1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
 1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
    - We will give you an overview of the exercise in advance.
    - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
