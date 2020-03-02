@@ -2,7 +2,7 @@
 
 # Software Engineer - Distribution
 
-We are looking to hire engineers who are passionate about and skilled at making software easy to build, deploy, configure, monitor, and debug. You will have ownership to solve challenging problems that our customers face when they deploy and scale Sourcegraph on-premise in a variety of environments, and we face when we deploy and scale sourcegraph.com (the largest Sourcegraph installation in the world). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
+We are looking for software engineers who are passionate about and skilled at making software easy to build, deploy, configure, monitor, and debug. You will have ownership to solve challenging problems that our customers face when they deploy and scale Sourcegraph on-premise in a variety of environments, and that we face when we deploy and scale sourcegraph.com (the largest Sourcegraph installation in the world). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
 
 ## Qualifications
 
