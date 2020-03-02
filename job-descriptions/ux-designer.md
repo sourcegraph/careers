@@ -53,7 +53,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5MKPtg8cFnBD?trackingTag=careersRepository).
-1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
+1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We schedule a 1 hour portfolio review for you to present your past work.
 1. We schedule 5 hours of remote interviews over video chat across multiple days.
    - **Design exercise:** We give you a problem statement and you walk us through your design process in a 2 hour block.

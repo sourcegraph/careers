@@ -32,7 +32,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5HZqRCBzJ_kw?trackingTag=careersRepository).
-1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
+1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
 1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
    - We will give you an overview of the exercise in advance.
    - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.

@@ -2,25 +2,9 @@
 
 # Software Engineer - Frontend
 
-## About us
+We are looking for frontend engineers who know how to build intuitive user experiences and APIs to make the power of [Universal Code Search](https://about.sourcegraph.com/product) accessible to everyone. You will have a lot of ownership to solve tough technical and UX problems in key areas of our web application and browser extensions (e.g. code search, code navigation, campaigns). Read [our project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the challenges that we are working on today and in the near future.
 
-We're building the new standard developer platform. Top tech companies have invested \$100Ms to build internal developer platforms for code search, code review, alerts, and automation. Sourcegraph provides this standard developer platform to every company, helping startups and large enterprises ship better software faster.
-
-[Our mission](https://sourcegraph.com/plan) is to dramatically increase the number of people who can understand and write code. By making code more accessible, we will democratize software development and accelerate innovations that bring the future sooner in transportation, health care, energy, AI, communication, space travel, etc.
-
-We value openness and transparency. [Our handbook](https://about.sourcegraph.com/handbook), [our strategy](https://about.sourcegraph.com/company/strategy), and [our code](https://github.com/sourcegraph/sourcegraph) are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-
-To create a product that serves the needs of all developers, we are building a diverse remote-first team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
-
-If you are passionate about making the world better through software, come join us!
-
-## About the role
-
-As a frontend engineer at Sourcegraph, you will focus on building intuitive user experiences and APIs to make our product accessible to everyone. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the challenges that we are working on today and in the near the future.
-
-### Qualifications
-
-We are looking for candidates with the following skills:
+## Qualifications
 
 - Excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
 - Solid understanding of JavaScript's concurrency model and event loop.
@@ -28,29 +12,27 @@ We are looking for candidates with the following skills:
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
-### Nice-to-haves
+## Nice-to-haves
 
 - Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
 - Experience building intuitive and documented CLIs.
+- Large and/or numerous contributions to open source projects.
 - Published blog posts and/or tech talks about your work.
-- Experience working on high-performing teams, preferably tech startups.
+- Experience working on small high-performing teams, preferably tech startups.
 
-## Location
+## Learn more about us
 
-We are an [all-remote company](https://about.sourcegraph.com/company/remote) and [globally distributed team](https://about.sourcegraph.com/company/team) focused on results and employee happiness, so wherever you choose to work is up to you. We don't require you to be in any particular timezone or location.
+To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 
-## Compensation and benefits
+We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy and healthy so that you can do your best work.
 
-We provide [competitive pay and equity](https://about.sourcegraph.com/handbook/people-ops/compensation) because we want you to act like a business owner and share in the success of Sourcegraph. We also provide [many benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy, healthy, and productive.
+Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
 ## Interview process
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5LV8Nx5OHMF9?trackingTag=careersRepository).
-1. We set up a 30 minute call to answer any questions that you have about Sourcegraph.
-1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
-   - We will give you an overview of the exercise in advance.
-   - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
-   - You will be able to use your own development environment and lookup documentation on the internet.
+1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
+1. You complete a 2-hour [coding exercise in TypeScript](code-exercise-typescript.md) that we designed to measure your understanding of how callbacks and asynchronous execution work.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.
