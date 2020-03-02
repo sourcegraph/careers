@@ -2,7 +2,7 @@
 
 # Software Engineer - Code intelligence
 
-We are looking to hire software engineers who are passionate about language analysis and who want to work in many language ecosystems. You will design and implement ways to extract semantic information from code so that we can support fast precise code intelligence (e.g., go to definition, find references) for every language in a way that scales to largest codebases in the world. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.dimwsc9ccmwq) to see the challenges that we are working on today and in the near future.
+We are looking for software engineers who are passionate about language analysis and who want to work in many language ecosystems. You will design and implement ways to extract semantic information from code so that we can support fast precise code intelligence (e.g., go to definition, find references) for every language in a way that scales to the largest codebases in the world. Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.dimwsc9ccmwq) to see the challenges that we are working on today and in the near future.
 
 ## Qualifications
 
