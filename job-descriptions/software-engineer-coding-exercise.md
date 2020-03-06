@@ -53,6 +53,8 @@ We choose to enforce a finite limit so that we get a consistent signal across al
 
 ### Do I still need to do the coding exercise if I have significant open-source contributions?
 
-Yes, we ask all candidates to complete our coding exercise. Our coding exercise provides a consistent and fair signal across all candidates for skill that we care about. If we just review your open-source code, we have a hard time comparing you to other candidates fairly and we might not get signal on specific skills that we care about.
+Yes, we ask all candidates to complete our coding exercise. Our coding exercise provides a consistent and fair signal across all candidates for skills that we care about. If we just review your open-source code, we have a hard time comparing you to other candidates fairly and we might not get signal on specific skills that we care about.
 
 Even if it is obvious that the coding exercise is a formality for you (e.g., maybe you are a language author), we would still ask you to do it because we would want your feedback on the exercise so we can make it better for future candidates.
+
+Many of our teammates have made significant coding open-source contributions and they had no problems completing our coding exercise.
