@@ -13,7 +13,7 @@ We designed this exercise to measure your understanding of callbacks and asyncro
 - TypeScript is a superset of JavaScript, so if you are comfortable with JavaScript and have experience reading any typed language, then you should be fine. We recommend reading through the [TypeScript docs](https://www.typescriptlang.org/docs/handbook/basic-types.html) if you aren't already familiar with TypeScript.
 - You should have Node.js (>=8.16.0) installed on your computer.
 - You can look up documentation on the Internet while you are coding.
-- You may use open-source libraries, but most candidates don't find it necessary.
+- You may use open-source libraries, but most candidates don't find it necessary. For some parts of the exercise, we'll explicitly require that you not use any.
 - After two hours, you will email us your solution as a zip file and we will get back to you on next steps within 2 business days.
 
 If we decide to move forward, we will schedule a 30-minute followup call to discuss your code.
