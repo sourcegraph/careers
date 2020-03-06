@@ -34,7 +34,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5L45-sI42r_n?trackingTag=careersRepository).
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
-1. You complete a 2-hour [coding exercise in Go](code-exercise-go.md) that we designed to measure your understanding of concurrency and error handling.
+1. You complete a 2-hour [coding exercise in Go](software-engineer-coding-exercise.md#go-coding-exercise) that we designed to measure your understanding of concurrency and error handling.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.

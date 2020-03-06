@@ -32,7 +32,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5LV8Nx5OHMF9?trackingTag=careersRepository).
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
-1. You complete a 2-hour [coding exercise in TypeScript](code-exercise-typescript.md) that we designed to measure your understanding of how callbacks and asynchronous execution work.
+1. You complete a 2-hour [coding exercise in TypeScript](software-engineer-coding-exercise.md#typescript-coding-exercise) that we designed to measure your understanding of how callbacks and asynchronous execution work.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.
