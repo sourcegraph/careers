@@ -57,4 +57,4 @@ Many engineers on our team have made significant open-source contributions, so w
 
 Our coding exercise provides a consistent and fair signal across all candidates for skill that we care about. If we just review your open-source code, we have a hard time comparing you to other candidates fairly and we might not get signal on specific skills that we care about.
 
-Even if it is obvious that the coding exercise is a formality for you (e.g. maybe you are a language author), we would still ask you to do it because we would want your feedback on the exercise so we can make it better for future candidates.
+Even if it is obvious that the coding exercise is a formality for you (e.g., maybe you are a language author), we would still ask you to do it because we would want your feedback on the exercise so we can make it better for future candidates.
