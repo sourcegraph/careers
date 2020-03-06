@@ -1,10 +1,10 @@
-# Code exercise
+# Coding exercise
 
 We ask candidates to complete a 2-hour asynchronous coding exercise so we can evaluate you on certain skills that we think are relevant to being successful at Sourcegraph.
 
 Why? Read the [FAQ](#FAQ).
 
-## TypeScript code exercise
+## TypeScript coding exercise
 
 We designed this exercise to measure your understanding of callbacks and asyncronous execution.
 
@@ -18,7 +18,7 @@ We designed this exercise to measure your understanding of callbacks and asyncro
 
 If we decide to move forward, we will schedule a 30-minute followup call to discuss your code.
 
-## Go code exercise
+## Go coding exercise
 
 We designed this exercise to measure your understanding of HTTP requests, concurrency, and error handling.
 
@@ -51,10 +51,8 @@ We choose to enforce a finite limit so that we get a consistent signal across al
 
 2 hours is long enough that we can ask non-trivial questions that test for relevant skills while also being short enough that it shouldn't be an unreasonable burden for anyone.
 
-### What if I have significant open-source contributions?
+### Do I still need to do the coding exercise if I have significant open-source contributions?
 
-Many engineers on our team have made significant open-source contributions, so we view that as a strong positive signal on your application and we will probably ask you about your contributions during interviews; however, we still ask all candidates to complete our coding exercise.
-
-Our coding exercise provides a consistent and fair signal across all candidates for skill that we care about. If we just review your open-source code, we have a hard time comparing you to other candidates fairly and we might not get signal on specific skills that we care about.
+Yes, we ask all candidates to complete our coding exercise. Our coding exercise provides a consistent and fair signal across all candidates for skill that we care about. If we just review your open-source code, we have a hard time comparing you to other candidates fairly and we might not get signal on specific skills that we care about.
 
 Even if it is obvious that the coding exercise is a formality for you (e.g., maybe you are a language author), we would still ask you to do it because we would want your feedback on the exercise so we can make it better for future candidates.
