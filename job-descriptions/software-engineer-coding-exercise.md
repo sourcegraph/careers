@@ -6,7 +6,7 @@ Why? Read the [FAQ](#FAQ).
 
 ## TypeScript coding exercise
 
-We designed this exercise to measure your understanding of callbacks and asyncronous execution.
+We designed this exercise to measure your understanding of callbacks and asynchronous execution.
 
 - You will choose a two hour timeframe to independently work on the exercise. You can choose any day and time; we just schedule an email.
 - At your chosen date and time, we will send you a zipped TypeScript project that contains instructions and some unit tests.
