@@ -1,8 +1,8 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# UX Designer
+# Product Designer
 
-We are looking for a self-motivated UX designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience. To start, you will be our only designer, and as we grow, you will help us build the design team and shape the design culture at Sourcegraph.
+We are looking for a self-motivated Product Designer with the leadership skills to be the facilitator of design, and the pragmatism to be the person responsible for producing and executing the design. You will work collaboratively with product and engineering to create a highly functional and beautiful experience that delights a technical audience.
 
 Developers [love our product](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) and rely on it daily to ship and deploy better software. Our passionate users provide a constant stream of thoughtful feedback and love engaging with us to help them and their teams solve their toughest problems.
 
