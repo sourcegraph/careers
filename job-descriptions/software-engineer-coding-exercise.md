@@ -26,7 +26,7 @@ We designed this exercise to measure your understanding of HTTP requests, concur
 - At your chosen date and time, we will send you detailed instructions. You will be building a simple API server in Go that calls a JSON endpoint of another service and exposes a JSON endpoint of its own.
 - You should have a recent version of Go (≥ 1.11) installed on your computer.
 - You can look up documentation on the internet while you are coding.
-- You are not prohibited from using open-source libries, but the problem is easily solved using only the Go standard library.
+- You are not prohibited from using open-source libraries, but the problem is easily solved using only the Go standard library.
 - After two hours, you will email us your solution as a zip file and we will get back to you on next steps within 2 business days.
 
 If we decide to move forward, we will schedule a 30-minute followup call to discuss your code.
