@@ -34,7 +34,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
 1. You complete a 2-hour [coding exercise in TypeScript](software-engineer-coding-exercise.md#typescript-coding-exercise) that we designed to measure your understanding of how callbacks and asynchronous execution work.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
+   - **Library design:** We give you an problem statement and ask you to design a library executing in a browser environment to solve it. You will need to describe your library's public API, your testing strategy, and how you would leverage web APIs.
    - **Technical experience:** We ask you about your past work and accomplishments.
    - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
    - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
