@@ -6,9 +6,9 @@ We are looking for frontend engineers who know how to build intuitive user exper
 
 ## Qualifications
 
-- Excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
+- Excellent knowledge of TypeScript.
 - Solid understanding of JavaScript's concurrency model and event loop.
-- Skilled at building and testing (e.g., unit testing, automated end-to-end testing) single page web apps (React preferred) and HTTP APIs (GraphQL and Go preferred).
+- Skilled at building and testing (e.g., unit testing, automated end-to-end testing) React single page applications and HTTP APIs (GraphQL and Go preferred).
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
 
