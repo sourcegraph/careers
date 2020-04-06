@@ -27,7 +27,7 @@ We will encourage and support you to:
 ## Qualifications
 
 - Expertise in designing complex web applications as demonstrated in a strong portfolio showcasing your tried and tested process for tackling design problems, as well as high quality interaction, and visual design.
-- Experienced building end-to-end experiences in popular design tools (we use Figma).
+- Experience building end-to-end experiences in popular design tools (we use Figma).
 - The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
 - Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
