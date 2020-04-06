@@ -14,10 +14,11 @@ You will:
 
 - Contribute to the overall strategy and decision-making about Sourcegraph’s features.
 - Drive continual progress towards a cohesive, delightful experience for a technical audience through iterative improvements.
-- Have the autonomy to facilitate conversations, solve problems, and execute the designs.
+- Have the autonomy to facilitate conversations, identify problems, arrive at solutions, and execute designs.
 - Pull together insights to propose a variety of solutions, then collaborate with product and engineering to determine the best solutions to problems.
 - Use prototyping and usability testing to inform and validate designs.
 - Collaborate directly with customers to inform strategy and design decisions.
+- Play a key role in building design culture at Sourcegraph.
 
 We will encourage and support you to:
 
@@ -25,10 +26,10 @@ We will encourage and support you to:
 
 ## Qualifications
 
-- Expertise in designing complex web applications as demonstrated in a strong portfolio showcasing high-quality UX, interaction, and visual design.
-- Proficiency with Figma, Sketch, or similar tools to design end-to-end experiences (UX, interaction, and visual).
-- Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
+- Expertise in designing complex web applications as demonstrated in a strong portfolio showcasing your tried and tested process for tackling design problems, as well as high quality interaction, and visual design.
+- Experienced building end-to-end experiences in popular design tools (we use Figma).
 - The ability to adapt your tools and processes for the velocity of a fast-paced startup where projects have varying requirement levels.
+- Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
 - A deep understanding of developers, and a strong understanding of Git and Git workflows.
