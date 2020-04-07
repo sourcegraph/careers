@@ -32,7 +32,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 ## Interview process
 
-1. You [apply here](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5L45-sI42r_n?trackingTag=careersRepository).
+1. You [apply here](https://jobs.lever.co/sourcegraph/895e2b30-9fd7-4b09-bf16-0fa6f9613684).
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
 1. You complete a 2-hour [coding exercise in Go](software-engineer-coding-exercise.md#go-coding-exercise) that we designed to measure your understanding of concurrency and error handling.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
@@ -47,4 +47,4 @@ We want to ensure Sourcegraph is an environment that suits your working style an
 
 If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
-**[Click here to apply](https://hire.withgoogle.com/public/jobs/sourcegraphcom/view/P_AAAAAADAAC5L45-sI42r_n?trackingTag=careersRepository)**
+**[Click here to apply](https://jobs.lever.co/sourcegraph/895e2b30-9fd7-4b09-bf16-0fa6f9613684)**
