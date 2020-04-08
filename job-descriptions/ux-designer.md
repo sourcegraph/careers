@@ -51,7 +51,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 ## Interview process
 
-1. You [apply here](https://jobs.lever.co/sourcegraph/fa7d3807-ae4c-4a35-9401-56dad0958227).
+1. You [apply here](https://jobs.lever.co/sourcegraph/fa7d3807-ae4c-4a35-9401-56dad0958227/apply).
 1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We schedule a 1 hour portfolio review for you to present your past work.
 1. We schedule 5 hours of remote interviews over video chat across multiple days.
@@ -66,4 +66,4 @@ We want to ensure Sourcegraph is an environment that suits your working style an
 
 If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
-**[Click here to apply](https://jobs.lever.co/sourcegraph/fa7d3807-ae4c-4a35-9401-56dad0958227)**
+**[Click here to apply](https://jobs.lever.co/sourcegraph/fa7d3807-ae4c-4a35-9401-56dad0958227/apply)**
