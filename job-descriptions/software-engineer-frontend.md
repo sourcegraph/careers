@@ -1,48 +1,42 @@
-![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
+# Terver Stephen Aosu
 
-# Software Engineer - Frontend
+## Software Engineer - Frontend
 
-We are looking for frontend engineers who know how to build intuitive user experiences and APIs to make the power of [Universal Code Search](https://about.sourcegraph.com/product) accessible to everyone. You will have a lot of ownership to solve tough technical and UX problems in key areas of our web application and browser extensions (e.g. code search, code navigation, campaigns). Read [our project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.g2wq4qci7wj0) to see the challenges that we are working on today and in the near future.
+> [Portfolio](https://my-website.terveraosu.now.sh/) | [LinkedIn](https://www.linkedin.com/in/terver-aosu/) | [Stackoverflow](https://stackoverflow.com/story/truetechcode) | [GitHub](https://github.com/truetechcode/) | [Twitter](https://twitter.com/truetech_code)
 
-## Qualifications
+## `Summary`
 
-- Excellent knowledge of TypeScript.
-- Solid understanding of JavaScript's concurrency model and event loop.
-- Skilled at building and testing (e.g., unit testing, automated end-to-end testing) React single page applications and HTTP APIs (GraphQL and Go preferred).
-- Ability to communicate clearly and empathetically, especially in writing and documentation.
-- Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
+> I am excited to be applying to sourcegraph for the position of a Frontend Engineer.  
+> I am working with React and Ruby on Rails, I am a fast learner and adaptable,
+> I have worked with teams both physically and remotely and I am a good collaborator.
+> I have written amazing code and use great tools to boost collaboration and productivity.
+> I am ready to work and I will stop at nothing to push the growth of your organization.
 
-## Nice-to-haves
+## `Skills`
 
-- Experience building extensions to browsers (e.g. Chrome, Firefox, Safari) and/or editors (e.g. Visual Studio Code, Intellij, Sublime).
-- Experience building intuitive and documented CLIs.
-- Large and/or numerous contributions to open source projects.
-- Published blog posts and/or tech talks about your work.
-- Experience working on small high-performing teams, preferably tech startups.
+> JavaScript (ES5/ES6), Ruby, HTML, CSS, Ruby on Rails, React, jQuery, Bootstrap, Node, SQL, PostgreSQL, MySQL, RSpec, Jest, Git, GitHub, Webpack, Heroku, ZEIT, Slack, Zoom.
 
-## Learn more about us
+## `Experience`
 
-To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
+> **JPMorgan Chase & Co.** ​Software Engineering Intern _2019_
 
-We provide [competitive compensation](https://about.sourcegraph.com/handbook/people-ops/compensation) and [practical benefits](https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks) to keep you happy and healthy so that you can do your best work.
+- Worked on three tasks to fix bugs on a Python Script and React app of
+  the company’s web trading platform.
 
-Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
+> **Tivkpaa Modern Technologies Nig. Ltd** ​ Trainer, Web Developer and IT Technician. _2017 - 2019_
 
-## Interview process
+- I build the company website and was sole responsible for conducting maintenance on company I.T equipment.
+- I conducted trainings for more than 10 trainees.
 
-1. You [apply here](https://jobs.lever.co/sourcegraph/895e2b30-9fd7-4b09-bf16-0fa6f9613684/apply).
-1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
-1. You complete a 2-hour [coding exercise in TypeScript](software-engineer-coding-exercise.md#typescript-coding-exercise) that we designed to measure your understanding of how callbacks and asynchronous execution work.
-1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - **Library design:** We ask you to design a library executing in a browser environment given a set of constraints. You will need to describe your library's public API, your testing strategy, and how you would leverage web APIs.
-   - **Technical experience:** We ask you about your past work and accomplishments.
-   - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
-   - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
-1. We check your references.
-1. We make you a job offer.
+## `Education`
 
-We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
+> **Microverse**​ Certificate in Software Development _2019_
 
-If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
+- Spent 1300+ hours mastering a​lgorithms, data structures, and full-stack development while simultaneously developing projects in Ruby, Rails, Javascript, React, and Redux.
+- Developed skills in remote pair-programming, using Github, industry-standard git flows, and daily standups to communicate and collaborate with international remote deve​ lopers.
 
-**[Click here to apply](https://jobs.lever.co/sourcegraph/895e2b30-9fd7-4b09-bf16-0fa6f9613684/apply)**
+## Credits
+
+This personal portfolio project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the [Agency](https://startbootstrap.com/template-overviews/agency/) theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
