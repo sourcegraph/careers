@@ -16,6 +16,7 @@ We're hiring! Check out our open positions:
 - [Product Designer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/ux-designer.md)
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
+- [Account Executive](https://github.com/sourcegraph/careers/blob/master/account-executive.md)
 
 Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
 
