@@ -32,10 +32,11 @@ We will encourage and support you to:
 - Experience with usability testing, customer journey mapping, developing personas, wireframing and prototyping, sketching, and other UX design methods.
 - The ability to proactively give maintenance to the design system when thinking about how new concepts impact the whole product.
 - A knack for giving and receiving feedback, and explaining the reasoning behind your designs.
-- A deep understanding of developers, and a strong understanding of Git and Git workflows.
+- A deep understanding of developers, and experience working with them closely.
 
 ## Nice-to-haves
 
+- Strong understanding of Git and Git workflows.
 - Experience designing developer tools.
 - Experience working in cross-functional teams on multiple projects in tandem.
 - Experience building or contributing to the design of consumer or enterprise applications.
