@@ -44,7 +44,7 @@ You apply [here](https://jobs.lever.co/sourcegraph/35aff80b-be4f-4887-a465-3e91e
 1. We set up a 15-minute video chat with you about Sourcegraph to find out if there's a high level fit.
 2. We schedule a [mock customer pitch](https://github.com/sourcegraph/about/blob/master/handbook/sales/interviews/mock_customer_call.md) with two teammates.We schedule a mock customer call with two teammates.
 3. We schedule 3 hours of remote interviews over video chat across multiple days.
-  - Interview 1: an existing AE on the team (1 hour)
+  	- Interview 1: an existing AE on the team (1 hour)
 	- Interview 2: a member of our Customer Engineering team (30 minutes)
 	- Interview 3: a deeper dive with our VP of Sales (1 hour)
 	- Interview 4 (CEO/CTO): We ask you about what motivates you to do your best work, and we tell you more about the vision for the company (30 minutes)
