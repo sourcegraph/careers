@@ -6,7 +6,7 @@ You'll work with engineering, sales, marketing, and design to plan, ship, and gr
 
 Developers [love our product](https://engineeringblog.yelp.com/2019/11/winning-the-hackathon-with-sourcegraph.html) and rely on it daily to ship and deploy better software. Our passionate users provide a constant stream of thoughtful feedback and love engaging with us to help them and their teams solve their toughest problems.
 
-Our [public roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit) shows the product priorities for each engineering team and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
+Our [public roadmap](https://about.sourcegraph.com/direction) shows the product priorities for 2020 and we use [OKRs](https://about.sourcegraph.com/company/okrs) to communicate company goals for each quarter.
 
 ## Responsibilities
 
