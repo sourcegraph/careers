@@ -30,13 +30,11 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 ## Interview process
 
 1. You [apply here](TODO).
-1. We setup a call with our VP of Engineering to answer any questions that you have about Sourcegraph.
-1. We schedule remote interviews over video chat.
+1. We schedule a call with our VP of Engineering to learn more about you and answer any questions that you have about Sourcegraph.
+1. We schedule multiple remote interviews to determine if you would be a good fit for our team.
 1. We check your references.
 1. We make you a job offer.
 
 We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
-
-If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 **[Click here to apply](TODO)**
