@@ -17,6 +17,8 @@ We're hiring! Check out our open positions:
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
+- [Demand Generation Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/demand-generation-manager.md)
+- [Online Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/online-developer-advocate.md)
 
 Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
 
