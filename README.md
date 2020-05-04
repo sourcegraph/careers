@@ -20,7 +20,9 @@ We're hiring! Check out our open positions:
 - [Demand Generation Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/demand-generation-manager.md)
 - [Online Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/online-developer-advocate.md)
 
-Apply by following the directions in the job description. Have questions about our hiring process? Email us at hiring@sourcegraph.com.
+Apply by following the directions in the job description.
+
+If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
 ## Our team
 

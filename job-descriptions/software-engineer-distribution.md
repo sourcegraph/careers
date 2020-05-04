@@ -44,6 +44,4 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
 
-If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
-
 **[Click here to apply](https://jobs.lever.co/sourcegraph/ddef3b91-ce19-4b22-8db4-65e159d7ff2b/apply)**
