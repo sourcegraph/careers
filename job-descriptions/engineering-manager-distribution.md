@@ -29,7 +29,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 ## Interview process
 
-1. You [apply here](TODO).
+1. You [apply here](https://jobs.lever.co/sourcegraph/2c49d330-4185-42f6-a150-70ae64056474).
 1. We schedule a call with our VP of Engineering to learn more about you and answer any questions that you have about Sourcegraph.
 1. We schedule multiple remote interviews to determine if you would be a good fit for our team.
 1. We check your references.
@@ -37,4 +37,4 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.
 
-**[Click here to apply](TODO)**
+**[Click here to apply](https://jobs.lever.co/sourcegraph/2c49d330-4185-42f6-a150-70ae64056474)**
