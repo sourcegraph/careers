@@ -9,8 +9,8 @@ We are looking for an experienced engineering leader to manage our [distribution
 - Update-to-date technical knowledge of relevant technologies like Go, Kubernetes, and Docker.
 - Track record of recruiting, developing, and retaining top engineering talent.
 - Excellent communication skills, especially in writing.
-- Minimum 3 years of experience as an engineering manager.
-- Minimum 3 years of experience as a software engineer.
+- Minimum 2 years of experience as an engineering manager.
+- Minimum 2 years of experience as a software engineer.
 
 ## Nice-to-haves
 
