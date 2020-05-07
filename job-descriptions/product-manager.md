@@ -10,13 +10,18 @@ Our [public roadmap](https://about.sourcegraph.com/direction) shows the product 
 
 ## Responsibilities
 
-You will:
+You will **own an area of the product**\* and:
 
-- Own an area of the product, and drive and inform its product roadmap.
-- Collaborate with engineers and designers to plan and build the solutions to customer problems.
+- Significantly grow usage and engagement of that area and Sourcegraph as a whole.
+- Collaborate with, support, and motivate their team to plan and build the solutions to customer problems.
+- Add value to the user by solving real problems and is improving the user’s workflow as a developer.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
+- Make sure the development team for the product area is working on the most impactful things.
+- Maintain a roadmap, backlog, and curate and solicit feedback for the product area.
+- Communicate product ideas clearly by focusing on the problems that are being solved, the outcomes, and how we will measure success.
 - Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.
-- Be a passionate advocate for a delightful user experience.
+
+\* Product ownership areas: Search, campaigns, extensions and code insights, code intelligence.
 
 ## Qualifications
 
@@ -49,11 +54,12 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 1. You [apply here](https://jobs.lever.co/sourcegraph/254299f5-f91b-43e2-aa1a-3732963dd296/apply).
 1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
-1. We give you a small case study project to see how you would approach product management at Sourcegraph.
-1. We schedule 5 hours of remote interviews over video chat across multiple days.
-   - **Product exercise:** We give you a problem statement and you walk us through your product process in a 2 hour block.
-   - **Product strategy:** We ask you about your past work and accomplishments and how you will apply that to your role at Sourcegraph.
-   - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
+1. We give you a writing project to see how you communicate and think about product problems.
+1. We schedule a 2 hour interview to go over your experience in depth and follow up on any questions from the writing project.
+1. We schedule 4 hours of remote interviews over video chat across multiple days.
+   - **Product experience:** We dive deep on how you work as a product manager.
+   - **Working with customers:** The sales and customer engineering teams talk with you about how you work with customer to gather feedback.
+   - **Engineering collaboration:** The engineering team talks with you about how you collaborate and work within a team.
    - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1. We check your references.
 1. We make you a job offer.
