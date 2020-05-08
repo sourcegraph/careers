@@ -31,10 +31,9 @@ Learn more about what it is like to work at Sourcegraph by reading our handbook.
 ## Interview process
 1. You [apply here](https://jobs.lever.co/sourcegraph/97662b96-fd8a-463d-ad33-22cf4656ffd7/apply). 
 1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role. 
-1. You submit a portfolio of your best online content.
+1. You give a compelling technical webcast about a topic of your choice in front of members of the marketing and engineering teams.
 1. We schedule a set of remote interviews.
 - **Technical experience:** Our engineering team evaluates your technical background.
-- **Online presence:** You give a compelling technical webcast about a topic of your choice.
 - **Team collaboration:**  We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
 - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 5. We check your references.
