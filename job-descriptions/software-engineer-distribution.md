@@ -6,7 +6,7 @@ We are looking for software engineers who are passionate about and skilled at ma
 
 ## Qualifications
 
-- Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g., GCP, AWS).
+- Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platform providers (e.g., GCP, AWS).
 - Skilled at debugging distributed systems followed by designing and implementing solutions to those problems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 - Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
