@@ -2,14 +2,14 @@
 
 # Software Engineer - Distribution
 
-We are looking for software engineers who are passionate about and skilled at making software easy to build, deploy, configure, monitor, and debug. You will have ownership to solve challenging problems that our customers face when they deploy and scale Sourcegraph on-premise in a variety of environments, and that we face when we deploy and scale sourcegraph.com (the largest Sourcegraph installation in the world). Read our [project roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to see the challenges that we are working on today and in the near future.
+We are looking for software engineers who are passionate about and skilled at making software easy to build, deploy, configure, monitor, and debug. You will have ownership to solve challenging problems that our customers face when they deploy and scale Sourcegraph on-premise in a variety of environments, and that we face when we deploy and scale [Sourcegraph.com](https://sourcegraph.com/search) (the largest Sourcegraph installation in the world). Read the [distribution team handbook documentation](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit#heading=h.mi8zg2ql2uc6) to learn more.
 
 ## Qualifications
 
 - Solid understanding of how to use Docker and Kubernetes to deploy non-trivial applications to cloud platorm providers (e.g., GCP, AWS).
 - Skilled at debugging distributed systems followed by designing and implementing solutions to those problems.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
-- Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g. cut scope) to ship quickly and iterate when necessary.
+- Practiced at creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope) to ship quickly and iterate when necessary.
 - Comfortable using Terraform (or similar infrastructure-as-code) to build tooling and automation for deployments, CI, and internal dev tools.
 
 ## Nice-to-haves
