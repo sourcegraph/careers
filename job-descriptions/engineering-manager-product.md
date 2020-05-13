@@ -7,6 +7,7 @@ We are looking for an experienced engineering leader to manage a cross-functiona
 ## Qualifications
 
 - Experience leading teams to achieve a product objective.
+- Experience working with one or more of languages that we use (e.g., Go, TypeScript/JavaScript).
 - Track record of recruiting, developing, and retaining top engineering talent.
 - Excellent communication skills, especially in writing.
 - Minimum 2 years of experience as an engineering manager.
@@ -14,7 +15,6 @@ We are looking for an experienced engineering leader to manage a cross-functiona
 
 ## Nice-to-haves
 
-- Experience working with one or more of technologies that we use (e.g., Go, TypeScript, Kubernetes).
 - A network of excellent software engineers who would be interested to work with you again at Sourcegraph.
 - Published blog posts and/or tech talks about your work.
 
