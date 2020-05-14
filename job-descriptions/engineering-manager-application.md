@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Engineering Manager - Product
+# Engineering Manager - Application
 
 We are looking for an experienced engineering leader to manage a cross-functional engineering team of ~3-8 engineers that is responsible for one of our products (e.g., [campaigns](https://about.sourcegraph.com/handbook/engineering/campaigns), [code intelligence](https://about.sourcegraph.com/handbook/engineering/code-intelligence), code host integrations). You will partner with our [product team](https://about.sourcegraph.com/handbook/product) to define team goals, and then develop a roadmap to achieve those goals. Our product is very technical, so we expect you to be capable of doing a non-zero amount of development work that is not on the critical path to keep your technical knowledge up-to-date.
 
