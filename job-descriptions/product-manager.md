@@ -14,7 +14,7 @@ You will **own an area of the product**\* and:
 
 - Significantly grow usage and engagement of that area and Sourcegraph as a whole.
 - Collaborate with, support, and motivate their team to plan and build the solutions to customer problems.
-- Add value to the user by solving real problems and is improving the user’s workflow as a developer.
+- Add value to the user by solving real problems and improving the user’s workflow as a developer.
 - Gather customer feedback to validate priorities, improve documentation, and define product requirements.
 - Make sure the development team for the product area is working on the most impactful things.
 - Maintain a roadmap, backlog, and curate and solicit feedback for the product area.
