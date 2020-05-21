@@ -6,7 +6,7 @@ We are looking for an experienced engineering leader to manage the team that is 
 
 ## Qualifications
 
-- Update-to-date technical knowledge of relevant technologies like Go, Kubernetes, and Docker.
+- Up-to-date technical knowledge of relevant technologies like Go, Kubernetes, and Docker.
 - Track record of recruiting, developing, and retaining top engineering talent.
 - Excellent communication skills, especially in writing.
 - Minimum 2 years of experience as an engineering manager.
