@@ -8,7 +8,6 @@ Join us on our mission to make it so everyone, in every community, in every coun
 
 We're hiring! Check out our open positions:
 
-- [Engineering Manager - Distribution](job-descriptions/engineering-manager-distribution.md)
 - [Engineering Manager - Product](job-descriptions/engineering-manager-product.md)
 - [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
