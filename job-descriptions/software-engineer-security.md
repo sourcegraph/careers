@@ -51,7 +51,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 1. You write your first Sourcegraph [RFC](https://about.sourcegraph.com/handbook/communication/rfcs) by creating a new Google Doc using [this template](https://docs.google.com/document/d/1ol7aVXuXB7XL4DorOoxoDsaSyFI9Pv4Bcc1zfo-iLtw/edit#). We will review your RFC and may ask questions via comments directly on the document.
 1. You speak with the Sourcegraph Cloud engineering manager for 30 minutes about your RFC.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - 1h **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
+   - 1h **Security architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - 1h **Technical experience:** We ask you about your past work and accomplishments.
    - 1h **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
    - 30m **CTO**
