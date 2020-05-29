@@ -2,7 +2,7 @@
 
 # Software Engineer - Security
 
-We are looking for an expert to own security at Sourcegraph. This includes the security of Sourcegraph.com as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will have the opportunity to build the best security culture and organization in the world from the ground up.
+We are looking for an expert to own security at Sourcegraph. This includes the security of Sourcegraph.com as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will have the opportunity to build a world-class security culture and team from the ground up.
 
 ## Responsibilities
 
