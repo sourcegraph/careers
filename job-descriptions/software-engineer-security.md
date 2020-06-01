@@ -13,7 +13,7 @@ In the first 30 days, you will:
 
 In the first 60 days, you will:
 
-- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform) yourself, and helping other engineers on our team make the necessary changes. You should expect that at least 75% of your effort will be direct contributions to start.
+- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes. You should expect that at least 75% of your effort will be direct contributions to start.
 - Create a hiring plan and interview process to build the team that is necessary to secure Sourcegraph.
 
 In the first year, you will:
