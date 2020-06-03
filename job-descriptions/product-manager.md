@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Product Manager
+# Technical Product Manager
 
 You'll work with engineering, sales, marketing, and design to plan, ship, and grow usage and engagement in specific areas of our product. As an early member of our product team, you'll have significant product ownership and will communicate directly with our users to drive continuous improvement.
 
