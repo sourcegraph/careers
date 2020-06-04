@@ -40,7 +40,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 1. You [apply here](https://jobs.lever.co/sourcegraph/c36db3e1-0ece-465d-ad7c-1eb6de9a4b22/apply).
 1. You speak with the VP of Engineering for 30 minutes. To prepare:
    - Read through [our handbook](https://github.com/sourcegraph/about) to learn more about how we operate and to find answers to common questions that you might have.
-   - Preview
+   - Review the RFC template in the next step and write down any questions that you have.
 1. You write your first Sourcegraph [RFC](https://about.sourcegraph.com/handbook/communication/rfcs) by creating a new Google Doc using [this template](https://docs.google.com/document/d/1ol7aVXuXB7XL4DorOoxoDsaSyFI9Pv4Bcc1zfo-iLtw/edit#). We will review your RFC and may ask questions via comments directly on the document.
 1. You speak with the Sourcegraph Cloud engineering manager for 1 hour about your RFC.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
