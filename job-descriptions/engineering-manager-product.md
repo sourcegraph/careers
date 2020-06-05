@@ -38,6 +38,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
     - **1h Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
     - **1h Engineering leadership:** We ask you questions to understand your values and leadership style.
     - **30m CEO**
+1. We will setup any extra informal calls that are necessary to ensure you have a chance to meet everyone on the team that you will be managing.
 1. We check your references.
 1. We make you a job offer.
 
