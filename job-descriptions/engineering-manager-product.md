@@ -31,8 +31,13 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 ## Interview process
 
 1. You [apply here](https://jobs.lever.co/sourcegraph/342b170f-6204-4331-a3b5-1484cb1e4db0).
-1. We schedule a call with our VP of Engineering to learn more about you and answer any questions that you have about Sourcegraph.
-1. We schedule multiple remote interviews to determine if you would be a good fit for our team.
+1. You speak with our VP of Engineering for 45m.
+1. You speak with our CTO for 1h.
+1. You interview with our team.
+    - **1h Technical experience:** We ask you about your past work and accomplishments.
+    - **1h Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
+    - **1h Engineering leadership:** We ask you questions to understand your values and leadership style.
+    - **30m CEO**
 1. We check your references.
 1. We make you a job offer.
 
