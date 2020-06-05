@@ -2,20 +2,26 @@
 
 # Software Engineer - Security
 
-We are looking for a software engineer to own the security of our product. This includes the security of sourcegraph.com as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be responsible for proactively understanding, documenting, and improving the security of our product, as well as promptly responding to and addressing security issues reported to us by third parties. As our security needs grow over time, there is a potential for you to grow into a security team leadership role.
+We are looking for an engineer who specializes in security to help us proactively secure our product. This includes the security of Sourcegraph Cloud as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be one of the first security hires at Sourcegraph and will have the opportunity to build a world-class security culture and team from the ground up.
+
+## Responsibilities
+
+- Identify what our security needs are and develop a roadmap to improve and ensure the security of our product.
+- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes. You should expect that at least 75% of your effort will be direct contributions to start.
+- Promptly respond to and address security issues reported to us by third parties.
+- Create a culture of security at Sourcegraph that empowers all of our engineers to write secure code.
 
 ## Qualifications
 
-We are looking for candidates with the following skills, and we will test for these things in our interview process:
-
-- Broad knowledge of possible attack vectors for applications like Sourcegraph and an understanding of how to eliminate and/or mitigate those security risks. This knowledge generally comes from having multiple years of software development experience in the security domain.
-- Skilled at understanding, debugging, and writing code (ideally Go and TypeScript) to identify and fix security issues.
-- Demonstrated ability to own large ambiguous problems while making continuous progress.
+- Broad knowledge of possible attack vectors for on-premise and cloud applications, like Sourcegraph, and an understanding of how to eliminate and/or mitigate those security risks. This knowledge generally comes from having many years of experience in the domain of security.
+- Ability to define, plan, and prioritize security work that needs to be done (and then go do that work).
+- Ability to understand, debug, and write Go and TypeScript to fix security issues.
+- Ability to secure cloud applications that use our tech stack: Kuberentes, Docker, Google Cloud Platform.
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 
 ## Nice-to-haves
 
-- Experience leading a team.
+- Experience leading security teams (as a people manager or as a technical leader).
 - Published blog posts and/or tech talks about your work.
 - Experience working on high-performing teams, preferably tech startups.
 
@@ -32,16 +38,17 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 ## Interview process
 
 1. You [apply here](https://jobs.lever.co/sourcegraph/c36db3e1-0ece-465d-ad7c-1eb6de9a4b22/apply).
-1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
-1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
-   - We will give you an overview of the exercise in advance.
-   - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
-   - You will be able to use your own development environment and lookup documentation on the internet.
+1. You speak with the VP of Engineering for 30 minutes. To prepare:
+   - Read through [our handbook](https://github.com/sourcegraph/about) to learn more about how we operate and to find answers to common questions that you might have.
+   - Review the RFC template in the next step and write down any questions that you have.
+1. You write your first Sourcegraph [RFC](https://about.sourcegraph.com/handbook/communication/rfcs) by creating a new Google Doc using [this template](https://docs.google.com/document/d/1ol7aVXuXB7XL4DorOoxoDsaSyFI9Pv4Bcc1zfo-iLtw/edit#). We will review your RFC and may ask questions via comments directly on the document.
+1. You speak with the Sourcegraph Cloud engineering manager for 1 hour about your RFC.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
-   - **Technical experience:** We ask you about your past work and accomplishments.
-   - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
-   - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
+   - 1h **Security architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
+   - 1h **Technical experience:** We ask you about your past work and accomplishments.
+   - 1h **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
+   - 30m **CTO**
+   - 30m **CEO**
 1. We check your references.
 1. We make you a job offer.
 
