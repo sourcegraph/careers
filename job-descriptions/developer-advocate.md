@@ -1,6 +1,6 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Online Developer Advocate
+# Developer Advocate
 
 Sourcegraph Universal Code Search is the one place to answer any questions about code and systems.
 
