@@ -8,6 +8,7 @@ Join us on our mission to make it so everyone, in every community, in every coun
 
 We're hiring! Check out our open positions:
 
+- [Engineering Manager - Campaigns](job-descriptions/engineering/engineering-manager-campaigns.md)
 - [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
 - [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
