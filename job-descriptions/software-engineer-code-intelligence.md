@@ -33,7 +33,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 1. You [apply here](https://jobs.lever.co/sourcegraph/91ee5178-6daf-4a84-be02-048cd8aa2aa0/apply).
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
-1. You complete a 2-hour coding exercise in [TypeScript](software-engineer-coding-exercise.md#typescript-coding-exercise), or [Go](software-engineer-coding-exercise.md#go-coding-exercise). Click those links to learn more about the exercises. If you are not comfortable with either of these languages, we will figure something out.
+1. You complete a 2-hour coding exercise in either [TypeScript](software-engineer-coding-exercise.md#typescript-coding-exercise), or [Go](software-engineer-coding-exercise.md#go-coding-exercise). Click those links to learn more about the exercises.
 1. We schedule 4 hours of remote interviews over video chat across multiple days.
    - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
    - **Technical experience:** We ask you about your past work and accomplishments.
