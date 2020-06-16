@@ -2,26 +2,31 @@
 
 # Online Developer Advocate
 
-Are you an experienced developer who has considered becoming a developer advocate, but hated the idea of all that travel? Or are you an experienced DA that wants to settle down at home? In this role, you’ll create compelling online experiences for developers from your home. Come build the best possible experience for developers. Help tell the story of Universal Code Search.
+Sourcegraph Universal Code Search is the one place to answer any questions about code and systems.
+
+As a Developer Advocate, you’ll empathize deeply with professional developers. You'll raise awareness about Sourcegraph and find ways of working within your communities through enablement and inspiration. You will help build a cohort of advocates within the Sourcegraph community. You will be seen as a practitioner and strategic force around Sourcegraph’s efforts for specific communities and products.
+
 
 ## Responsibilities
 
 You will:
 
-- Conceptualize, plan, and execute all types of online engagement with developers. Live casts, webinars, online training, live coding, online meetups, online office hours, podcasts, interviews, twitch, you can probably name 10 more.
-- Code. Create code samples and demos.
-- Be active on Developer social media. Have an opinion and a point of view.
-- Nurture a community. Answer questions in StackOverflow and other developer media.
-- Connect with customers. Speak directly to our developer users about their business needs, technical landscapes, and pain points. Give demos.
-- Become a product expert. Steep yourself in the experiences that developer users have, and demonstrate the value of Universal Code Search.
+- Define developer stories and do both online and in-person outreach for Sourcegraph.
+- Drive the success of universal code search through your knowledge of and interactions with, technical communities.
+- Advocate by presenting at conferences and meetups, webinars, blogging, creating videos, writing technical tutorials, and other similar activities in the community ecosystem.
+- Work with Sourcegraph users to help them tell their stories in text, video, and podcasts.
 
 
 ## Qualifications
 
-We’re looking for someone who:
+We’re looking for someone who has:
+- A Bachelor’s degree or equivalent practical experience.
+- Experience working as a software developer, architect, technical evangelist, consultant, educator, community manager, product manager, CTO, or consultant.
+- Experience in presenting technical concepts through presentations, workshops, videos, blogs, podcasts, webinars, hackathons, blogs, and/or social media.
+- Experience speaking at technology conferences, blogging/writing technical articles with an existing follower base, or contributing to a popular open-source project.
+- Experience engaging on social developer platforms.
+- Excellent written and verbal communication skills with the desire to share technical knowledge and information with others.
 
-- Loves to be live online, and is a great show person and a great communicator. Maybe you have a personal youtube channel, podcast, or a side gig as a standup comic.
-- Has 3-5+ years of experience working as a developer a tech company or a Fortune 500 company or with at least 100 developers.
 
 ## Learn more about us
 To create a product that serves the needs of all developers, we are building a diverse all-remote team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
