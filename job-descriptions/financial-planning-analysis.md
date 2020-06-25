@@ -27,8 +27,12 @@ You will help us build the financial and accounting systems to manage our growth
 - Take on at least one strategic initiative to improve our financial systems and processes.
 
 ## Qualifications
-- An excitement for software development (no training as an Engineer required, but you should have an understanding of how software development happens and Sourcegraph's value proposition).
-- Demonstrated background in strategic or operational finance functions roles (Finance, BizOps, or Accounting at a technology company, Consulting, Investment Banking, etc.)
+
+- An excitement for software development and [our mission to make it so that everyone can code](https://about.sourcegraph.com/company/strategy) (no training as an Engineer required).
+- Demonstrated background in strategic and operational finance roles (Finance, Business Operations, or Accounting at a technology company, Consulting, etc.).
+- Deep understanding of B2B SaaS companies and B2B SaaS economics, including familiarity with metrics and concepts such as ARR/MRR, churn, LTV, CAC, gross margins, and more.
+- Comfort navigating, preparing, and interpreting financial statements (no CPA or formal certifications required).
+
 ## Learn more about us
 
 To create a product that serves the needs of all developers, we are building a diverse [all-remote team](https://about.sourcegraph.com/company/remote) that is [distributed across the world](https://about.sourcegraph.com/company/team). Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
