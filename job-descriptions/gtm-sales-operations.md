@@ -1,8 +1,8 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Go-to-market (Sales) Operations Analyst
+# Sales Strategy & Operations Analyst
 
-We are looking for the first hire on our go-to-market/sales operations team, and the second on our broader business operations team. You will enable and help our GTM teams sell to and support our customers better and faster. You will own sales forecasting and planning, formulation and management of sales and customer engineering incentive programs, collection and analysis of go-to-market metrics, pipeline and territory assignment, and most importantly, defining sales and customer engineering strategy.
+We are looking for the first hire on our go-to-market/sales operations team, and the second on our broader business operations team. You will enable and help our GTM teams sell to and support our customers better and faster. You will own sales forecasting and planning, formulation and management of sales and customer engineering incentive programs, collection and analysis of go-to-market metrics, pipeline and territory assignment, and most importantly, helping define sales and customer engineering strategy.
 
 Our team and our sales are growing fast—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s premier development teams (Uber, Yelp, Lyft, SoFi, Quantcast, and many more).
 
@@ -14,6 +14,7 @@ You will help build the organization that enables us to reach every developer in
 
 - Go through a week-long training program on our product, our value propositions, our customers, our team, and our processes.
 - Go through an additional week-long training program on our customer lifecycle, our sales processes, and our support and success functions.
+- Work closely with the rest of our Sales and Customer Engineering teams to understand our current operations.
 - Dive deep into our OKRs, our metrics (both revenue/ARR and usage/engagement), and our CRM and marketing suite (HubSpot) to understand how we measure our pipeline and customer engagement.
 - Work with the rest of our Business Operations team to understand our go-to-market data collection, needs and gaps, and current modeling capabilities.
 - Take ownership of our sales and customer engineering OKRs and tracking.
@@ -27,8 +28,9 @@ You will help build the organization that enables us to reach every developer in
 
 ## Qualifications
 
-- A passion and excitement for software development (no training as an Engineer required, but you should have an understanding of how software development happens and Sourcegraph's value proposition).
+- Excitement for software development (no training as an Engineer required, but you should have an understanding of how software development happens and Sourcegraph's value proposition).
 - Demonstrated understanding of how B2B SaaS companies go to market and sell.
+- Familiarity with B2B SaaS sales and success incentive programs and key B2B SaaS sales and success metrics.
 - Demonstrated background in analytical roles (Sales Ops, BizOps, Growth, Consulting, Finance, etc.).
 
 ## Learn more about us
@@ -41,7 +43,7 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 
 ## Interview process
 
-1. You [apply here]().
+1. You [apply here](https://jobs.lever.co/sourcegraph/dca1bb15-ae48-43ae-b446-5742f4050fa9/apply).
 1. We set up a 30 minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We give you a small case study project to see how you would approach the job at Sourcegraph.
 1. We schedule a few more hours of interviews.
@@ -52,4 +54,4 @@ We want to ensure Sourcegraph is an environment that suits your working style an
 
 If you're interested in Sourcegraph but aren't yet ready to apply we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
 
-**[Click here to apply]()**
+**[Click here to apply](https://jobs.lever.co/sourcegraph/dca1bb15-ae48-43ae-b446-5742f4050fa9/apply)**
