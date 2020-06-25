@@ -18,7 +18,7 @@ We're hiring! Check out our open positions:
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [Demand Generation Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/demand-generation-manager.md)
 - [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
-- [Sales Strategy and Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
+- [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
 
 Apply by following the directions in the job description.
