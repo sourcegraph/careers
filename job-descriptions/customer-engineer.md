@@ -2,7 +2,7 @@
 
 # Customer Engineer
 
-We are looking for the first hire on the Customer Engineering team. You will help customers be successful on the front lines, participating as a technical expert in sales calls and demos, owning relationships with existing customers, helping solve and route any issues, and working to ensure that Sourcegraph usage (and satisfaction) grows at all companies, pre- and post-sales.
+We are looking to grow the Customer Engineering team. As a Customer Engineer you will help customers be successful on the front lines, participating as a technical expert in sales calls and demos, owning relationships with existing customers, helping solve and route any issues, and working to ensure that Sourcegraph usage (and satisfaction) grows at all companies, pre- and post-sales.
 
 Our team and our sales are growing fast—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s premier development teams (Uber, Yelp, Lyft, SoFi, Quantcast, and many more).
 
