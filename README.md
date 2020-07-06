@@ -16,7 +16,6 @@ We're hiring! Check out our open positions:
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
-- [Demand Generation Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/demand-generation-manager.md)
 - [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
 - [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
