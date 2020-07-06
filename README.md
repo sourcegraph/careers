@@ -19,6 +19,7 @@ We're hiring! Check out our open positions:
 - [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
 - [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
+- [Technical Recruiter](https://github.com/sourcegraph/careers/blob/master/job-descriptions/technical-recruiter.md)
 
 Apply by following the directions in the job description.
 
