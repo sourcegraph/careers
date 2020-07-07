@@ -55,11 +55,10 @@ Learn more about what it is like to work at Sourcegraph by reading [our handbook
 1. You [apply here](https://jobs.lever.co/sourcegraph/254299f5-f91b-43e2-aa1a-3732963dd296/apply).
 1. We set up a 30-minute call to chat with you about Sourcegraph to find out what you are looking for in your next role.
 1. We give you a writing project to see how you communicate and think about product problems.
-1. We schedule a 2 hour interview to go over your experience in depth and follow up on any questions from the writing project.
-1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - **Product experience:** We dive deep on how you work as a product manager.
-   - **Working with customers:** The sales and customer engineering teams talk with you about how you work with customer to gather feedback.
-   - **Engineering collaboration:** The engineering team talks with you about how you collaborate and work within a team.
+1. **Product experience:** We review your writing project and dive deep on how you work as a product manager.
+1. We schedule 3 hours of remote interviews over video chat across multiple days.
+   - **Working with customers:** The sales and customer engineering teams talk with you about how you work with customers to gather feedback.
+   - **Design and Engineering collaboration:** The design and engineering teams talk with you about how you collaborate and work within a team.
    - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1. We check your references.
 1. We make you a job offer.
