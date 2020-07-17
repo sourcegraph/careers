@@ -2,7 +2,7 @@
 
 # Engineering Manager - Web
 
-We are looking for an experienced engineering leader our [web team](https://about.sourcegraph.com/handbook/engineering/web).
+We are looking for an experienced engineering leader for our [web team](https://about.sourcegraph.com/handbook/engineering/web).
 
 ## Qualifications
 
