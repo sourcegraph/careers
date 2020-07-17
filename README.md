@@ -9,6 +9,8 @@ Join us on our mission to make it so everyone, in every community, in every coun
 We're hiring! Check out our open positions:
 
 ### Engineering
+
+- [Engineering Manager - Web](job-descriptions/engineering-manager-web.md)
 - [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
 - [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
 - [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
@@ -16,24 +18,30 @@ We're hiring! Check out our open positions:
 - [Software Engineer - Security](job-descriptions/software-engineer-security.md)
 
 ### Product
+
 - [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
 
 ### Sales
+
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 
 ### Marketing
+
 - [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
 
 ### Customer engineering
+
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
 
 ### Operations, finance, and legal
+
 - [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
 - [Contract Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/contract-manager.md)
 
 ### People ops
+
 - [Technical Recruiter](https://github.com/sourcegraph/careers/blob/master/job-descriptions/technical-recruiter.md)
 
 Apply by following the directions in the job description.
