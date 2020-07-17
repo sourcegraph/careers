@@ -1,1 +1,0 @@
-We used to have a single "Software Engineer" job description, but now have separate job descriptions for more focused skillsets. Apply to the [open position](../README.md#open-positions) that most accurately reflects your skills and interests.
