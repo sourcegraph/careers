@@ -40,10 +40,6 @@ We're hiring! Check out our open positions:
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
 - [Senior Commercial Counsel](https://github.com/sourcegraph/careers/blob/master/job-descriptions/senior-commercial-counsel.md)
 
-### People ops
-
-- [Technical Recruiter](https://github.com/sourcegraph/careers/blob/master/job-descriptions/technical-recruiter.md)
-
 Apply by following the directions in the job description.
 
 If you're interested in Sourcegraph but aren't yet ready to apply, we are still happy to connect and answer any questions that you might have: [DM us on Twitter](https://twitter.com/srcgraph) or email hiring@sourcegraph.com.
