@@ -2,28 +2,31 @@
 
 # Software Engineer - Security
 
-We are looking for an engineer who specializes in security to help us proactively secure our product. This includes the security of Sourcegraph Cloud as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be one of the first security hires at Sourcegraph and will have the opportunity to build a world-class security culture and team from the ground up.
+We are looking for an engineer who is passionate about security, and wants to proactively secure our product and our customers.  You will help our customers secure their on-premise versions of Sourcegraph, and contribute to the security of our product and Sourcegraph cloud.  You will be one of the early security hires at Sourcegraph, helping to build a world-class security team, where everyone contributes, from writing code to running vulnerability scans.
 
 ## Responsibilities
 
 - Identify what our security needs are and develop a roadmap to improve and ensure the security of our product.
-- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes. You should expect that at least 75% of your effort will be direct contributions to start.
+- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes.
 - Promptly respond to and address security issues reported to us by third parties.
+- Increasing our security posture by running traditional security tools such as vulnerability scanners and SAST and DAST tools.
 - Create a culture of security at Sourcegraph that empowers all of our engineers to write secure code.
 
 ## Qualifications
 
-- Broad knowledge of possible attack vectors for on-premise and cloud applications, like Sourcegraph, and an understanding of how to eliminate and/or mitigate those security risks. This knowledge generally comes from having many years of experience in the domain of security.
-- Ability to define, plan, and prioritize security work that needs to be done (and then go do that work).
+- Experience identifying and remediating the full life cycle of vulnerabilities, both through external packages and in code.
+- Broad knowledge of attack vectors and threat actors for the life cycle of on-premise and cloud applications, including triage, remediation, and continuous improvement.
 - Ability to understand, debug, and write Go and TypeScript to fix security issues.
-- Ability to secure cloud applications that use our tech stack: Kuberentes, Docker, Google Cloud Platform.
+- Ability to secure cloud applications that use our tech stack: Kubernetes, Docker, Google Cloud Platform.
+- Ability to define, plan, and prioritize security work that needs to be done (and then go do that work).
 - Ability to communicate clearly and empathetically, especially in writing and documentation.
 
 ## Nice-to-haves
 
-- Experience leading security teams (as a people manager or as a technical leader).
 - Published blog posts and/or tech talks about your work.
 - Experience working on high-performing teams, preferably tech startups.
+- Experience improving the security posture of a small team, and helping that team carry the baton themselves.
+- Experience working in an ops environment.
 
 ## Learn more about us
 
