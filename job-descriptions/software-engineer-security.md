@@ -2,19 +2,11 @@
 
 # Software Engineer - Security
 
-We are looking for an engineer who is passionate about security, and wants to proactively secure our product and our customers.  You will help our customers secure their on-premise versions of Sourcegraph, and contribute to the security of our product and Sourcegraph cloud.  You will be one of the early security hires at Sourcegraph, helping to build a world-class security team, where everyone contributes, from writing code to running vulnerability scans.
-
-## Responsibilities
-
-- Identify what our security needs are and develop a roadmap to improve and ensure the security of our product.
-- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes.
-- Promptly respond to and address security issues reported to us by third parties.
-- Increasing our security posture by running traditional security tools such as vulnerability scanners and SAST and DAST tools.
-- Create a culture of security at Sourcegraph that empowers all of our engineers to write secure code.
+We are looking for an engineer who will proactively improve the security of our codebase, our product, our cloud, and our customers' on-premise deployments. You will be one of the early [security team](https://about.sourcegraph.com/handbook/engineering/security) hires at Sourcegraph, helping to build a world-class security team, where everyone contributes, from writing code to running vulnerability scans.  Together, we are building a world-class, secure product.
 
 ## Qualifications
 
-- Experience identifying and remediating the full life cycle of vulnerabilities, both through external packages and in code.
+- Experience identifying and remediating vulnerabilities, both in external packages and source code.
 - Broad knowledge of attack vectors and threat actors for the life cycle of on-premise and cloud applications, including triage, remediation, and continuous improvement.
 - Ability to understand, debug, and write Go and TypeScript to fix security issues.
 - Ability to secure cloud applications that use our tech stack: Kubernetes, Docker, Google Cloud Platform.
@@ -23,10 +15,9 @@ We are looking for an engineer who is passionate about security, and wants to pr
 
 ## Nice-to-haves
 
-- Published blog posts and/or tech talks about your work.
 - Experience working on high-performing teams, preferably tech startups.
 - Experience improving the security posture of a small team, and helping that team carry the baton themselves.
-- Experience working in an ops environment.
+- Published blog posts and/or tech talks about your work.
 
 ## Learn more about us
 
