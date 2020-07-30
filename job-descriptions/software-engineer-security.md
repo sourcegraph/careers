@@ -2,28 +2,17 @@
 
 # Software Engineer - Security
 
-We are looking for an engineer who specializes in security to help us proactively secure our product. This includes the security of Sourcegraph Cloud as well as making it easy for our customers to secure their own private Sourcegraph instances that they deploy on-premise. You will be one of the first security hires at Sourcegraph and will have the opportunity to build a world-class security culture and team from the ground up.
-
-## Responsibilities
-
-- Identify what our security needs are and develop a roadmap to improve and ensure the security of our product.
-- Execute on that roadmap through a mix of directly contributing to our codebase (i.e., Go, TypeScript, Kubernetes, Docker, Google Cloud Platform), and helping other engineers on our team make the necessary changes. You should expect that at least 75% of your effort will be direct contributions to start.
-- Promptly respond to and address security issues reported to us by third parties.
-- Create a culture of security at Sourcegraph that empowers all of our engineers to write secure code.
+We are looking for an engineer who will proactively improve the security of our codebase, our product, our cloud, and our customers' on-premise deployments. You will be one of the early [security team](https://about.sourcegraph.com/handbook/engineering/security) hires at Sourcegraph, where everyone contributes to our shared goals, from writing code to running vulnerability scans. Together, we will collaborate to build a world-class security culture and product.
 
 ## Qualifications
 
-- Broad knowledge of possible attack vectors for on-premise and cloud applications, like Sourcegraph, and an understanding of how to eliminate and/or mitigate those security risks. This knowledge generally comes from having many years of experience in the domain of security.
-- Ability to define, plan, and prioritize security work that needs to be done (and then go do that work).
-- Ability to understand, debug, and write Go and TypeScript to fix security issues.
-- Ability to secure cloud applications that use our tech stack: Kuberentes, Docker, Google Cloud Platform.
-- Ability to communicate clearly and empathetically, especially in writing and documentation.
+We have a lot of work ahead of us so we are looking for a wide range of skills and skill levels. If you think you would be able to contribute to our team, we would welcome your application.
 
-## Nice-to-haves
+Regardless of your skills or skill level, we expect a few things from all teammates:
 
-- Experience leading security teams (as a people manager or as a technical leader).
-- Published blog posts and/or tech talks about your work.
-- Experience working on high-performing teams, preferably tech startups.
+- You are [high agency](https://twitter.com/shreyas/status/1276956836856393728).
+- You communicate effectively in writing and documentation.
+- You directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP).
 
 ## Learn more about us
 
