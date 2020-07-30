@@ -8,7 +8,11 @@ We are looking for an engineer who will proactively improve the security of our 
 
 We have a lot of work ahead of us so we are looking for a wide range of skills and skill levels. If you think you would be able to contribute to our team, we would welcome your application.
 
-Regardless of your skills or skill level, we expect all teammates to be [high agency](https://twitter.com/shreyas/status/1276956836856393728) and able to communicate effectively in writing and documentation. We will be looking for evidence of both in your application and throughout our hiring process.
+Regardless of your skills or skill level, we expect a few things from all teammates:
+
+- You are [high agency](https://twitter.com/shreyas/status/1276956836856393728).
+- You communicate effectively in writing and documentation.
+- You directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP).
 
 ## Learn more about us
 
