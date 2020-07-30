@@ -2,22 +2,13 @@
 
 # Software Engineer - Security
 
-We are looking for an engineer who will proactively improve the security of our codebase, our product, our cloud, and our customers' on-premise deployments. You will be one of the early [security team](https://about.sourcegraph.com/handbook/engineering/security) hires at Sourcegraph, helping to build a world-class security team, where everyone contributes, from writing code to running vulnerability scans.  Together, we are building a world-class, secure product.
+We are looking for an engineer who will proactively improve the security of our codebase, our product, our cloud, and our customers' on-premise deployments. You will be one of the early [security team](https://about.sourcegraph.com/handbook/engineering/security) hires at Sourcegraph, where everyone contributes to our shared goals, from writing code to running vulnerability scans. Together, we will collaborate to build a world-class security culture and product.
 
 ## Qualifications
 
-- Experience identifying and remediating vulnerabilities, both in external packages and source code.
-- Broad knowledge of attack vectors and threat actors for the life cycle of on-premise and cloud applications, including triage, remediation, and continuous improvement.
-- Ability to understand, debug, and write Go and TypeScript to fix security issues.
-- Ability to secure cloud applications that use our tech stack: Kubernetes, Docker, Google Cloud Platform.
-- Ability to define, plan, and prioritize security work that needs to be done (and then go do that work).
-- Ability to communicate clearly and empathetically, especially in writing and documentation.
+We have a lot of work ahead of us so we are looking for a wide range of skills and skill levels. If you think you would be able to contribute to our team, we would welcome your application.
 
-## Nice-to-haves
-
-- Experience working on high-performing teams, preferably tech startups.
-- Experience improving the security posture of a small team, and helping that team carry the baton themselves.
-- Published blog posts and/or tech talks about your work.
+Regardless of your skills or skill level, we expect all teammates to be [high agency](https://twitter.com/shreyas/status/1276956836856393728) and able to communicate effectively in writing and documentation. We will be looking for evidence of both in your application and throughout our hiring process.
 
 ## Learn more about us
 
