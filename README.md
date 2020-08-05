@@ -31,6 +31,7 @@ We're hiring! Check out our open positions:
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
 
 ### Operations, finance, and legal
+
 - [Sales Strategy & Operations Analyst or Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
 - [Senior Commercial Counsel](https://github.com/sourcegraph/careers/blob/master/job-descriptions/senior-commercial-counsel.md)
