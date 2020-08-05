@@ -1,8 +1,10 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Sales Strategy & Operations Analyst
+# Sales Strategy & Operations Analyst or Manager
 
 We are looking for the first hire on our go-to-market/sales operations team, and the second on our broader business operations team. You will enable and help our GTM teams sell to and support our customers better and faster. You will own sales forecasting and planning, formulation and management of sales and customer engineering incentive programs, collection and analysis of go-to-market metrics, pipeline and territory assignment, and most importantly, helping define sales and customer engineering strategy.
+
+We are open to both Analyst and Manager-level hires for this first role.
 
 Our team and our sales are growing fast—we’ve proven strong product-market fit, with wall-to-wall usage, Net Promoter Scores above 60, and tens of thousands of paid daily active users at some of the world’s premier development teams (Uber, Yelp, Lyft, SoFi, Quantcast, and many more).
 

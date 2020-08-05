@@ -20,7 +20,7 @@ We're hiring! Check out our open positions:
 
 ### Sales
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
-- [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
+- [Sales Strategy & Operations Analyst or Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 
 ### Marketing
 - [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
@@ -29,7 +29,7 @@ We're hiring! Check out our open positions:
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
 
 ### Operations, finance, and legal
-- [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
+- [Sales Strategy & Operations Analyst or Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 - [Financial Planning & Analysis Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/financial-planning-analysis.md)
 - [Contract Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/contract-manager.md)
 
