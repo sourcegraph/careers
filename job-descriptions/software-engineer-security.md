@@ -6,12 +6,12 @@ We are looking for an engineer who will proactively improve the security of our 
 
 ## Qualifications
 - Experience developing software as an engineer (i.e., writing code and contributing directly to applications)
-- Experience running security tools / vunlnerbility scans
+- Experience running security tools / vulnerability scans
 - Experience measuring, monitoring, and analyzing software vulnerabilities
 - Experience working in a startup environment
-- You are [high agency](https://twitter.com/shreyas/status/1276956836856393728).
-- You communicate effectively in writing and documentation.
-- You able to directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP).
+- You are [high agency](https://twitter.com/shreyas/status/1276956836856393728)
+- You communicate effectively in writing and documentation
+- You able to directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP)
 
 ## Learn more about us
 
