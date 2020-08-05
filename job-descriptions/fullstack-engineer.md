@@ -11,7 +11,7 @@ We are looking for a full stack engineer who has strong fundamentals in good sof
 * Strong working knowledge with API design and architecture.
 * Skilled at building and testing end-to-end applications (e.g., unit testing, integration and e2e testing).
 * Good knowledge of Git in particular and other version control systems in general.
-* Single page applications or progressive web apps and Web APIs.
+* Experience building single page applications or progressive web apps and Web APIs.
 * Understanding of core web technologies (HTTP, HTML, CSS, Javascript)
 * Strong experience with at least one web framework such as React, Angular, Polymer, Closure or Backbone.
 * Strong experience in at least one server side language such as Java, Python, PHP, Ruby.
