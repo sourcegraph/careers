@@ -1,8 +1,8 @@
 ![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
 
-# Contract manager
+# Senior Commercial Counsel
 
-We are looking for the first hire on the Legal team. You will be responsible for managing the commercial contract negotiation and review process for a wide range of contracts (software licensing and services, data processing, non-disclosure, and more) to support our sales and partnership efforts, helping our people ops team maintain employment and consulting agreements, and establishing the foundations of our internal legal team and processes.
+We are looking for the first hire on the Legal team. You will be responsible for managing the commercial contract negotiation and review process for a wide range of contracts (software licensing and services, data processing, non-disclosure, and more) to support our sales and partnership efforts. You will also be responsible for managing our relationships with outside counsel, helping our people ops team maintain employment and consulting agreements, and establishing the foundations of our internal legal team and processes.
 
 ## Responsibilities
 
@@ -11,21 +11,25 @@ We are looking for the first hire on the Legal team. You will be responsible for
 - Go through a week-long training program on our product, our value propositions, our customers, our team, and our processes.
 - Dive deep into our existing contracts and drafting, reviewing, and negotiation processes.
 - Meet our external law firm team and each of our internal organization leads.
-- Take ownership of our internal contract drafting and negotiating processes.
-- Run an evaluation of our contracts, templates, and processes and propose a recommendation for improvement.
+- Become involved in our internal contract drafting and negotiating processes.
 
 ### In the first 90 days you will...
 
-- Evaluate and update all of our template contracts, and establish guidelines and a process for customer contract negotiations.
-  - Work closely with and become a partner to our sales and customer engineering teams.
-- Complete a risk assessment of our existing contracts.
-- Be deeply involved if/when any strategic legal discussions arise, including marketing and distribution partnerships, fundraising, M&A, and more.
+- Take full ownership of our internal contract drafting and negotiating processes.
+- Run an evaluation of our contracts, templates, and processes and propose recommendations for improvement.
+- Begin a risk assessment of our existing contracts.
 - Take on at least one strategic initiative to improve our legal systems and processes.
+
+### In the first year you will...
+
+- Update and maintain our template contracts, and establish guidelines and a process for commercial contract negotiations.
+  - Work closely with and become a partner to our sales and customer engineering teams.
+- Be deeply involved if/when any strategic legal discussions arise, including marketing and distribution partnerships, fundraising, M&A, and more.
 
 ## Qualifications
 
 - An excitement for software development and [our mission to make it so that everyone can code](https://about.sourcegraph.com/company/strategy) (no training as an Engineer required).
-- Minimum of 5 years of contracts drafting, reviewing, and negotiating experience at a software company or in service to software companies at a law firm.
+- Minimum of 5 years of contracts drafting, reviewing, and negotiating experience at a startup software company or in service to startup software companies at a law firm.
 - JD required.
 - Expertise or experience in a wide variety of contracts, covering software licensing and services, data processing, non-disclosure, employment, consulting, partnership and marketing, and more.
 - Enthusiasm for building a new team from scratch, and working on challenging open-ended problems.
