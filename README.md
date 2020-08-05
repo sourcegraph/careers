@@ -26,10 +26,6 @@ We're hiring! Check out our open positions:
 - [Account Executive](https://github.com/sourcegraph/careers/blob/master/job-descriptions/account-executive.md)
 - [Sales Strategy & Operations Analyst](https://github.com/sourcegraph/careers/blob/master/job-descriptions/gtm-sales-operations.md)
 
-### Marketing
-
-- [Developer Advocate](https://github.com/sourcegraph/careers/blob/master/job-descriptions/developer-advocate.md)
-
 ### Customer engineering
 
 - [Customer Engineer](https://github.com/sourcegraph/careers/blob/master/job-descriptions/customer-engineer.md)
