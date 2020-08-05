@@ -5,14 +5,13 @@
 We are looking for an engineer who will proactively improve the security of our codebase, our product, our cloud, and our customers' on-premise deployments. You will be one of the early [security team](https://about.sourcegraph.com/handbook/engineering/security) hires at Sourcegraph, where everyone contributes to our shared goals, from writing code to running vulnerability scans. Together, we will collaborate to build a world-class security culture and product.
 
 ## Qualifications
-
-We have a lot of work ahead of us so we are looking for a wide range of skills and skill levels. If you think you would be able to contribute to our team, we would welcome your application.
-
-Regardless of your skills or skill level, we expect a few things from all teammates:
-
+- Experience developing software as an engineer (i.e., writing code and contributing directly to applications)
+- Experience running security tools / vunlnerbility scans
+- Experience measuring, monitoring, and analyzing software vulnerabilities
+- Experience working in a startup environment
 - You are [high agency](https://twitter.com/shreyas/status/1276956836856393728).
 - You communicate effectively in writing and documentation.
-- You directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP).
+- You able to directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP).
 
 ## Learn more about us
 
