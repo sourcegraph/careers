@@ -7,6 +7,7 @@ Sourcegraph is seeking an engineer that thrives on owning big problems across do
 ## Qualifications
 
 We are looking for a full stack engineer who has strong fundamentals in good software development techniques, design patterns and best practices. In your career you have worked with and refactored existing code bases. You are both productive and pragmatic because you believe software is only useful if it is used. Collaborating with small high performing teams, you have built and deployed production-ready software that delivers value to customers.
+
 * Strong working knowledge with API design and architecture.
 * Skilled at building and testing end-to-end applications (e.g., unit testing, integration and e2e testing).
 * Good knowledge of Git in particular and other version control systems in general.
