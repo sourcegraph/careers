@@ -11,7 +11,7 @@ We are looking for an engineer who will proactively improve the security of our 
 - Experience working in a startup environment
 - You are [high agency](https://twitter.com/shreyas/status/1276956836856393728)
 - You communicate effectively in writing and documentation
-- You able to directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP)
+- You are able to directly contribute to our codebase and infrastructure (Go, TypeScript, Kubernetes, GCP)
 
 ## Learn more about us
 
