@@ -19,7 +19,8 @@ We're hiring! Check out our open positions:
 
 ### Product
 
-- [Product Manager](https://github.com/sourcegraph/careers/blob/master/job-descriptions/product-manager.md)
+- [Product Manager](https://about.sourcegraph.com/handbook/product/roles/product_manager.md)
+- [Technical Writer](https://about.sourcegraph.com/handbook/product/roles/technical_writer.md)
 
 ### Sales
 
