@@ -2,4 +2,4 @@
 
 # Product Manager
 
-Learn more at https://about.sourcegraph.com/handbook/product/roles/product_manager.md
+Learn more at https://about.sourcegraph.com/handbook/product/roles/product_manager
