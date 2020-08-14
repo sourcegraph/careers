@@ -11,7 +11,7 @@ We are looking for an experienced engineering leader for our [web team](https://
 - Experience prioritizing work, setting team goals, and being responsible for the output of a team.
 - Experience building web applications and/or browser extensions.
 - Experience managing teams building web applications and/or browser extensions.
-- Is up to date on current web development technologies (examples Node, React, etc.)
+- Up-to-date knowledge of current web development technologies and frameworks (examples: TypeScript/ES6, Web Workers, React, Jest, etc.)
 
 ## Nice-to-haves
 
