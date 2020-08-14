@@ -2,17 +2,22 @@
 
 # Engineering Manager - Web
 
-We are looking for an experienced engineering leader for our [web team](https://about.sourcegraph.com/handbook/engineering/web).
+We are looking for an experienced engineering leader for our [web team](https://about.sourcegraph.com/handbook/engineering/web). This person will facilitate all web development for Sourcegraph and be responsible driving the team towards intended growth mentioned in the handbook (grow the team until it's large enough to split into two teams, web infrastructure, and extensions and integrations).
 
 ## Qualifications
 
-- 2 years of experience managing a team of software engineers.
-- 2 years of experience coding web applications and/or browser extensions.
+- 2+ years of experience directly managing at least 3 full-time software engineers.
+- Experience conducting 1:1s and challenging engineers to grow in their careers.
+- Experience prioritizing work, setting team goals, and being responsible for the output of a team.
+- Experience building web applications and/or browser extensions.
+- Experience managing teams building web applications and/or browser extensions.
+- Up-to-date knowledge of current web development technologies and frameworks (examples: TypeScript/ES6, Web Workers, React, Jest, etc.)
 
 ## Nice-to-haves
 
 - A network of excellent software engineers who would be interested to work with you again at Sourcegraph.
 - Public samples of your work (e.g., blog posts, tech talks, open source projects).
+- Experience creating developer tools or working at companies that are creating developer tools.
 
 ## Learn more about us
 
