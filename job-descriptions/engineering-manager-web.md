@@ -2,7 +2,7 @@
 
 # Engineering Manager - Web
 
-We are looking for an experienced engineering leader for our [web team](https://about.sourcegraph.com/handbook/engineering/web). This person will facilatate all web development for Sourcegrap and be responsible driving the team towards intended growth mentioned in the handbook (grow the team until it's large enough to split into two teams, web infrastructure, and extensions and integrations).
+We are looking for an experienced engineering leader for our [web team](https://about.sourcegraph.com/handbook/engineering/web). This person will facilitate all web development for Sourcegraph and be responsible driving the team towards intended growth mentioned in the handbook (grow the team until it's large enough to split into two teams, web infrastructure, and extensions and integrations).
 
 ## Qualifications
 
