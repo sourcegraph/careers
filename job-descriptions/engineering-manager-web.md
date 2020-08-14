@@ -15,7 +15,7 @@ We are looking for an experienced engineering leader for our [web team](https://
 
 - A network of excellent software engineers who would be interested to work with you again at Sourcegraph.
 - Public samples of your work (e.g., blog posts, tech talks, open source projects).
-- Experience creating or worked at companies that are creating developer tools.
+- Experience creating developer tools or working at companies that are creating developer tools.
 
 ## Learn more about us
 
