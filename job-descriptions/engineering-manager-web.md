@@ -7,7 +7,8 @@ We are looking for an experienced engineering leader for our [web team](https://
 ## Qualifications
 
 - 2+ years of experience directly managing at least 3 full-time software engineers.
-- Experience goal setting, prioritizating work for team, and conducting 1:1s. 
+- Experience conducting 1:1s and challenging engineers to grow in their careers.
+- Experience prioritizing work, setting team goals, and being responsible for the output of a team.
 - Experience developing and managing development teams for web applications and/or browser extensions.
 - Is up to date on current web development technologies (examples Node, React, etc.)
 
