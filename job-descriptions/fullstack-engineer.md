@@ -20,7 +20,7 @@ We are looking for a full stack engineer who has strong fundamentals in good sof
 
 ## Nice-to-haves
 
-* Direct experience with any one of these technologies: ES6+, Go, GraphQL, Typescript, Docker, Kubernetes.
+* Direct experience with any one of these technologies: ES6+, Go, GraphQL, TypeScript, Docker, Kubernetes.
 * Experience working on small high-performing teams, preferably tech startups.
 * Comfortable using a cloud computing platform such as AWS, GCP or Azure.
 * Published blog posts and/or tech talks about your work.
