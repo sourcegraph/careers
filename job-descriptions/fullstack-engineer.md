@@ -14,7 +14,7 @@ We are looking for a full stack engineer who has strong fundamentals in good sof
 * Experience building single page applications or progressive web apps and Web APIs.
 * Understanding of core web technologies (HTTP, HTML, CSS, JavaScript)
 * Strong experience with at least one web framework such as React, Angular, Vue.js, Polymer or Closure.
-* Strong experience in at least one server side language such as Java, Python, PHP, Ruby.
+* Strong experience in at least one server side language such as Go, Java, Python, PHP, Ruby.
 * Experience in SQL, Postgres or other transactional, relational databases. Able to model and design schemas.
 * Have worked with containers in production environments.
 
