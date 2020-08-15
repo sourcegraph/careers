@@ -34,17 +34,17 @@ We provide [competitive compensation](https://about.sourcegraph.com/handbook/peo
 
 Learn more about what it is like to work at Sourcegraph by reading [our handbook](https://about.sourcegraph.com/handbook/).
 
-## Interview process (TODO: We are still working on this part for full stack interview process)
+## Interview process
 
 1. You [apply here](TODO).
 1. We set up a 30-minute call to learn more about what you are looking for, tell you about Sourcegraph, and answer any questions that you have.
+1. We set up a 60-minute call with the hiring manager to discuss your technical experience including past work and accomplishments.
 1. We evaluate relevant technical skills that you have via an asynchronous coding exercise.
    - We will give you an overview of the exercise in advance.
    - We will send you the details at a time of your choosing and you will have up to 2 hours to work on the exercise.
    - You will be able to use your own development environment and lookup documentation on the internet.
-1. We schedule 4 hours of remote interviews over video chat across multiple days.
-   - **Architecture:** We give you an open problem statement and you walk us through how you would solve the problem.
-   - **Technical experience:** We ask you about your past work and accomplishments.
+1. We schedule 3 hours of remote interviews over video chat across multiple days.
+   - **Technical design discussion:** We review your coding exercise and have you walk us through how you would solve the problem.
    - **Team collaboration:** We ask you about how you work and communicate in a team setting, and how you handle tricky situations.
    - **CEO/CTO:** We ask you about what motivates you to do your best work, and we tell you more about the vision for the company.
 1. We check your references.
