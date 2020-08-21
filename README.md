@@ -11,7 +11,7 @@ We're hiring! Check out our open positions:
 ### Engineering
 
 Open engineering roles are documented in our handbook here:
-https://about.sourcegraph.com/handbook/engineering/hiring/index.md#open-roles
+https://about.sourcegraph.com/handbook/engineering/hiring/index.md#open-positions
 
 ### Product
 
