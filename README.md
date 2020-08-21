@@ -10,12 +10,8 @@ We're hiring! Check out our open positions:
 
 ### Engineering
 
-- [Engineering Manager - Web](job-descriptions/engineering-manager-web.md)
-- [Software Engineer - Frontend](job-descriptions/software-engineer-frontend.md)
-- [Software Engineer - Backend](job-descriptions/software-engineer-backend.md)
-- [Software Engineer - Code intelligence](job-descriptions/software-engineer-code-intelligence.md)
-- [Software Engineer - Distribution](job-descriptions/software-engineer-distribution.md)
-- [Software Engineer - Security](job-descriptions/software-engineer-security.md)
+Open engineering roles are documented in our handbook here:
+https://about.sourcegraph.com/handbook/engineering/hiring/index.md#open-roles
 
 ### Product
 
