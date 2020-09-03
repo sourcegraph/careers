@@ -6,12 +6,23 @@ We are looking for an engineer and operator to build and improve our internal to
 
 ## Responsibilities
 
-You will be a key part of improving a wide range of internal (and external) systems and processes. Example projects include:
+You will help accelerate our team by owning a wide range of internal systems and processes. Example projects include:
 
-- Evaluating and implementing single sign-on software to make onboarding smoother.
-- Building and deploying internal tools/bots for our engineering and analytics teams.
-- Coordinating implementation work with outside contractors for complex systems (e.g. Salesforce).
-- Connecting and automating parts of our user journey (e.g. connecting our product to our billing systems; connecting user satisfaction surveys to our marketing tools; automating our quote-to-cash for our sales team).
+### Evaluating and implementing single sign-on software to make onboarding smoother.
+
+Today, we maintain a series of lists of tools that new hires need to be added to. This list is split across a half-dozen internal [handbook pages](https://about.sourcegraph.com/handbook/people-ops/onboarding) and project boards. Team channels are full of new teammates asking questions like "can someone add me to HubSpot?", and when someone leaves, the whole manual process is repeated in reverse.
+
+### Building and deploying internal tools and bots.
+
+You will help build and deploy in-house tools that we rely on. These cover a wide ground—e.g. our [docs site generator](https://github.com/sourcegraph/docsite), Slack bots to notify our Customer Engineering team when a customer's usage has surpassed their license or when their license is about to expire, scripts to automatically [generate monthly tracking issues](https://github.com/sourcegraph/sourcegraph/labels/tracking), GitHub bots for enforcing CLA compliance, and more.
+
+### Coordinating software implementation with outside contractors.
+
+We use a number of enterprise-grade SaaS tools internally, including our CRM (Salesforce), marketing (HubSpot), and ERP software (Xero). Implementation and management of these is an ongoing task, and we are facing several large migrations in the coming months. You would help in all phases, including overseeing outside contractors where needed.
+
+### Connecting and automating parts of our user journey.
+
+You will help develop connections between the systems that our users interact with. For example, connecting our product to our billing systems so customers can renew automatically, connecting our user satisfaction surveys to our marketing tools, and [automating the quote-to-cash experience](https://about.sourcegraph.com/handbook/sales/sales_to_ce_handover#finance-and-operations-responsibilities) for our sales team.
 
 ## Qualifications
 
