@@ -15,8 +15,7 @@ https://about.sourcegraph.com/handbook/engineering/hiring
 
 ### Product
 
-- [Product Manager](https://about.sourcegraph.com/handbook/product/roles/product_manager)
-- [Technical Writer](https://about.sourcegraph.com/handbook/product/roles/technical_writer)
+Open product roles are documented in our handbook here: https://about.sourcegraph.com/handbook/product#roles
 
 ### Sales
 
