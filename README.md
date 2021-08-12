@@ -1,4 +1,4 @@
-![logo](https://sourcegraph.com/.assets/img/sourcegraph-light-head-logo.svg)
+![logo](assets/sourcegraph-logo.svg)
 
 # Careers
 
